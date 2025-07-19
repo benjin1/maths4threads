@@ -2,8 +2,8 @@ import random
 import json
 from sympy import symbols, expand, Mul, Add
 from sympy.abc import x
-
-
+import mathgenerator
+from collections import defaultdict
 def generate_advanced_algebra_questions(n):
 
 
@@ -68,4 +68,41 @@ def generate_advanced_algebra_questions(n):
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(questions, f, indent=2, ensure_ascii=False)
 
-generate_advanced_algebra_questions(250)
+# Split into categories
+genlist = mathgenerator.getGenList()
+listofallsubjects = defaultdict(list)
+geometryid, algebraid,  = [],[]
+for topic in genlist:
+    
+    subject = topic[4]
+    if subject not in listofallsubjects:
+        listofallsubjects[subject] = []
+    else:
+        listofallsubjects[subject].append(topic[0])
+
+print(listofallsubjects)
+
+
+def generate_math_problems(num_problems=4000, max_id=125, output_file='math_problems.json'):
+    data = []
+
+    for _ in range(num_problems):
+        try:
+            problem_id = random.randint(0, max_id) 
+            problem, solution = mathgenerator.genById(problem_id)
+            data.append({
+                "problem": problem,
+                "solution": solution
+            })
+        except Exception as e:
+            # Handle any invalid IDs or generation errors 
+            print(f"Error with ID {problem_id}: {e}")
+            continue
+
+    with open(output_file, 'w') as f:
+        json.dump(data, f, indent=2)
+
+    print(f"Saved {len(data)} problems to {output_file}")
+
+# Call the function
+generate_math_problems()
