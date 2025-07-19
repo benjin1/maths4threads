@@ -5,6 +5,8 @@ from sympy.abc import x
 
 
 def generate_advanced_algebra_questions(n):
+
+
     # Format factorized expressions like x*(x - 1)*(x + 2) as x(x-1)(x+2)
     def format_factorized_expr(expr):
         if isinstance(expr, Mul):
@@ -20,6 +22,12 @@ def generate_advanced_algebra_questions(n):
         else:
             return str(expr).replace("**", "^")
 
+    # Format the expanded expression without * and with ^ instead of **
+    def clean_expression(expr):
+        expr_str = str(expr).replace("**", "^")
+        expr_str = expr_str.replace("*", "")
+        return expr_str
+
     # Generate a random factorized expression
     def generate_factorized_expression():
         expr = 1
@@ -34,10 +42,10 @@ def generate_advanced_algebra_questions(n):
         
         return expr
 
-    # Generate n "Expand and simplify" questions
+    # Generate 250 "Expand and simplify" questions
     questions = []
 
-    for _ in range(n):
+    for _ in range(250):
         num_terms = random.randint(2, 4)
         terms = []
 
@@ -48,15 +56,15 @@ def generate_advanced_algebra_questions(n):
 
         full_expr = sum(terms)
         question_expr = " + ".join([format_factorized_expr(term) for term in terms])
-        expanded_expr = expand(full_expr)  
+        expanded_expr = expand(full_expr)
 
         questions.append({
             "question": f"Expand and simplify {question_expr}",
-            "answer": str(expanded_expr).replace("**", "^")
+            "answer": clean_expression(expanded_expr)
         })
 
     # Save to JSON
-    output_path = "250_fully_expanded_questions.json"
+    output_path = "250_clean_expanded_questions.json"
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(questions, f, indent=2, ensure_ascii=False)
 
