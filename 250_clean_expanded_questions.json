@@ -1,0 +1,1002 @@
+[
+  {
+    "question": "Expand and simplify x(x - 5)(x + 4) + (x - 3)(x + 2)(x + 4)(x + 5) + (x - 1)(x - 5) + (x - 5)(x - 2)(x + 5)",
+    "answer": "x^4 + 10x^3 + 3x^2 - 125x - 65"
+  },
+  {
+    "question": "Expand and simplify x(x - 3)(x + 3)(x + 4)(x + 5) + x(x - 4)(x + 2)(x + 5) + (x + 2)(x + 3) + (x - 2)(x + 4)(x + 5)",
+    "answer": "x^5 + 10x^4 + 15x^3 - 91x^2 - 213x - 34"
+  },
+  {
+    "question": "Expand and simplify (x - 5)(x + 2)(x + 3) + x(x - 3)(x + 4)",
+    "answer": "2x^3 + x^2 - 31x - 30"
+  },
+  {
+    "question": "Expand and simplify (x - 4)(x + 2)(x + 3)(x + 4) + x(x + 1)(x - 4)(x - 2) + x(x + 1)(x - 1)(x + 4)",
+    "answer": "3x^4 + 4x^3 - 9x^2 - 76x - 96"
+  },
+  {
+    "question": "Expand and simplify x(x - 1)(x - 2)(x + 2) + x(x - 1)(x - 3)(x + 2)(x + 4) + x(x - 1)(x - 5)(x - 4) + x(x - 3)(x + 3)(x + 5)",
+    "answer": "x^5 + 5x^4 - 19x^3 + 2x^2 - 37x"
+  },
+  {
+    "question": "Expand and simplify x(x + 1)(x - 5)(x - 4)(x + 3) + x(x - 2)(x + 2) + x(x + 1)(x - 1)(x - 4)",
+    "answer": "x^5 - 4x^4 - 16x^3 + 52x^2 + 60x"
+  },
+  {
+    "question": "Expand and simplify (x - 1)(x - 3)(x + 3)(x + 4) + (x - 4)(x - 3)(x + 3) + (x + 1)(x - 4)(x - 3)",
+    "answer": "x^4 + 5x^3 - 23x^2 - 31x + 84"
+  },
+  {
+    "question": "Expand and simplify x(x - 1)(x - 5)(x - 3)(x + 5) + (x - 5)(x + 2) + x(x - 5)(x + 4)(x + 5)",
+    "answer": "x^5 - 3x^4 - 18x^3 + 76x^2 - 178x - 10"
+  },
+  {
+    "question": "Expand and simplify (x - 4)(x + 4)(x + 5) + (x - 1)(x - 3)(x + 4)(x + 5)",
+    "answer": "x^4 + 6x^3 - 8x^2 - 69x - 20"
+  },
+  {
+    "question": "Expand and simplify (x + 1)(x - 5)(x - 2)(x + 4) + (x - 1)(x - 2) + x(x - 3)(x + 3)",
+    "answer": "x^4 - x^3 - 20x^2 + 10x + 42"
+  },
+  {
+    "question": "Expand and simplify (x - 1)(x + 3)(x + 4) + (x - 3)(x + 2)(x + 5)",
+    "answer": "2x^3 + 10x^2 - 6x - 42"
+  },
+  {
+    "question": "Expand and simplify x(x + 1)(x - 4)(x + 2)(x + 3) + x(x - 5)(x + 3)(x + 4) + (x + 2)(x + 5)",
+    "answer": "x^5 + 3x^4 - 11x^3 - 60x^2 - 77x + 10"
+  },
+  {
+    "question": "Expand and simplify (x - 3)(x + 4) + x(x - 5)(x + 5) + x(x - 4)(x - 2)(x + 4)(x + 5)",
+    "answer": "x^5 + 3x^4 - 25x^3 - 47x^2 + 136x - 12"
+  },
+  {
+    "question": "Expand and simplify (x - 5)(x - 4)(x + 5) + (x - 1)(x + 2)(x + 3)(x + 4) + (x - 3)(x - 2) + (x - 1)(x - 5)(x + 4)(x + 5)",
+    "answer": "2x^4 + 12x^3 - 15x^2 - 107x + 182"
+  },
+  {
+    "question": "Expand and simplify x(x + 1)(x - 3)(x - 2) + x(x + 1)(x - 1)(x - 5)(x + 3) + x(x - 1)(x - 2)(x + 4)(x + 5) + (x + 2)(x + 5)",
+    "answer": "2x^5 + 5x^4 - 25x^3 - 38x^2 + 68x + 10"
+  },
+  {
+    "question": "Expand and simplify (x - 1)(x + 3)(x + 4) + x(x + 1)(x - 3)",
+    "answer": "2x^3 + 4x^2 + 2x - 12"
+  },
+  {
+    "question": "Expand and simplify x(x + 1)(x - 3) + (x + 3)(x + 4)",
+    "answer": "x^3 - x^2 + 4x + 12"
+  },
+  {
+    "question": "Expand and simplify (x + 1)(x - 1) + (x - 4)(x - 2) + (x + 1)(x - 5)(x - 4)(x + 5) + (x + 1)(x - 5)(x + 2)",
+    "answer": "x^4 - 2x^3 - 29x^2 + 56x + 97"
+  },
+  {
+    "question": "Expand and simplify x(x - 5)(x + 5) + x(x + 2)(x + 4) + (x - 1)(x - 5)(x + 2)(x + 5) + x(x + 1)(x - 3)(x + 3)",
+    "answer": "2x^4 + 4x^3 - 30x^2 - 51x + 50"
+  },
+  {
+    "question": "Expand and simplify (x + 2)(x + 3) + x(x - 4)(x + 2)(x + 3)(x + 4) + (x - 4)(x - 3)(x + 2)(x + 3) + x(x + 1)(x + 2)",
+    "answer": "x^5 + 6x^4 - 11x^3 - 93x^2 - 71x + 78"
+  },
+  {
+    "question": "Expand and simplify x(x + 1)(x - 4)(x - 2)(x + 5) + x(x + 1)(x + 2)(x + 5) + x(x - 3)(x + 3)",
+    "answer": "x^5 + x^4 - 14x^3 + 35x^2 + 41x"
+  },
+  {
+    "question": "Expand and simplify x(x + 4)(x + 5) + x(x + 1)(x - 1)(x + 5) + (x + 1)(x - 3)(x + 2)(x + 4)",
+    "answer": "2x^4 + 10x^3 + x^2 - 19x - 24"
+  },
+  {
+    "question": "Expand and simplify x(x - 1)(x - 5) + (x - 1)(x - 3)(x + 4)(x + 5) + x(x + 1)(x - 2)(x + 2)(x + 3) + (x - 4)(x - 3)(x - 2)(x + 5)",
+    "answer": "x^5 + 6x^4 + x^3 - 54x^2 + 46x - 60"
+  },
+  {
+    "question": "Expand and simplify x(x + 1)(x - 1)(x - 5)(x + 2) + (x + 2)(x + 3)(x + 4)(x + 5)",
+    "answer": "x^5 - 2x^4 + 3x^3 + 74x^2 + 164x + 120"
+  },
+  {
+    "question": "Expand and simplify (x - 5)(x - 3) + x(x - 5)(x - 4)(x - 3) + x(x - 5)(x - 3)",
+    "answer": "x^4 - 11x^3 + 40x^2 - 53x + 15"
+  },
+  {
+    "question": "Expand and simplify (x - 2)(x + 2)(x + 3)(x + 5) + (x - 1)(x - 3)(x - 2)(x + 3)",
+    "answer": "2x^4 + 5x^3 + 4x^2 - 5x - 78"
+  },
+  {
+    "question": "Expand and simplify (x - 5)(x - 4)(x - 3) + (x - 3)(x + 2)(x + 5)",
+    "answer": "2x^3 - 8x^2 + 36x - 90"
+  },
+  {
+    "question": "Expand and simplify x(x - 5)(x + 3)(x + 4) + (x - 4)(x + 4) + x(x - 5)(x - 4)(x - 3)",
+    "answer": "2x^4 - 10x^3 + 25x^2 - 120x - 16"
+  },
+  {
+    "question": "Expand and simplify (x - 5)(x + 2) + x(x - 1)(x + 2)(x + 5) + (x + 1)(x - 1)(x - 4)",
+    "answer": "x^4 + 7x^3 - 14x - 6"
+  },
+  {
+    "question": "Expand and simplify (x - 3)(x - 2) + (x - 1)(x - 4)(x + 2)(x + 5)",
+    "answer": "x^4 + 2x^3 - 20x^2 - 27x + 46"
+  },
+  {
+    "question": "Expand and simplify (x + 2)(x + 5) + x(x - 5)(x - 4)(x + 3)",
+    "answer": "x^4 - 6x^3 - 6x^2 + 67x + 10"
+  },
+  {
+    "question": "Expand and simplify (x + 2)(x + 4) + x(x + 1)(x - 5)(x + 3) + x(x + 1)(x - 1)(x - 4)",
+    "answer": "2x^4 - 5x^3 - 17x^2 - 5x + 8"
+  },
+  {
+    "question": "Expand and simplify (x - 5)(x + 3) + (x + 1)(x - 1)(x - 5)(x + 5) + x(x + 1)(x + 3)",
+    "answer": "x^4 + x^3 - 21x^2 + x + 10"
+  },
+  {
+    "question": "Expand and simplify x(x + 1)(x - 4)(x - 3)(x + 3) + (x + 1)(x - 1)(x + 2)(x + 3)",
+    "answer": "x^5 - 2x^4 - 8x^3 + 32x^2 + 31x - 6"
+  },
+  {
+    "question": "Expand and simplify (x + 1)(x - 4)(x - 3)(x + 2) + (x - 5)(x + 5)",
+    "answer": "x^4 - 4x^3 - 6x^2 + 22x - 1"
+  },
+  {
+    "question": "Expand and simplify (x + 1)(x - 3)(x + 5) + x(x - 1)(x - 5)(x + 2) + x(x - 5)(x - 2)(x + 2)",
+    "answer": "2x^4 - 8x^3 - 8x^2 + 17x - 15"
+  },
+  {
+    "question": "Expand and simplify x(x - 5)(x - 2) + (x + 3)(x + 4)(x + 5) + (x + 3)(x + 5) + (x + 1)(x + 2)",
+    "answer": "2x^3 + 7x^2 + 68x + 77"
+  },
+  {
+    "question": "Expand and simplify x(x - 5)(x + 3) + (x + 1)(x + 4) + x(x + 1)(x - 1)(x + 5)",
+    "answer": "x^4 + 6x^3 - 2x^2 - 15x + 4"
+  },
+  {
+    "question": "Expand and simplify (x - 1)(x - 3)(x + 2) + (x - 1)(x - 4)(x - 2)(x + 2) + x(x - 5)(x - 4)(x - 2)(x + 2)",
+    "answer": "x^5 - 8x^4 + 12x^3 + 34x^2 - 65x - 10"
+  },
+  {
+    "question": "Expand and simplify (x - 1)(x - 3) + x(x - 3)(x + 5) + x(x - 5)(x - 4)(x - 3) + x(x + 1)(x - 3)(x + 5)",
+    "answer": "2x^4 - 8x^3 + 37x^2 - 94x + 3"
+  },
+  {
+    "question": "Expand and simplify x(x - 5)(x - 3)(x + 3)(x + 5) + x(x - 5)(x + 4) + (x + 1)(x + 4)(x + 5)",
+    "answer": "x^5 - 32x^3 + 9x^2 + 234x + 20"
+  },
+  {
+    "question": "Expand and simplify x(x - 1)(x - 4)(x - 3) + (x - 3)(x - 2)(x + 4)",
+    "answer": "x^4 - 7x^3 + 18x^2 - 26x + 24"
+  },
+  {
+    "question": "Expand and simplify (x + 1)(x + 3) + (x - 1)(x + 2)(x + 3)(x + 5)",
+    "answer": "x^4 + 9x^3 + 22x^2 + 3x - 27"
+  },
+  {
+    "question": "Expand and simplify (x - 5)(x - 4)(x + 2) + x(x + 1)(x - 1)(x - 5)(x - 2) + x(x - 1)(x - 3)(x + 4)",
+    "answer": "x^5 - 6x^4 + 10x^3 - 13x^2 + 4x + 40"
+  },
+  {
+    "question": "Expand and simplify x(x + 1)(x - 4)(x - 3)(x + 5) + (x + 1)(x - 5)(x - 4) + (x + 1)(x - 5)(x - 4)(x - 3)",
+    "answer": "x^5 - 35x^3 + 64x^2 + 58x - 40"
+  },
+  {
+    "question": "Expand and simplify x(x + 1)(x - 5)(x + 2)(x + 4) + (x + 1)(x - 1)(x + 2)(x + 5) + (x - 3)(x + 4)(x + 5)",
+    "answer": "x^5 + 3x^4 - 13x^3 - 47x^2 - 54x - 70"
+  },
+  {
+    "question": "Expand and simplify x(x + 1)(x - 4)(x + 5) + x(x - 5)(x - 3) + (x - 4)(x + 3) + x(x - 1)(x - 3)(x - 2)",
+    "answer": "2x^4 - 3x^3 - 15x^2 - 12x - 12"
+  },
+  {
+    "question": "Expand and simplify (x + 1)(x - 1)(x - 3)(x - 2) + x(x - 5)(x - 3)(x + 5) + x(x - 4)(x + 3)(x + 5) + x(x - 3)(x + 4)",
+    "answer": "3x^4 - 3x^3 - 36x^2 + 8x - 6"
+  },
+  {
+    "question": "Expand and simplify (x - 1)(x - 2)(x + 2) + x(x + 1)(x - 1)(x - 5)(x - 4) + x(x - 1)(x - 5)(x + 4) + x(x - 5)(x + 4)",
+    "answer": "x^5 - 8x^4 + 19x^3 - 12x^2 - 24x + 4"
+  },
+  {
+    "question": "Expand and simplify x(x + 1)(x - 1)(x + 3)(x + 5) + (x - 2)(x + 3) + (x + 4)(x + 5) + x(x + 3)(x + 4)",
+    "answer": "x^5 + 8x^4 + 15x^3 + x^2 + 7x + 14"
+  },
+  {
+    "question": "Expand and simplify (x + 1)(x - 3)(x + 2) + x(x - 5)(x - 3)(x - 2)(x + 2)",
+    "answer": "x^5 - 8x^4 + 12x^3 + 32x^2 - 67x - 6"
+  },
+  {
+    "question": "Expand and simplify (x - 1)(x - 4)(x + 2)(x + 4) + x(x + 1)(x - 4)(x + 4)",
+    "answer": "2x^4 + 2x^3 - 34x^2 - 32x + 32"
+  },
+  {
+    "question": "Expand and simplify (x - 3)(x + 2) + x(x + 1)(x - 4) + (x - 4)(x + 5) + (x - 2)(x + 3)",
+    "answer": "x^3 - 3x - 32"
+  },
+  {
+    "question": "Expand and simplify (x - 1)(x - 4) + (x - 1)(x - 3)(x + 4)",
+    "answer": "x^3 + x^2 - 18x + 16"
+  },
+  {
+    "question": "Expand and simplify x(x + 2)(x + 3) + (x - 4)(x - 2) + (x + 1)(x - 5) + (x - 1)(x - 4)(x - 2)",
+    "answer": "2x^3 + 10x - 5"
+  },
+  {
+    "question": "Expand and simplify x(x + 1)(x - 4)(x + 3)(x + 4) + (x + 1)(x - 1)(x + 2)",
+    "answer": "x^5 + 4x^4 - 12x^3 - 62x^2 - 49x - 2"
+  },
+  {
+    "question": "Expand and simplify (x - 2)(x + 3) + x(x - 5)(x + 4)(x + 5) + x(x - 4)(x - 3)(x + 5)",
+    "answer": "2x^4 + 2x^3 - 47x^2 - 39x - 6"
+  },
+  {
+    "question": "Expand and simplify x(x + 1)(x - 3)(x - 2) + x(x + 1)(x - 5)(x + 5) + x(x - 1)(x - 4) + x(x - 1)(x + 2)(x + 4)(x + 5)",
+    "answer": "x^5 + 12x^4 + 25x^3 - 27x^2 - 55x"
+  },
+  {
+    "question": "Expand and simplify (x + 1)(x - 1)(x + 2)(x + 4) + x(x - 5)(x + 4)(x + 5) + (x + 1)(x + 2)(x + 3) + (x + 1)(x - 2)",
+    "answer": "2x^4 + 11x^3 - 11x^2 - 96x - 4"
+  },
+  {
+    "question": "Expand and simplify x(x - 5)(x - 3)(x + 4) + x(x + 1)(x - 1)(x - 3)(x + 4) + x(x - 5)(x - 4)(x + 3)(x + 5)",
+    "answer": "2x^5 + x^4 - 54x^3 + 7x^2 + 372x"
+  },
+  {
+    "question": "Expand and simplify x(x + 4)(x + 5) + x(x - 1)(x - 4)",
+    "answer": "2x^3 + 4x^2 + 24x"
+  },
+  {
+    "question": "Expand and simplify (x - 4)(x + 5) + (x - 4)(x - 3)(x + 4) + (x - 5)(x - 4)(x - 3)(x + 2)",
+    "answer": "x^4 - 9x^3 + 21x^2 + 19x - 92"
+  },
+  {
+    "question": "Expand and simplify (x - 5)(x - 3)(x + 2)(x + 5) + (x + 1)(x - 5)(x + 3) + (x - 3)(x + 2)(x + 5)",
+    "answer": "x^4 + x^3 - 28x^2 - 3x + 105"
+  },
+  {
+    "question": "Expand and simplify (x + 1)(x - 5)(x - 3)(x + 3) + x(x - 4)(x - 2)(x + 2)(x + 5) + (x - 5)(x - 4)",
+    "answer": "x^5 + 2x^4 - 28x^3 - 17x^2 + 107x + 65"
+  },
+  {
+    "question": "Expand and simplify (x - 5)(x - 4)(x - 2)(x + 5) + x(x + 1)(x - 3)",
+    "answer": "x^4 - 5x^3 - 19x^2 + 147x - 200"
+  },
+  {
+    "question": "Expand and simplify x(x - 1)(x + 2) + (x - 1)(x - 2)(x + 3) + x(x - 4)(x + 4)(x + 5)",
+    "answer": "x^4 + 7x^3 - 15x^2 - 89x + 6"
+  },
+  {
+    "question": "Expand and simplify (x - 1)(x - 4)(x + 3)(x + 4) + x(x - 5)(x - 3) + (x - 5)(x - 4)(x + 2)(x + 5)",
+    "answer": "2x^4 + x^3 - 60x^2 + 33x + 248"
+  },
+  {
+    "question": "Expand and simplify x(x - 3)(x + 2) + x(x - 5)(x + 2)(x + 4)",
+    "answer": "x^4 + 2x^3 - 23x^2 - 46x"
+  },
+  {
+    "question": "Expand and simplify (x - 5)(x + 2)(x + 5) + x(x - 5)(x - 3)",
+    "answer": "2x^3 - 6x^2 - 10x - 50"
+  },
+  {
+    "question": "Expand and simplify (x - 1)(x - 3)(x + 2)(x + 4) + x(x - 1)(x - 3)(x + 3)",
+    "answer": "2x^4 + x^3 - 22x^2 - 5x + 24"
+  },
+  {
+    "question": "Expand and simplify (x + 1)(x - 1)(x - 4)(x + 4) + (x - 1)(x - 4)(x + 3)",
+    "answer": "x^4 + x^3 - 19x^2 - 11x + 28"
+  },
+  {
+    "question": "Expand and simplify (x + 2)(x + 5) + (x + 1)(x - 5)(x - 2)(x + 2) + x(x + 1)(x - 1)(x - 3) + (x + 1)(x - 3)(x + 2)(x + 3)",
+    "answer": "3x^4 - 4x^3 - 16x^2 - x + 12"
+  },
+  {
+    "question": "Expand and simplify x(x - 4)(x + 2)(x + 5) + x(x - 1)(x - 5)(x - 3)(x + 4) + x(x - 1)(x - 5)(x + 3)(x + 5)",
+    "answer": "2x^5 - 2x^4 - 38x^3 + 9x^2 - 25x"
+  },
+  {
+    "question": "Expand and simplify (x - 1)(x - 2)(x + 3)(x + 5) + (x + 1)(x - 5)(x - 3)(x - 2) + (x - 4)(x - 3)(x - 2) + x(x + 1)(x - 1)(x - 2)(x + 4)",
+    "answer": "x^5 + 4x^4 - 12x^3 + 3x^2 + 6x - 24"
+  },
+  {
+    "question": "Expand and simplify x(x + 1)(x - 3)(x + 3)(x + 5) + (x - 5)(x + 2) + x(x + 2)(x + 3) + (x + 1)(x - 2)",
+    "answer": "x^5 + 6x^4 - 3x^3 - 47x^2 - 43x - 12"
+  },
+  {
+    "question": "Expand and simplify x(x + 1)(x - 3)(x + 5) + x(x - 3)(x - 2)(x + 4) + x(x - 4)(x - 3)(x - 2)(x + 2)",
+    "answer": "x^5 - 5x^4 + 10x^3 + x^2 - 39x"
+  },
+  {
+    "question": "Expand and simplify x(x - 1)(x - 2) + (x - 4)(x + 3) + (x + 1)(x - 2)(x + 5)",
+    "answer": "2x^3 + 2x^2 - 6x - 22"
+  },
+  {
+    "question": "Expand and simplify (x - 1)(x - 4)(x + 3) + x(x + 2)(x + 3)(x + 4)(x + 5) + (x + 1)(x - 4)(x + 4)",
+    "answer": "x^5 + 14x^4 + 73x^3 + 153x^2 + 93x - 4"
+  },
+  {
+    "question": "Expand and simplify (x - 4)(x + 2) + x(x + 1)(x - 4)(x + 2)(x + 4) + (x - 5)(x - 4)(x - 2)(x + 3)",
+    "answer": "x^5 + 4x^4 - 22x^3 - 42x^2 + 40x - 128"
+  },
+  {
+    "question": "Expand and simplify (x - 1)(x - 4)(x - 2)(x + 5) + (x - 1)(x - 5)(x + 3)(x + 4) + x(x + 1)(x - 1)(x + 2) + x(x + 2)(x + 3)(x + 5)",
+    "answer": "4x^4 + 11x^3 - 16x^2 + 53x + 20"
+  },
+  {
+    "question": "Expand and simplify x(x + 1)(x + 3)(x + 4) + (x - 1)(x - 4) + (x - 1)(x - 3)(x + 4)(x + 5)",
+    "answer": "2x^4 + 13x^3 + 7x^2 - 46x + 64"
+  },
+  {
+    "question": "Expand and simplify x(x - 1)(x - 5)(x - 3)(x + 5) + x(x - 1)(x - 3)(x - 2)(x + 4) + x(x - 5)(x - 4)(x - 3)(x + 3)",
+    "answer": "3x^5 - 15x^4 - 24x^3 + 219x^2 - 279x"
+  },
+  {
+    "question": "Expand and simplify x(x - 1)(x - 3)(x - 2)(x + 2) + x(x - 5)(x + 5)",
+    "answer": "x^5 - 4x^4 + 16x^2 - 37x"
+  },
+  {
+    "question": "Expand and simplify x(x - 5)(x + 3)(x + 5) + x(x - 4)(x - 2)(x + 2)(x + 5)",
+    "answer": "x^5 + 2x^4 - 21x^3 - 29x^2 + 5x"
+  },
+  {
+    "question": "Expand and simplify (x - 5)(x - 2)(x + 4) + x(x + 2)(x + 5)",
+    "answer": "2x^3 + 4x^2 - 8x + 40"
+  },
+  {
+    "question": "Expand and simplify (x - 5)(x + 2) + x(x + 1)(x - 1)(x + 3) + x(x - 5)(x - 4)(x + 4)",
+    "answer": "2x^4 - 2x^3 - 16x^2 + 74x - 10"
+  },
+  {
+    "question": "Expand and simplify x(x - 3)(x + 4) + x(x - 3)(x + 4) + x(x - 2)(x + 3)(x + 4) + (x - 1)(x + 4)",
+    "answer": "x^4 + 7x^3 + x^2 - 45x - 4"
+  },
+  {
+    "question": "Expand and simplify x(x + 1)(x + 3) + (x + 1)(x - 2)(x + 5) + x(x + 1)(x - 1)(x + 3) + (x + 1)(x - 4)(x + 2)(x + 4)",
+    "answer": "2x^4 + 8x^3 - 7x^2 - 55x - 42"
+  },
+  {
+    "question": "Expand and simplify (x + 1)(x + 2)(x + 3)(x + 4) + (x - 4)(x - 3)(x - 2)(x + 3)",
+    "answer": "2x^4 + 4x^3 + 34x^2 + 104x - 48"
+  },
+  {
+    "question": "Expand and simplify (x + 1)(x - 4)(x - 3)(x + 5) + (x + 1)(x - 4)(x + 2)(x + 4)",
+    "answer": "2x^4 + 2x^3 - 39x^2 - 11x + 28"
+  },
+  {
+    "question": "Expand and simplify (x + 4)(x + 5) + (x + 1)(x - 4)(x + 3)(x + 4) + x(x - 1)(x - 2)(x + 2)(x + 3) + x(x - 5)(x - 3)(x + 4)",
+    "answer": "x^5 + 4x^4 - 7x^3 - 37x^2 + 17x - 28"
+  },
+  {
+    "question": "Expand and simplify (x + 2)(x + 4) + (x - 4)(x + 4) + (x + 1)(x - 1)(x - 2)(x + 3) + (x - 5)(x + 2)(x + 3)",
+    "answer": "x^4 + 2x^3 - 5x^2 - 14x - 32"
+  },
+  {
+    "question": "Expand and simplify x(x + 1)(x - 3)(x + 2)(x + 3) + (x - 5)(x - 3)(x + 4)",
+    "answer": "x^5 + 3x^4 - 6x^3 - 31x^2 - 35x + 60"
+  },
+  {
+    "question": "Expand and simplify x(x - 5)(x - 3)(x + 3) + x(x + 1)(x - 3)(x + 3) + (x - 2)(x + 2)(x + 3)(x + 4)",
+    "answer": "3x^4 + 3x^3 - 10x^2 + 8x - 48"
+  },
+  {
+    "question": "Expand and simplify x(x - 1)(x - 4)(x - 2)(x + 4) + x(x - 3)(x + 3) + x(x + 1)(x - 4)(x + 4)(x + 5)",
+    "answer": "2x^5 + 3x^4 - 24x^3 - 48x^2 - 121x"
+  },
+  {
+    "question": "Expand and simplify (x - 4)(x + 2)(x + 5) + (x + 1)(x - 5)(x + 4)",
+    "answer": "2x^3 + 3x^2 - 39x - 60"
+  },
+  {
+    "question": "Expand and simplify (x + 1)(x + 2)(x + 3)(x + 5) + x(x - 1)(x - 2)(x + 5) + (x - 2)(x + 2)(x + 4) + (x + 1)(x + 2)",
+    "answer": "2x^4 + 14x^3 + 33x^2 + 70x + 16"
+  },
+  {
+    "question": "Expand and simplify (x + 1)(x - 4)(x + 2) + x(x - 5)(x - 2)(x + 4)",
+    "answer": "x^4 - 2x^3 - 19x^2 + 30x - 8"
+  },
+  {
+    "question": "Expand and simplify (x - 4)(x + 5) + x(x + 1)(x + 2)(x + 3) + x(x - 4)(x - 2)(x + 5) + x(x + 1)(x - 3)(x + 2)",
+    "answer": "3x^4 + 5x^3 - 17x^2 + 41x - 20"
+  },
+  {
+    "question": "Expand and simplify x(x + 1)(x - 5)(x - 2) + x(x - 2)(x + 2)(x + 3) + x(x - 4)(x + 2)(x + 5) + (x - 1)(x - 5)(x + 3)",
+    "answer": "3x^4 + x^3 - 22x^2 - 55x + 15"
+  },
+  {
+    "question": "Expand and simplify x(x - 4)(x + 4)(x + 5) + x(x + 1)(x - 1)(x + 2)(x + 3)",
+    "answer": "x^5 + 6x^4 + 10x^3 - 21x^2 - 86x"
+  },
+  {
+    "question": "Expand and simplify (x + 1)(x - 5)(x + 3)(x + 4) + (x + 1)(x - 1)(x - 3)(x - 2) + (x - 3)(x + 2)(x + 4) + (x + 2)(x + 4)",
+    "answer": "2x^4 - x^3 - 12x^2 - 82x - 82"
+  },
+  {
+    "question": "Expand and simplify x(x + 1)(x - 1)(x - 4)(x - 3) + (x + 1)(x - 1)(x - 5)(x + 3)",
+    "answer": "x^5 - 6x^4 + 9x^3 - 9x^2 - 10x + 15"
+  },
+  {
+    "question": "Expand and simplify (x - 1)(x - 4)(x - 3)(x + 5) + x(x - 5)(x + 2)(x + 5) + (x - 4)(x - 3) + x(x + 1)(x - 2)(x + 4)",
+    "answer": "3x^4 + 2x^3 - 51x^2 + 18x - 48"
+  },
+  {
+    "question": "Expand and simplify x(x - 3)(x + 5) + x(x - 5)(x - 2)(x + 4) + x(x - 1)(x + 3)(x + 5)",
+    "answer": "2x^4 + 5x^3 - 9x^2 + 10x"
+  },
+  {
+    "question": "Expand and simplify (x + 2)(x + 3) + (x - 1)(x - 2)(x + 2)(x + 5)",
+    "answer": "x^4 + 4x^3 - 8x^2 - 11x + 26"
+  },
+  {
+    "question": "Expand and simplify x(x - 1)(x - 4)(x - 2)(x + 5) + x(x - 4)(x - 2)(x + 2)(x + 3)",
+    "answer": "2x^5 - 3x^4 - 37x^3 + 66x^2 + 8x"
+  },
+  {
+    "question": "Expand and simplify x(x - 1)(x + 5) + x(x - 5)(x - 3)(x + 3) + x(x + 1)(x - 3)(x + 3)",
+    "answer": "2x^4 - 3x^3 - 14x^2 + 31x"
+  },
+  {
+    "question": "Expand and simplify (x + 3)(x + 4)(x + 5) + x(x - 3)(x + 4)",
+    "answer": "2x^3 + 13x^2 + 35x + 60"
+  },
+  {
+    "question": "Expand and simplify x(x - 4)(x + 3) + (x + 1)(x + 4) + x(x + 1)(x - 1)(x - 3)",
+    "answer": "x^4 - 2x^3 - x^2 - 4x + 4"
+  },
+  {
+    "question": "Expand and simplify x(x + 2)(x + 3)(x + 4) + (x + 1)(x - 1)(x - 4)(x + 2) + x(x + 1)(x - 1)(x - 5)",
+    "answer": "3x^4 + 2x^3 + 16x^2 + 31x + 8"
+  },
+  {
+    "question": "Expand and simplify x(x + 1)(x - 3) + x(x + 1)(x + 5) + x(x + 1)(x - 4)(x - 3)",
+    "answer": "x^4 - 4x^3 + 9x^2 + 14x"
+  },
+  {
+    "question": "Expand and simplify x(x - 5)(x - 4)(x + 2) + (x - 1)(x - 3)(x + 3) + x(x - 1)(x - 5)(x - 3)(x + 2) + (x + 1)(x - 5)(x - 2)(x + 3)",
+    "answer": "x^5 - 5x^4 - 4x^3 + 17x^2 + 20x + 39"
+  },
+  {
+    "question": "Expand and simplify (x - 2)(x + 5) + (x - 3)(x + 3)(x + 4)(x + 5)",
+    "answer": "x^4 + 9x^3 + 12x^2 - 78x - 190"
+  },
+  {
+    "question": "Expand and simplify (x - 1)(x + 4) + x(x - 4)(x + 2)(x + 3) + (x + 1)(x - 1)(x - 3)(x + 5)",
+    "answer": "2x^4 + 3x^3 - 29x^2 - 23x + 11"
+  },
+  {
+    "question": "Expand and simplify x(x + 1)(x + 2) + x(x - 1)(x - 3)(x + 5)",
+    "answer": "x^4 + 2x^3 - 14x^2 + 17x"
+  },
+  {
+    "question": "Expand and simplify x(x - 4)(x - 3)(x - 2) + x(x - 5)(x - 2)(x + 2) + x(x + 3)(x + 4) + (x - 2)(x + 2)",
+    "answer": "2x^4 - 13x^3 + 30x^2 + 8x - 4"
+  },
+  {
+    "question": "Expand and simplify (x - 2)(x + 2)(x + 3)(x + 5) + x(x - 1)(x - 5) + x(x + 2)(x + 4) + x(x - 4)(x + 3)(x + 5)",
+    "answer": "2x^4 + 14x^3 - 6x^2 - 79x - 60"
+  },
+  {
+    "question": "Expand and simplify (x - 1)(x + 2)(x + 4) + x(x - 1)(x - 3)(x - 2) + (x - 3)(x - 2) + (x + 1)(x - 3)(x + 3)(x + 4)",
+    "answer": "2x^4 + 12x^2 - 54x - 38"
+  },
+  {
+    "question": "Expand and simplify (x - 5)(x + 4) + x(x - 1)(x - 4)(x - 3)(x + 2) + (x - 5)(x - 3) + (x - 5)(x + 3)(x + 4)(x + 5)",
+    "answer": "x^5 - 5x^4 + 10x^3 + 15x^2 - 208x - 305"
+  },
+  {
+    "question": "Expand and simplify x(x - 3)(x + 2)(x + 4)(x + 5) + (x - 1)(x - 5)",
+    "answer": "x^5 + 8x^4 + 5x^3 - 73x^2 - 126x + 5"
+  },
+  {
+    "question": "Expand and simplify x(x - 1)(x - 2) + (x + 2)(x + 3)(x + 5) + x(x + 1)(x - 2)(x + 2)(x + 4) + x(x + 4)(x + 5)",
+    "answer": "x^5 + 5x^4 + 3x^3 - 4x^2 + 37x + 30"
+  },
+  {
+    "question": "Expand and simplify (x + 1)(x - 2)(x + 3)(x + 4) + (x - 5)(x + 4)",
+    "answer": "x^4 + 6x^3 + 4x^2 - 27x - 44"
+  },
+  {
+    "question": "Expand and simplify x(x - 3)(x - 2)(x + 3) + (x - 5)(x - 4)(x - 2)(x + 4)",
+    "answer": "2x^4 - 9x^3 - 15x^2 + 130x - 160"
+  },
+  {
+    "question": "Expand and simplify x(x + 1)(x - 4)(x + 2)(x + 3) + x(x - 3)(x - 2) + x(x + 2)(x + 4)",
+    "answer": "x^5 + 2x^4 - 11x^3 - 37x^2 - 10x"
+  },
+  {
+    "question": "Expand and simplify x(x - 1)(x - 5)(x + 3)(x + 5) + x(x + 1)(x - 1)(x - 3)(x + 5) + x(x - 1)(x - 4)(x + 5) + x(x - 4)(x - 3)(x - 2)(x + 2)",
+    "answer": "3x^5 - 2x^4 - 36x^3 - 45x^2 + 62x"
+  },
+  {
+    "question": "Expand and simplify (x - 5)(x - 3)(x - 2)(x + 4) + (x - 4)(x - 2)(x + 5)",
+    "answer": "x^4 - 5x^3 - 10x^2 + 72x - 80"
+  },
+  {
+    "question": "Expand and simplify (x - 5)(x - 2) + (x + 1)(x - 1)(x - 2)(x + 4)",
+    "answer": "x^4 + 2x^3 - 8x^2 - 9x + 18"
+  },
+  {
+    "question": "Expand and simplify (x - 1)(x - 5) + x(x - 5)(x - 2)(x + 3)(x + 5) + (x - 1)(x - 5)(x + 4)(x + 5) + (x + 1)(x + 3)(x + 4)",
+    "answer": "x^5 + 2x^4 - 27x^3 - 45x^2 + 88x + 117"
+  },
+  {
+    "question": "Expand and simplify x(x - 5)(x + 5) + (x - 1)(x - 5)(x + 4)(x + 5) + x(x - 3)(x + 2)(x + 4)(x + 5) + x(x - 5)(x - 4)(x + 4)",
+    "answer": "x^5 + 10x^4 + 4x^3 - 119x^2 - 140x + 100"
+  },
+  {
+    "question": "Expand and simplify x(x + 1)(x - 1)(x - 5)(x - 2) + (x - 3)(x + 2)(x + 3)(x + 5) + x(x - 5)(x - 2)(x + 5)",
+    "answer": "x^5 - 5x^4 + 14x^3 - 17x^2 - 23x - 90"
+  },
+  {
+    "question": "Expand and simplify x(x + 1)(x + 2)(x + 3)(x + 5) + (x - 3)(x + 5) + (x - 1)(x - 3)(x + 3)(x + 4)",
+    "answer": "x^5 + 12x^4 + 44x^3 + 49x^2 + 5x + 21"
+  },
+  {
+    "question": "Expand and simplify x(x - 5)(x - 2)(x + 3) + x(x + 1)(x - 4)(x - 3)",
+    "answer": "2x^4 - 10x^3 - 6x^2 + 42x"
+  },
+  {
+    "question": "Expand and simplify (x + 1)(x - 5)(x + 3) + x(x + 2)(x + 3) + (x - 1)(x - 2)(x + 3) + (x - 4)(x + 5)",
+    "answer": "3x^3 + 5x^2 - 17x - 29"
+  },
+  {
+    "question": "Expand and simplify (x + 1)(x - 5)(x + 5) + (x - 5)(x - 4)(x - 2)(x + 3) + (x + 1)(x - 1)(x + 4) + (x - 5)(x - 2)(x + 2)(x + 4)",
+    "answer": "2x^4 - 7x^3 - 14x^2 + 52x - 69"
+  },
+  {
+    "question": "Expand and simplify x(x - 1)(x - 5) + (x - 5)(x - 4)(x + 4)(x + 5) + x(x - 1)(x - 5)(x + 3) + x(x + 1)(x - 3)(x - 2)",
+    "answer": "3x^4 - 6x^3 - 59x^2 + 26x + 400"
+  },
+  {
+    "question": "Expand and simplify (x - 3)(x + 4) + x(x - 5)(x - 2)(x + 3) + x(x - 5)(x + 4)",
+    "answer": "x^4 - 3x^3 - 11x^2 + 11x - 12"
+  },
+  {
+    "question": "Expand and simplify x(x - 1)(x + 2) + x(x - 1)(x - 4)(x - 3)(x + 4) + x(x + 1)(x - 5) + x(x - 3)(x - 2)",
+    "answer": "x^5 - 4x^4 - 10x^3 + 56x^2 - 49x"
+  },
+  {
+    "question": "Expand and simplify x(x + 1)(x - 1)(x + 2)(x + 4) + x(x + 1)(x - 2) + (x + 1)(x - 1)(x - 4)(x + 3)",
+    "answer": "x^5 + 7x^4 + 7x^3 - 20x^2 - 9x + 12"
+  },
+  {
+    "question": "Expand and simplify (x + 2)(x + 3)(x + 4) + x(x + 1)(x - 2) + x(x - 5)(x - 3) + x(x + 1)(x - 2)(x + 3)",
+    "answer": "x^4 + 5x^3 - 5x^2 + 33x + 24"
+  },
+  {
+    "question": "Expand and simplify (x - 1)(x - 3)(x + 2) + (x - 2)(x + 3)",
+    "answer": "x^3 - x^2 - 4x"
+  },
+  {
+    "question": "Expand and simplify x(x + 1)(x - 5)(x - 4)(x - 3) + (x - 1)(x + 3)",
+    "answer": "x^5 - 11x^4 + 35x^3 - 12x^2 - 58x - 3"
+  },
+  {
+    "question": "Expand and simplify (x + 1)(x - 5)(x - 3)(x + 5) + x(x - 4)(x - 2)(x + 4)",
+    "answer": "2x^4 - 4x^3 - 44x^2 + 82x + 75"
+  },
+  {
+    "question": "Expand and simplify x(x - 1)(x - 5) + x(x + 1)(x - 5)(x + 5)",
+    "answer": "x^4 + 2x^3 - 31x^2 - 20x"
+  },
+  {
+    "question": "Expand and simplify (x - 1)(x - 5)(x + 2)(x + 4) + x(x - 1)(x + 4)(x + 5)",
+    "answer": "2x^4 + 8x^3 - 12x^2 - 38x + 40"
+  },
+  {
+    "question": "Expand and simplify (x + 1)(x - 3)(x + 4) + (x - 1)(x + 5) + (x + 1)(x - 5)(x - 2)(x + 4)",
+    "answer": "x^4 - x^3 - 18x^2 + 15x + 23"
+  },
+  {
+    "question": "Expand and simplify (x - 5)(x - 4)(x + 4) + x(x - 4)(x - 3)(x + 3)",
+    "answer": "x^4 - 3x^3 - 14x^2 + 20x + 80"
+  },
+  {
+    "question": "Expand and simplify (x + 1)(x - 5)(x + 2)(x + 4) + (x - 4)(x + 5) + x(x - 3)(x + 2)(x + 5)",
+    "answer": "2x^4 + 6x^3 - 31x^2 - 91x - 60"
+  },
+  {
+    "question": "Expand and simplify (x - 2)(x + 2) + (x - 1)(x - 3)(x + 2)(x + 4) + (x - 5)(x - 2) + x(x + 1)(x - 3)(x + 3)",
+    "answer": "2x^4 + 3x^3 - 20x^2 - 30x + 30"
+  },
+  {
+    "question": "Expand and simplify x(x - 1)(x + 4) + (x - 5)(x - 3)(x + 4)(x + 5) + (x - 1)(x - 3)",
+    "answer": "x^4 + 2x^3 - 33x^2 - 33x + 303"
+  },
+  {
+    "question": "Expand and simplify (x - 4)(x - 3) + x(x + 1)(x - 3)(x + 2)(x + 4)",
+    "answer": "x^5 + 4x^4 - 7x^3 - 33x^2 - 31x + 12"
+  },
+  {
+    "question": "Expand and simplify (x + 1)(x - 4) + (x - 1)(x - 3) + x(x + 2)(x + 3)(x + 4)(x + 5) + (x - 5)(x - 4)(x - 2)(x + 4)",
+    "answer": "x^5 + 15x^4 + 64x^3 + 150x^2 + 225x - 161"
+  },
+  {
+    "question": "Expand and simplify x(x - 1)(x - 5)(x - 4)(x + 2) + (x + 2)(x + 3)(x + 4) + x(x + 1)(x - 4)(x + 5) + x(x - 5)(x - 2)(x + 2)(x + 4)",
+    "answer": "2x^5 - 8x^4 - 12x^3 + 32x^2 + 46x + 24"
+  },
+  {
+    "question": "Expand and simplify (x + 1)(x - 3)(x - 2) + (x - 1)(x - 5)(x - 4)(x + 4) + (x + 1)(x - 5)(x - 2) + (x + 1)(x - 4)(x + 3)",
+    "answer": "x^4 - 3x^3 - 21x^2 + 87x - 76"
+  },
+  {
+    "question": "Expand and simplify x(x - 4)(x - 2)(x + 2)(x + 5) + x(x + 1)(x + 2)(x + 4)(x + 5) + (x - 4)(x - 3)(x + 4)",
+    "answer": "2x^5 + 13x^4 + 26x^3 + 71x^2 + 104x + 48"
+  },
+  {
+    "question": "Expand and simplify x(x - 3)(x + 2)(x + 4)(x + 5) + x(x - 1)(x - 2)(x + 2)(x + 5)",
+    "answer": "2x^5 + 12x^4 - 4x^3 - 90x^2 - 100x"
+  },
+  {
+    "question": "Expand and simplify (x + 1)(x + 3)(x + 5) + (x + 2)(x + 5) + x(x - 5)(x - 2)(x + 2)(x + 3) + (x - 5)(x + 2)(x + 5)",
+    "answer": "x^5 - 2x^4 - 17x^3 + 20x^2 + 65x - 25"
+  },
+  {
+    "question": "Expand and simplify x(x - 5)(x - 2)(x + 4) + x(x - 2)(x + 2) + x(x - 1)(x - 2)(x + 3) + (x + 1)(x + 2)",
+    "answer": "2x^4 - 2x^3 - 24x^2 + 45x + 2"
+  },
+  {
+    "question": "Expand and simplify x(x - 3)(x + 2) + (x - 4)(x + 4)",
+    "answer": "x^3 - 6x - 16"
+  },
+  {
+    "question": "Expand and simplify x(x - 4)(x - 2) + (x - 5)(x + 3)(x + 4)",
+    "answer": "2x^3 - 4x^2 - 15x - 60"
+  },
+  {
+    "question": "Expand and simplify x(x + 1)(x - 1) + (x - 5)(x - 4) + x(x + 1)(x + 4)(x + 5)",
+    "answer": "x^4 + 11x^3 + 30x^2 + 10x + 20"
+  },
+  {
+    "question": "Expand and simplify x(x - 4)(x - 2) + (x - 1)(x + 2)(x + 5) + x(x - 1)(x + 3)(x + 5)",
+    "answer": "x^4 + 9x^3 + 7x^2 - 4x - 10"
+  },
+  {
+    "question": "Expand and simplify (x - 1)(x - 4) + x(x - 1)(x - 4) + x(x + 2)(x + 4)(x + 5) + (x - 4)(x + 5)",
+    "answer": "x^4 + 12x^3 + 35x^2 + 40x - 16"
+  },
+  {
+    "question": "Expand and simplify x(x + 1)(x - 5)(x + 2)(x + 4) + x(x + 1)(x - 5)(x - 3)(x + 2) + x(x - 4)(x + 3)(x + 5)",
+    "answer": "2x^5 - 2x^4 - 24x^3 - 50x^2 - 70x"
+  },
+  {
+    "question": "Expand and simplify x(x - 5)(x + 3)(x + 5) + x(x - 4)(x - 3)(x + 2)(x + 5)",
+    "answer": "x^5 + x^4 - 24x^3 - 11x^2 + 45x"
+  },
+  {
+    "question": "Expand and simplify (x + 1)(x - 4)(x - 3)(x + 5) + x(x - 4)(x + 5) + x(x + 1)(x + 4)",
+    "answer": "x^4 + x^3 - 19x^2 + 21x + 60"
+  },
+  {
+    "question": "Expand and simplify x(x + 1)(x - 1)(x - 3) + x(x - 2)(x + 2)(x + 3)",
+    "answer": "2x^4 - 5x^2 - 9x"
+  },
+  {
+    "question": "Expand and simplify x(x + 1)(x - 4)(x - 3) + x(x - 1)(x - 5)(x - 3)(x + 3) + (x + 1)(x + 3)(x + 4)(x + 5)",
+    "answer": "x^5 - 4x^4 + 3x^3 + 118x^2 + 74x + 60"
+  },
+  {
+    "question": "Expand and simplify (x - 1)(x + 4)(x + 5) + (x - 1)(x - 2)(x + 2)(x + 3) + x(x - 3)(x - 2)(x + 3)(x + 4) + x(x + 1)(x - 5)(x - 2)",
+    "answer": "x^5 + 4x^4 - 20x^3 - 14x^2 + 85x - 8"
+  },
+  {
+    "question": "Expand and simplify (x - 4)(x - 3)(x + 5) + (x - 5)(x - 4)(x - 3)(x + 2) + x(x - 4)(x - 2)(x + 2)(x + 5)",
+    "answer": "x^5 + 2x^4 - 33x^3 + 17x^2 + 91x - 60"
+  },
+  {
+    "question": "Expand and simplify x(x - 1)(x - 5) + (x - 2)(x + 3) + x(x - 1)(x - 5)(x - 3)(x + 2) + x(x - 3)(x + 2)(x + 3)",
+    "answer": "x^5 - 6x^4 + 8x^3 + 17x^2 - 42x - 6"
+  },
+  {
+    "question": "Expand and simplify x(x - 4)(x - 3)(x + 2) + x(x - 3)(x + 4)",
+    "answer": "x^4 - 4x^3 - x^2 + 12x"
+  },
+  {
+    "question": "Expand and simplify x(x - 3)(x - 2)(x + 2) + x(x - 1)(x - 3)(x + 2)(x + 3) + x(x - 1)(x - 5)(x + 3) + x(x - 3)(x - 2)(x + 3)(x + 5)",
+    "answer": "2x^5 + 6x^4 - 36x^3 - 53x^2 + 135x"
+  },
+  {
+    "question": "Expand and simplify x(x + 2)(x + 5) + (x - 4)(x - 3)(x - 2) + x(x + 2)(x + 5)",
+    "answer": "3x^3 + 5x^2 + 46x - 24"
+  },
+  {
+    "question": "Expand and simplify (x - 1)(x - 4)(x + 4)(x + 5) + (x - 5)(x - 4)(x + 2)(x + 5) + x(x - 1)(x - 2)(x + 5)",
+    "answer": "3x^4 + 4x^3 - 67x^2 - 4x + 280"
+  },
+  {
+    "question": "Expand and simplify x(x - 2)(x + 3)(x + 5) + x(x + 1)(x - 4)",
+    "answer": "x^4 + 7x^3 - 4x^2 - 34x"
+  },
+  {
+    "question": "Expand and simplify (x + 1)(x - 4)(x + 2)(x + 3) + (x - 1)(x - 4)(x - 3)(x - 2) + (x + 1)(x - 5)(x + 4)(x + 5) + (x - 4)(x - 3)(x + 3)",
+    "answer": "3x^4 - 2x^3 - 3x^2 - 222x - 64"
+  },
+  {
+    "question": "Expand and simplify (x - 1)(x - 4)(x - 3)(x + 2) + (x + 1)(x + 2)(x + 4)(x + 5) + x(x - 4)(x + 2)(x + 3)",
+    "answer": "3x^4 + 7x^3 + 38x^2 + 80x + 16"
+  },
+  {
+    "question": "Expand and simplify x(x - 4)(x - 2)(x + 4) + (x - 1)(x - 4)(x - 2)(x + 3) + x(x - 5)(x + 3)",
+    "answer": "2x^4 - 5x^3 - 25x^2 + 51x - 24"
+  },
+  {
+    "question": "Expand and simplify (x - 5)(x - 4) + x(x - 5)(x - 2)(x + 4) + (x + 1)(x - 4)(x - 3)(x + 4) + (x + 1)(x - 5)(x + 2)(x + 3)",
+    "answer": "3x^4 - 4x^3 - 55x^2 + 14x + 38"
+  },
+  {
+    "question": "Expand and simplify x(x - 3)(x + 3)(x + 4) + x(x - 1)(x + 3)(x + 4)",
+    "answer": "2x^4 + 10x^3 - 4x^2 - 48x"
+  },
+  {
+    "question": "Expand and simplify x(x + 1)(x + 2)(x + 3)(x + 5) + (x - 1)(x - 3)(x + 2)(x + 3)",
+    "answer": "x^5 + 12x^4 + 42x^3 + 50x^2 + 21x + 18"
+  },
+  {
+    "question": "Expand and simplify (x - 5)(x + 2)(x + 3) + (x - 1)(x - 5)(x + 2)(x + 4) + (x - 1)(x - 4)(x + 2)(x + 3) + x(x + 1)(x - 1)(x - 5)(x - 2)",
+    "answer": "x^5 - 5x^4 + 10x^3 - 31x^2 - 57x + 34"
+  },
+  {
+    "question": "Expand and simplify x(x - 1)(x - 2)(x + 4)(x + 5) + (x + 4)(x + 5) + (x - 3)(x + 2)(x + 5) + x(x + 3)(x + 5)",
+    "answer": "x^5 + 6x^4 - 3x^3 - 29x^2 + 53x - 10"
+  },
+  {
+    "question": "Expand and simplify (x - 4)(x - 2) + (x - 5)(x - 4)(x + 5)",
+    "answer": "x^3 - 3x^2 - 31x + 108"
+  },
+  {
+    "question": "Expand and simplify (x - 4)(x - 3)(x + 2)(x + 4) + x(x - 1)(x - 3)(x - 2) + x(x + 1)(x - 4)(x - 3) + x(x - 5)(x - 4)(x + 2)(x + 5)",
+    "answer": "x^5 + x^4 - 46x^3 + 44x^2 + 222x + 96"
+  },
+  {
+    "question": "Expand and simplify (x + 1)(x - 5)(x - 2)(x + 4) + x(x + 1)(x - 2)(x + 4) + (x - 5)(x + 3)(x + 5) + (x + 1)(x - 5)(x - 2)(x + 4)",
+    "answer": "3x^4 - 45x^2 + 11x + 5"
+  },
+  {
+    "question": "Expand and simplify x(x - 3)(x - 2)(x + 4)(x + 5) + (x - 3)(x + 4)(x + 5) + (x - 2)(x + 5)",
+    "answer": "x^5 + 4x^4 - 18x^3 - 39x^2 + 116x - 70"
+  },
+  {
+    "question": "Expand and simplify (x + 2)(x + 4) + x(x + 1)(x - 2)(x + 5) + (x - 1)(x - 4)(x + 3)(x + 4) + (x + 1)(x - 2)(x + 4)(x + 5)",
+    "answer": "3x^4 + 14x^3 - 16x^2 - 74x + 16"
+  },
+  {
+    "question": "Expand and simplify (x + 1)(x + 2) + (x - 1)(x - 5)(x - 4)(x + 2) + (x + 1)(x - 1)(x - 2)(x + 2)",
+    "answer": "2x^4 - 8x^3 + 5x^2 + 41x - 34"
+  },
+  {
+    "question": "Expand and simplify (x + 1)(x + 3) + (x - 4)(x - 2)(x + 2)",
+    "answer": "x^3 - 3x^2 + 19"
+  },
+  {
+    "question": "Expand and simplify x(x - 4)(x + 4) + (x + 1)(x - 4) + x(x - 3)(x + 3)",
+    "answer": "2x^3 + x^2 - 28x - 4"
+  },
+  {
+    "question": "Expand and simplify x(x - 4)(x + 3) + (x - 5)(x - 3)(x + 3) + (x - 1)(x - 5)(x - 4)(x - 3) + (x - 1)(x - 2)(x + 3)(x + 4)",
+    "answer": "2x^4 - 7x^3 + 46x^2 - 150x + 129"
+  },
+  {
+    "question": "Expand and simplify x(x + 1)(x - 4)(x - 2)(x + 5) + x(x - 2)(x + 5) + (x - 5)(x + 3)(x + 5)",
+    "answer": "x^5 - 21x^3 + 24x^2 + 5x - 75"
+  },
+  {
+    "question": "Expand and simplify x(x + 1)(x - 3)(x + 4) + x(x - 5)(x - 3)",
+    "answer": "x^4 + 3x^3 - 19x^2 + 3x"
+  },
+  {
+    "question": "Expand and simplify x(x - 1)(x - 2) + (x - 5)(x - 4)(x + 4)(x + 5)",
+    "answer": "x^4 + x^3 - 44x^2 + 2x + 400"
+  },
+  {
+    "question": "Expand and simplify x(x - 2)(x + 2)(x + 4) + (x + 1)(x - 1)(x - 5)(x - 2) + x(x - 3)(x - 2)(x + 4) + (x - 1)(x - 2)",
+    "answer": "3x^4 - 4x^3 - 8x^2 + 12x - 8"
+  },
+  {
+    "question": "Expand and simplify (x - 5)(x - 3) + x(x + 4)(x + 5)",
+    "answer": "x^3 + 10x^2 + 12x + 15"
+  },
+  {
+    "question": "Expand and simplify (x + 1)(x - 5) + x(x - 4)(x + 3)(x + 4)(x + 5) + x(x - 1)(x - 5)(x + 2)",
+    "answer": "x^5 + 9x^4 - 5x^3 - 134x^2 - 234x - 5"
+  },
+  {
+    "question": "Expand and simplify (x - 5)(x + 2)(x + 4) + x(x - 1)(x + 2)(x + 5) + (x - 4)(x + 2)",
+    "answer": "x^4 + 7x^3 + 5x^2 - 34x - 48"
+  },
+  {
+    "question": "Expand and simplify (x - 1)(x - 5)(x - 3)(x + 4) + (x - 2)(x + 4) + (x - 5)(x + 4)",
+    "answer": "x^4 - 5x^3 - 11x^2 + 78x - 88"
+  },
+  {
+    "question": "Expand and simplify x(x + 1)(x - 4) + (x + 1)(x + 4) + (x + 1)(x - 2)(x + 5)",
+    "answer": "2x^3 + 2x^2 - 6x - 6"
+  },
+  {
+    "question": "Expand and simplify (x + 3)(x + 4) + x(x - 1)(x - 5)(x + 4)(x + 5) + (x - 5)(x - 4)(x + 2)",
+    "answer": "x^5 + 3x^4 - 28x^3 - 81x^2 + 109x + 52"
+  },
+  {
+    "question": "Expand and simplify x(x - 5)(x - 4)(x + 3) + x(x - 5)(x - 4)(x + 4)",
+    "answer": "2x^4 - 11x^3 - 23x^2 + 140x"
+  },
+  {
+    "question": "Expand and simplify x(x - 1)(x - 2)(x + 2)(x + 4) + (x - 3)(x + 3)",
+    "answer": "x^5 + 3x^4 - 8x^3 - 11x^2 + 16x - 9"
+  },
+  {
+    "question": "Expand and simplify x(x - 4)(x - 2)(x + 2)(x + 5) + x(x + 1)(x - 5)(x + 2) + x(x + 1)(x - 2)",
+    "answer": "x^5 + 2x^4 - 25x^3 - 18x^2 + 68x"
+  },
+  {
+    "question": "Expand and simplify (x - 5)(x - 4)(x + 2)(x + 5) + x(x + 1)(x - 5)(x - 2)(x + 5)",
+    "answer": "x^5 - 29x^3 - 8x^2 + 100x + 200"
+  },
+  {
+    "question": "Expand and simplify x(x + 1)(x - 5)(x - 4)(x - 3) + (x - 3)(x + 2) + (x - 3)(x - 2)",
+    "answer": "x^5 - 11x^4 + 35x^3 - 11x^2 - 66x"
+  },
+  {
+    "question": "Expand and simplify x(x + 1)(x - 4)(x + 3)(x + 5) + x(x - 1)(x - 2)(x + 5)",
+    "answer": "x^5 + 6x^4 - 11x^3 - 90x^2 - 50x"
+  },
+  {
+    "question": "Expand and simplify (x + 1)(x - 5)(x - 3) + (x + 4)(x + 5) + (x - 3)(x - 2)(x + 2)",
+    "answer": "2x^3 - 9x^2 + 12x + 47"
+  },
+  {
+    "question": "Expand and simplify (x - 1)(x - 3)(x + 2)(x + 5) + x(x - 1)(x - 2)",
+    "answer": "x^4 + 4x^3 - 18x^2 - 17x + 30"
+  },
+  {
+    "question": "Expand and simplify x(x - 5)(x + 3)(x + 5) + x(x - 5)(x - 2)(x + 2)(x + 3) + x(x + 1)(x - 5)(x + 3)(x + 5)",
+    "answer": "2x^5 + 3x^4 - 38x^3 - 117x^2 - 90x"
+  },
+  {
+    "question": "Expand and simplify (x + 1)(x - 1)(x + 4)(x + 5) + x(x + 1)(x - 4)(x + 2)(x + 3) + (x - 1)(x - 3)",
+    "answer": "x^5 + 3x^4 - 4x^3 - 18x^2 - 37x - 17"
+  },
+  {
+    "question": "Expand and simplify (x + 2)(x + 4) + x(x + 1)(x - 1) + x(x + 1)(x - 1)(x - 5)(x - 2) + x(x - 3)(x + 3)",
+    "answer": "x^5 - 7x^4 + 11x^3 + 8x^2 - 14x + 8"
+  },
+  {
+    "question": "Expand and simplify x(x - 1)(x - 4)(x + 4) + x(x - 3)(x + 3)(x + 5) + x(x - 1)(x - 5)(x - 3) + (x - 4)(x - 3)(x + 2)",
+    "answer": "3x^4 - 4x^3 - 7x^2 - 46x + 24"
+  },
+  {
+    "question": "Expand and simplify x(x - 1)(x - 5)(x + 2) + x(x + 1)(x + 4) + x(x - 1)(x - 5)(x - 4)(x + 5)",
+    "answer": "x^5 - 4x^4 - 24x^3 + 123x^2 - 86x"
+  },
+  {
+    "question": "Expand and simplify (x - 1)(x + 2) + x(x - 4)(x + 4) + (x - 4)(x - 3)(x + 3)(x + 4)",
+    "answer": "x^4 + x^3 - 24x^2 - 15x + 142"
+  },
+  {
+    "question": "Expand and simplify (x + 3)(x + 4)(x + 5) + x(x - 3)(x + 2)(x + 3) + (x - 1)(x - 5)(x - 4)(x - 2)",
+    "answer": "2x^4 - 9x^3 + 52x^2 - 49x + 100"
+  },
+  {
+    "question": "Expand and simplify (x - 3)(x + 2)(x + 5) + (x + 3)(x + 5) + (x - 5)(x + 2)(x + 5)",
+    "answer": "2x^3 + 7x^2 - 28x - 65"
+  },
+  {
+    "question": "Expand and simplify (x - 1)(x + 3)(x + 5) + x(x - 4)(x + 2) + x(x - 5)(x - 2)(x + 3)(x + 4) + x(x + 1)(x - 4)(x + 3)(x + 5)",
+    "answer": "2x^5 + 5x^4 - 38x^3 - 86x^2 + 59x - 15"
+  },
+  {
+    "question": "Expand and simplify (x + 1)(x - 5)(x - 3) + x(x + 1)(x - 4)(x + 4)",
+    "answer": "x^4 + 2x^3 - 23x^2 - 9x + 15"
+  },
+  {
+    "question": "Expand and simplify x(x + 1)(x + 3)(x + 5) + x(x - 1)(x - 4)(x - 3)(x + 3) + (x + 3)(x + 4) + x(x + 1)(x - 1)(x - 5)(x - 4)",
+    "answer": "2x^5 - 13x^4 + 23x^3 + 78x^2 - 34x + 12"
+  },
+  {
+    "question": "Expand and simplify x(x - 4)(x + 5) + (x - 1)(x + 2)(x + 3)",
+    "answer": "2x^3 + 5x^2 - 19x - 6"
+  },
+  {
+    "question": "Expand and simplify (x + 3)(x + 4)(x + 5) + (x - 1)(x - 5)(x + 3)(x + 5) + (x - 1)(x - 5)(x - 3)(x - 2) + x(x - 1)(x - 5)(x - 3)",
+    "answer": "3x^4 - 17x^3 + 48x^2 - 79x + 165"
+  },
+  {
+    "question": "Expand and simplify x(x + 1)(x - 4)(x - 3)(x - 2) + x(x - 5)(x - 4) + x(x - 5)(x + 2)(x + 3)",
+    "answer": "x^5 - 7x^4 + 18x^3 - 26x^2 - 34x"
+  },
+  {
+    "question": "Expand and simplify x(x - 4)(x - 2) + (x - 4)(x + 3) + (x + 1)(x + 5) + (x + 4)(x + 5)",
+    "answer": "x^3 - 3x^2 + 22x + 13"
+  },
+  {
+    "question": "Expand and simplify (x + 2)(x + 3) + (x - 1)(x - 5)(x + 3)(x + 4) + x(x - 1)(x + 3)(x + 5) + x(x - 5)(x + 2)(x + 5)",
+    "answer": "3x^4 + 10x^3 - 42x^2 - 97x + 66"
+  },
+  {
+    "question": "Expand and simplify (x - 1)(x - 3)(x + 3) + x(x - 1)(x + 4)(x + 5) + x(x - 5)(x - 2) + (x - 5)(x - 2)(x + 2)(x + 5)",
+    "answer": "2x^4 + 10x^3 - 26x^2 - 19x + 109"
+  },
+  {
+    "question": "Expand and simplify (x + 1)(x - 3) + (x - 3)(x + 3) + x(x + 1)(x - 4) + (x + 3)(x + 5)",
+    "answer": "x^3 + 2x + 3"
+  },
+  {
+    "question": "Expand and simplify x(x + 1)(x - 1)(x + 4) + (x + 1)(x - 1)",
+    "answer": "x^4 + 4x^3 - 4x - 1"
+  },
+  {
+    "question": "Expand and simplify x(x + 1)(x + 5) + x(x + 1)(x - 5)(x - 2)",
+    "answer": "x^4 - 5x^3 + 9x^2 + 15x"
+  },
+  {
+    "question": "Expand and simplify (x + 1)(x - 5)(x - 2) + x(x + 1)(x - 4)(x + 2)(x + 4)",
+    "answer": "x^5 + 3x^4 - 13x^3 - 54x^2 - 29x + 10"
+  },
+  {
+    "question": "Expand and simplify (x + 3)(x + 4) + (x - 5)(x - 4)(x - 3)(x + 3) + x(x + 1)(x - 4)(x - 2)(x + 3) + x(x - 5)(x + 3)",
+    "answer": "x^5 - x^4 - 21x^3 + 24x^2 + 97x - 168"
+  },
+  {
+    "question": "Expand and simplify (x + 1)(x + 5) + (x - 1)(x - 4)(x - 3)",
+    "answer": "x^3 - 7x^2 + 25x - 7"
+  },
+  {
+    "question": "Expand and simplify (x + 1)(x - 4) + (x - 1)(x + 4) + x(x - 5)(x + 5) + (x - 5)(x + 4)",
+    "answer": "x^3 + 3x^2 - 26x - 28"
+  },
+  {
+    "question": "Expand and simplify x(x - 5)(x - 4)(x - 3)(x - 2) + (x + 1)(x + 2)(x + 3)",
+    "answer": "x^5 - 14x^4 + 72x^3 - 148x^2 + 131x + 6"
+  },
+  {
+    "question": "Expand and simplify (x + 1)(x - 1)(x + 3) + (x - 5)(x - 2)(x + 3) + x(x - 4)(x + 2)(x + 4)(x + 5)",
+    "answer": "x^5 + 7x^4 - 4x^3 - 113x^2 - 172x + 27"
+  },
+  {
+    "question": "Expand and simplify x(x + 1)(x - 3)(x + 4) + (x - 1)(x - 2)(x + 5) + x(x - 1)(x - 4)(x + 2)(x + 4)",
+    "answer": "x^5 + 2x^4 - 15x^3 - 25x^2 + 7x + 10"
+  },
+  {
+    "question": "Expand and simplify (x + 1)(x - 1)(x + 5) + (x - 4)(x - 3)(x - 2)(x + 4)",
+    "answer": "x^4 - 4x^3 - 5x^2 + 79x - 101"
+  },
+  {
+    "question": "Expand and simplify (x + 2)(x + 3)(x + 5) + x(x - 1)(x + 4) + (x - 5)(x - 4)(x - 3)(x + 5)",
+    "answer": "x^4 - 5x^3 + 202x - 270"
+  },
+  {
+    "question": "Expand and simplify x(x - 1)(x - 5)(x - 3)(x + 4) + (x - 5)(x - 3)(x + 2)(x + 3) + (x - 1)(x - 5)(x - 2)(x + 4) + (x - 4)(x + 3)(x + 5)",
+    "answer": "x^5 - 3x^4 - 19x^3 + 47x^2 + 8x - 10"
+  },
+  {
+    "question": "Expand and simplify (x - 3)(x + 3)(x + 4)(x + 5) + x(x - 4)(x - 3)(x + 2)(x + 4) + (x + 1)(x - 5)(x - 2)(x + 3)",
+    "answer": "x^5 + x^4 - 16x^3 + 12x^2 + 34x - 150"
+  },
+  {
+    "question": "Expand and simplify (x + 2)(x + 3) + (x + 1)(x - 2)(x + 2)(x + 3) + x(x - 3)(x + 2)(x + 3)(x + 4)",
+    "answer": "x^5 + 7x^4 + 3x^3 - 54x^2 - 83x - 6"
+  },
+  {
+    "question": "Expand and simplify x(x - 1)(x - 4)(x + 3)(x + 4) + x(x + 1)(x + 2)(x + 3)(x + 4) + x(x + 3)(x + 4) + (x + 1)(x + 3)",
+    "answer": "2x^5 + 12x^4 + 17x^3 + 26x^2 + 88x + 3"
+  },
+  {
+    "question": "Expand and simplify (x - 1)(x - 3)(x + 2) + x(x - 1)(x + 3)",
+    "answer": "2x^3 - 8x + 6"
+  },
+  {
+    "question": "Expand and simplify x(x - 2)(x + 2)(x + 4) + (x - 1)(x + 4) + (x - 1)(x + 4)",
+    "answer": "x^4 + 4x^3 - 2x^2 - 10x - 8"
+  },
+  {
+    "question": "Expand and simplify x(x - 5)(x - 2)(x + 2)(x + 4) + (x + 1)(x - 4)",
+    "answer": "x^5 - x^4 - 24x^3 + 5x^2 + 77x - 4"
+  },
+  {
+    "question": "Expand and simplify x(x + 1)(x + 5) + (x - 2)(x + 4)(x + 5) + (x - 4)(x - 3)(x + 3)(x + 5)",
+    "answer": "x^4 + 3x^3 - 16x^2 - 2x + 140"
+  },
+  {
+    "question": "Expand and simplify (x - 4)(x + 5) + x(x - 1)(x - 5)(x + 2) + (x + 1)(x - 4)(x - 2)(x + 5) + x(x - 1)(x - 5)(x - 4)(x + 4)",
+    "answer": "x^5 - 4x^4 - 15x^3 + 67x^2 - 51x + 20"
+  },
+  {
+    "question": "Expand and simplify x(x + 1)(x - 1)(x + 2)(x + 4) + (x + 1)(x + 2) + x(x + 1)(x - 5)(x + 3)(x + 5) + (x - 1)(x - 3)(x + 3)(x + 5)",
+    "answer": "2x^5 + 11x^4 - 11x^3 - 119x^2 - 116x + 47"
+  }
+]
