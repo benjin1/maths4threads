@@ -48,7 +48,7 @@ def generate_advanced_algebra_questions(n):
 
         full_expr = sum(terms)
         question_expr = " + ".join([format_factorized_expr(term) for term in terms])
-        expanded_expr = expand(full_expr)  # Fully expand without simplify()
+        expanded_expr = expand(full_expr)  
 
         questions.append({
             "question": f"Expand and simplify {question_expr}",
@@ -59,3 +59,5 @@ def generate_advanced_algebra_questions(n):
     output_path = "250_fully_expanded_questions.json"
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(questions, f, indent=2, ensure_ascii=False)
+
+generate_advanced_algebra_questions(250)
