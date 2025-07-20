@@ -1,0 +1,1998 @@
+[
+  {
+    "problem": "$3x^{9} + 7x^{4} + 7x^{3} + 5x^{6} + 7x^{3}$",
+    "solution": "$\\frac{3}{9}x^{10} + \\frac{7}{4}x^{5} + \\frac{7}{3}x^{4} + \\frac{5}{6}x^{7} + \\frac{7}{3}x^{4} + C$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\csc)=$",
+    "solution": "$-\\csc \\cdot \\cot$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $42x^2 + 1x + 29 = $",
+    "solution": "$43.5$"
+  },
+  {
+    "problem": "$5x^{2} + 4x^{9} + 6x^{5}$",
+    "solution": "$\\frac{5}{2}x^{3} + \\frac{4}{9}x^{10} + \\frac{6}{5}x^{6} + C$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\cos)=$",
+    "solution": "$-\\sin$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $78x^2 + 96x + 24 = $",
+    "solution": "$98.0$"
+  },
+  {
+    "problem": "$f(x)=10*x^3 + 8*x^2 + 2*x + 9$",
+    "solution": "${- \\frac{1}{3}, - \\frac{1}{5}}$"
+  },
+  {
+    "problem": "$f(x)=9*x^2 + 3*x + 2$",
+    "solution": "${- \\frac{1}{6}}$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $55x^2 + 36x + 59 = $",
+    "solution": "$95.3333$"
+  },
+  {
+    "problem": "$f(x)=5*x^3 + 7*x^2 + 5$",
+    "solution": "${- \\frac{14}{15}, 0}$"
+  },
+  {
+    "problem": "$1x^{9} + 2x^{3}$",
+    "solution": "$\\frac{1}{9}x^{10} + \\frac{2}{3}x^{4} + C$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $78x^2 + 44x + 27 = $",
+    "solution": "$75.0$"
+  },
+  {
+    "problem": "$f(x)=x^2 + x + 3$",
+    "solution": "${- \\frac{1}{2}}$"
+  },
+  {
+    "problem": "$f(x)=x^3 + 10*x^2 + 9*x + 6$",
+    "solution": "${- \\frac{10}{3} - \\frac{\\sqrt{73}}{3}, - \\frac{10}{3} + \\frac{\\sqrt{73}}{3}}$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $93x^2 + 22x + 93 = $",
+    "solution": "$135.0$"
+  },
+  {
+    "problem": "$9x^{1} + 9x^{8} + 1x^{3}$",
+    "solution": "$\\frac{9}{1}x^{2} + \\frac{9}{8}x^{9} + \\frac{1}{3}x^{4} + C$"
+  },
+  {
+    "problem": "$8x^{4} + 2x^{8} + 7x^{6}$",
+    "solution": "$\\frac{8}{4}x^{5} + \\frac{2}{8}x^{9} + \\frac{7}{6}x^{7} + C$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $78x^2 + 91x + 6 = $",
+    "solution": "$77.5$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $21x^2 + 33x + 0 = $",
+    "solution": "$23.5$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\csc)=$",
+    "solution": "$-\\csc \\cdot \\cot$"
+  },
+  {
+    "problem": "$f(x)=10*x^3 + 10*x^2 + 3*x + 10$",
+    "solution": "${- \\frac{1}{3} - \\frac{\\sqrt{10}}{30}, - \\frac{1}{3} + \\frac{\\sqrt{10}}{30}}$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $44x^2 + 59x + 56 = $",
+    "solution": "$100.1667$"
+  },
+  {
+    "problem": "$9x^{3} + 2x^{9} + 6x^{9} + 6x^{8} + 1x^{4}$",
+    "solution": "$\\frac{9}{3}x^{4} + \\frac{2}{9}x^{10} + \\frac{6}{9}x^{10} + \\frac{6}{8}x^{9} + \\frac{1}{4}x^{5} + C$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\cos)=$",
+    "solution": "$-\\sin$"
+  },
+  {
+    "problem": "$9x^{2} + 7x^{8} + 1x^{8}$",
+    "solution": "$\\frac{9}{2}x^{3} + \\frac{7}{8}x^{9} + \\frac{1}{8}x^{9} + C$"
+  },
+  {
+    "problem": "$f(x)=2*x^3 + 7*x^2 + 5*x + 10$",
+    "solution": "${- \\frac{7}{6} - \\frac{\\sqrt{19}}{6}, - \\frac{7}{6} + \\frac{\\sqrt{19}}{6}}$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\sin)=$",
+    "solution": "$\\cos$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $55x^2 + 76x + 74 = $",
+    "solution": "$130.3333$"
+  },
+  {
+    "problem": "$f(x)=4*x^3 + 10*x^2 + 6*x + 5$",
+    "solution": "${- \\frac{5}{6} - \\frac{\\sqrt{7}}{6}, - \\frac{5}{6} + \\frac{\\sqrt{7}}{6}}$"
+  },
+  {
+    "problem": "$f(x)=7*x^2 + 4*x + 10$",
+    "solution": "${- \\frac{2}{7}}$"
+  },
+  {
+    "problem": "$7x^{1} + 7x^{3}$",
+    "solution": "$\\frac{7}{1}x^{2} + \\frac{7}{3}x^{4} + C$"
+  },
+  {
+    "problem": "$f(x)=3*x^3 + 8*x^2 + 3*x + 5$",
+    "solution": "${- \\frac{8}{9} - \\frac{\\sqrt{37}}{9}, - \\frac{8}{9} + \\frac{\\sqrt{37}}{9}}$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\cot)=$",
+    "solution": "$-\\csc^{{2}}$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $61x^2 + 74x + 46 = $",
+    "solution": "$103.3333$"
+  },
+  {
+    "problem": "$f(x)=x^3 + 5*x^2 + 7*x + 7$",
+    "solution": "${- \\frac{7}{3}, -1}$"
+  },
+  {
+    "problem": "$8x^{5} + 7x^{5}$",
+    "solution": "$\\frac{8}{5}x^{6} + \\frac{7}{5}x^{6} + C$"
+  },
+  {
+    "problem": "$7x^{9} + 3x^{1} + 1x^{3} + 9x^{5} + 8x^{3}$",
+    "solution": "$\\frac{7}{9}x^{10} + \\frac{3}{1}x^{2} + \\frac{1}{3}x^{4} + \\frac{9}{5}x^{6} + \\frac{8}{3}x^{4} + C$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\tan)=$",
+    "solution": "$\\sec^{{2}}$"
+  },
+  {
+    "problem": "$f(x)=6*x^2 + x + 9$",
+    "solution": "${- \\frac{1}{12}}$"
+  },
+  {
+    "problem": "$f(x)=x^3 + 8*x^2 + 7*x + 9$",
+    "solution": "${- \\frac{8}{3} - \\frac{\\sqrt{43}}{3}, - \\frac{8}{3} + \\frac{\\sqrt{43}}{3}}$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $70x^2 + 96x + 20 = $",
+    "solution": "$91.3333$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $0x^2 + 26x + 50 = $",
+    "solution": "$63.0$"
+  },
+  {
+    "problem": "$1x^{10} + 4x^{6} + 7x^{10}$",
+    "solution": "$\\frac{1}{10}x^{11} + \\frac{4}{6}x^{7} + \\frac{7}{10}x^{11} + C$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $95x^2 + 36x + 48 = $",
+    "solution": "$97.6667$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\cot)=$",
+    "solution": "$-\\csc^{{2}}$"
+  },
+  {
+    "problem": "$8x^{9} + 5x^{6} + 2x^{6} + 10x^{9}$",
+    "solution": "$\\frac{8}{9}x^{10} + \\frac{5}{6}x^{7} + \\frac{2}{6}x^{7} + \\frac{10}{9}x^{10} + C$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $14x^2 + 16x + 94 = $",
+    "solution": "$106.6667$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $57x^2 + 94x + 43 = $",
+    "solution": "$109.0$"
+  },
+  {
+    "problem": "$9x^{9}$",
+    "solution": "$\\frac{9}{9}x^{10} + C$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $12x^2 + 23x + 92 = $",
+    "solution": "$107.5$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $58x^2 + 13x + 29 = $",
+    "solution": "$54.8333$"
+  },
+  {
+    "problem": "$f(x)=x^3 + 10*x^2 + 10*x + 9$",
+    "solution": "${- \\frac{10}{3} - \\frac{\\sqrt{70}}{3}, - \\frac{10}{3} + \\frac{\\sqrt{70}}{3}}$"
+  },
+  {
+    "problem": "$f(x)=2*x^3 + 5*x^2 + 3*x$",
+    "solution": "${- \\frac{5}{6} - \\frac{\\sqrt{7}}{6}, - \\frac{5}{6} + \\frac{\\sqrt{7}}{6}}$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $90x^2 + 100x + 52 = $",
+    "solution": "$132.0$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $88x^2 + 58x + 46 = $",
+    "solution": "$104.3333$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $6x^2 + 82x + 52 = $",
+    "solution": "$95.0$"
+  },
+  {
+    "problem": "$f(x)=10*x^3 + 4*x^2 + 1$",
+    "solution": "${- \\frac{4}{15}, 0}$"
+  },
+  {
+    "problem": "$5x^{4} + 8x^{6} + 3x^{6} + 9x^{8}$",
+    "solution": "$\\frac{5}{4}x^{5} + \\frac{8}{6}x^{7} + \\frac{3}{6}x^{7} + \\frac{9}{8}x^{9} + C$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $0x^2 + 4x + 1 = $",
+    "solution": "$3.0$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $29x^2 + 12x + 93 = $",
+    "solution": "$108.6667$"
+  },
+  {
+    "problem": "$f(x)=4*x^3 + 5*x^2 + x + 7$",
+    "solution": "${- \\frac{5}{12} - \\frac{\\sqrt{13}}{12}, - \\frac{5}{12} + \\frac{\\sqrt{13}}{12}}$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\sin)=$",
+    "solution": "$\\cos$"
+  },
+  {
+    "problem": "$f(x)=7*x^3 + 8*x^2 + 2*x + 1$",
+    "solution": "${- \\frac{8}{21} - \\frac{\\sqrt{22}}{21}, - \\frac{8}{21} + \\frac{\\sqrt{22}}{21}}$"
+  },
+  {
+    "problem": "$8x^{2}$",
+    "solution": "$\\frac{8}{2}x^{3} + C$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $90x^2 + 87x + 72 = $",
+    "solution": "$145.5$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\cot)=$",
+    "solution": "$-\\csc^{{2}}$"
+  },
+  {
+    "problem": "$f(x)=3*x^3 + 8*x^2 + 7$",
+    "solution": "${- \\frac{16}{9}, 0}$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\csc)=$",
+    "solution": "$-\\csc \\cdot \\cot$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $66x^2 + 21x + 56 = $",
+    "solution": "$88.5$"
+  },
+  {
+    "problem": "$f(x)=x^3 + 9*x^2 + 3*x + 3$",
+    "solution": "${-3 - 2 \\sqrt{2}, -3 + 2 \\sqrt{2}}$"
+  },
+  {
+    "problem": "$f(x)=7*x^3 + 7*x^2 + x + 10$",
+    "solution": "${- \\frac{1}{3} - \\frac{2 \\sqrt{7}}{21}, - \\frac{1}{3} + \\frac{2 \\sqrt{7}}{21}}$"
+  },
+  {
+    "problem": "$f(x)=3*x^2 + 2$",
+    "solution": "${0}$"
+  },
+  {
+    "problem": "$2x^{10}$",
+    "solution": "$\\frac{2}{10}x^{11} + C$"
+  },
+  {
+    "problem": "$2x^{6} + 8x^{7} + 9x^{2} + 4x^{1}$",
+    "solution": "$\\frac{2}{6}x^{7} + \\frac{8}{7}x^{8} + \\frac{9}{2}x^{3} + \\frac{4}{1}x^{2} + C$"
+  },
+  {
+    "problem": "$f(x)=10*x^3 + 10*x^2 + 3*x + 4$",
+    "solution": "${- \\frac{1}{3} - \\frac{\\sqrt{10}}{30}, - \\frac{1}{3} + \\frac{\\sqrt{10}}{30}}$"
+  },
+  {
+    "problem": "$f(x)=8*x^3 + 8*x^2 + 2*x + 5$",
+    "solution": "${- \\frac{1}{2}, - \\frac{1}{6}}$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $49x^2 + 5x + 21 = $",
+    "solution": "$39.8333$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\sin)=$",
+    "solution": "$\\cos$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $86x^2 + 61x + 28 = $",
+    "solution": "$87.1667$"
+  },
+  {
+    "problem": "$7x^{3} + 5x^{3}$",
+    "solution": "$\\frac{7}{3}x^{4} + \\frac{5}{3}x^{4} + C$"
+  },
+  {
+    "problem": "$f(x)=x^3 + 9*x^2 + 3*x + 1$",
+    "solution": "${-3 - 2 \\sqrt{2}, -3 + 2 \\sqrt{2}}$"
+  },
+  {
+    "problem": "$f(x)=10*x^3 + 10*x^2 + 2*x + 5$",
+    "solution": "${- \\frac{1}{3} - \\frac{\\sqrt{10}}{15}, - \\frac{1}{3} + \\frac{\\sqrt{10}}{15}}$"
+  },
+  {
+    "problem": "$f(x)=10*x^2 + 4*x + 10$",
+    "solution": "${- \\frac{1}{5}}$"
+  },
+  {
+    "problem": "$10x^{1} + 3x^{8}$",
+    "solution": "$\\frac{10}{1}x^{2} + \\frac{3}{8}x^{9} + C$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\csc)=$",
+    "solution": "$-\\csc \\cdot \\cot$"
+  },
+  {
+    "problem": "$4x^{8} + 3x^{1}$",
+    "solution": "$\\frac{4}{8}x^{9} + \\frac{3}{1}x^{2} + C$"
+  },
+  {
+    "problem": "$f(x)=x^3 + 7*x^2 + 5*x + 6$",
+    "solution": "${- \\frac{7}{3} - \\frac{\\sqrt{34}}{3}, - \\frac{7}{3} + \\frac{\\sqrt{34}}{3}}$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $37x^2 + 61x + 38 = $",
+    "solution": "$80.8333$"
+  },
+  {
+    "problem": "$f(x)=2*x^3 + 5*x^2 + 2*x + 3$",
+    "solution": "${- \\frac{5}{6} - \\frac{\\sqrt{13}}{6}, - \\frac{5}{6} + \\frac{\\sqrt{13}}{6}}$"
+  },
+  {
+    "problem": "$9x^{3} + 8x^{10} + 5x^{4} + 7x^{1} + 4x^{10}$",
+    "solution": "$\\frac{9}{3}x^{4} + \\frac{8}{10}x^{11} + \\frac{5}{4}x^{5} + \\frac{7}{1}x^{2} + \\frac{4}{10}x^{11} + C$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $8x^2 + 33x + 29 = $",
+    "solution": "$48.1667$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\cot)=$",
+    "solution": "$-\\csc^{{2}}$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $25x^2 + 31x + 50 = $",
+    "solution": "$73.8333$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\cot)=$",
+    "solution": "$-\\csc^{{2}}$"
+  },
+  {
+    "problem": "$f(x)=6*x^3 + 6*x^2 + 2*x + 1$",
+    "solution": "${- \\frac{1}{3}}$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $28x^2 + 94x + 43 = $",
+    "solution": "$99.3333$"
+  },
+  {
+    "problem": "$f(x)=2*x^3 + 7*x^2 + 4*x + 10$",
+    "solution": "${-2, - \\frac{1}{3}}$"
+  },
+  {
+    "problem": "$f(x)=2*x^3 + 10*x^2 + 10*x + 1$",
+    "solution": "${- \\frac{5}{3} - \\frac{\\sqrt{10}}{3}, - \\frac{5}{3} + \\frac{\\sqrt{10}}{3}}$"
+  },
+  {
+    "problem": "$f(x)=3*x^2 + 4*x + 1$",
+    "solution": "${- \\frac{2}{3}}$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\csc)=$",
+    "solution": "$-\\csc \\cdot \\cot$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\cot)=$",
+    "solution": "$-\\csc^{{2}}$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\cot)=$",
+    "solution": "$-\\csc^{{2}}$"
+  },
+  {
+    "problem": "$f(x)=7*x^3 + 9*x^2 + 3*x + 5$",
+    "solution": "${- \\frac{3}{7} - \\frac{\\sqrt{2}}{7}, - \\frac{3}{7} + \\frac{\\sqrt{2}}{7}}$"
+  },
+  {
+    "problem": "$f(x)=x^3 + 10*x^2 + 5*x + 7$",
+    "solution": "${- \\frac{10}{3} - \\frac{\\sqrt{85}}{3}, - \\frac{10}{3} + \\frac{\\sqrt{85}}{3}}$"
+  },
+  {
+    "problem": "$f(x)=7*x^3 + 9*x^2 + 2*x + 2$",
+    "solution": "${- \\frac{3}{7} - \\frac{\\sqrt{39}}{21}, - \\frac{3}{7} + \\frac{\\sqrt{39}}{21}}$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\tan)=$",
+    "solution": "$\\sec^{{2}}$"
+  },
+  {
+    "problem": "$5x^{10}$",
+    "solution": "$\\frac{5}{10}x^{11} + C$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\tan)=$",
+    "solution": "$\\sec^{{2}}$"
+  },
+  {
+    "problem": "$f(x)=2*x^3 + 3*x^2 + x + 5$",
+    "solution": "${- \\frac{1}{2} - \\frac{\\sqrt{3}}{6}, - \\frac{1}{2} + \\frac{\\sqrt{3}}{6}}$"
+  },
+  {
+    "problem": "$f(x)=x^3 + 6*x^2 + 10*x$",
+    "solution": "${-2 - \\frac{\\sqrt{6}}{3}, -2 + \\frac{\\sqrt{6}}{3}}$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $96x^2 + 74x + 9 = $",
+    "solution": "$78.0$"
+  },
+  {
+    "problem": "$f(x)=6*x^3 + 10*x^2 + x + 3$",
+    "solution": "${- \\frac{5}{9} - \\frac{\\sqrt{82}}{18}, - \\frac{5}{9} + \\frac{\\sqrt{82}}{18}}$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $7x^2 + 29x + 81 = $",
+    "solution": "$97.8333$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\csc)=$",
+    "solution": "$-\\csc \\cdot \\cot$"
+  },
+  {
+    "problem": "$f(x)=8*x^3 + 7*x^2 + x$",
+    "solution": "${- \\frac{1}{2}, - \\frac{1}{12}}$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\cos)=$",
+    "solution": "$-\\sin$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $81x^2 + 8x + 30 = $",
+    "solution": "$61.0$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $87x^2 + 18x + 61 = $",
+    "solution": "$99.0$"
+  },
+  {
+    "problem": "$7x^{2} + 10x^{1} + 4x^{5} + 9x^{9}$",
+    "solution": "$\\frac{7}{2}x^{3} + \\frac{10}{1}x^{2} + \\frac{4}{5}x^{6} + \\frac{9}{9}x^{10} + C$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $86x^2 + 1x + 61 = $",
+    "solution": "$90.1667$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\cot)=$",
+    "solution": "$-\\csc^{{2}}$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $57x^2 + 76x + 27 = $",
+    "solution": "$84.0$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $37x^2 + 21x + 37 = $",
+    "solution": "$59.8333$"
+  },
+  {
+    "problem": "$4x^{8} + 8x^{9} + 3x^{9}$",
+    "solution": "$\\frac{4}{8}x^{9} + \\frac{8}{9}x^{10} + \\frac{3}{9}x^{10} + C$"
+  },
+  {
+    "problem": "$10x^{4}$",
+    "solution": "$\\frac{10}{4}x^{5} + C$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $78x^2 + 55x + 40 = $",
+    "solution": "$93.5$"
+  },
+  {
+    "problem": "$f(x)=7*x^3 + 8*x^2 + x + 9$",
+    "solution": "${- \\frac{8}{21} - \\frac{\\sqrt{43}}{21}, - \\frac{8}{21} + \\frac{\\sqrt{43}}{21}}$"
+  },
+  {
+    "problem": "$f(x)=2*x^3 + 8*x^2 + 5*x + 5$",
+    "solution": "${- \\frac{4}{3} - \\frac{\\sqrt{34}}{6}, - \\frac{4}{3} + \\frac{\\sqrt{34}}{6}}$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $6x^2 + 94x + 12 = $",
+    "solution": "$61.0$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\tan)=$",
+    "solution": "$\\sec^{{2}}$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $29x^2 + 14x + 97 = $",
+    "solution": "$113.6667$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\cot)=$",
+    "solution": "$-\\csc^{{2}}$"
+  },
+  {
+    "problem": "$2x^{10} + 6x^{6} + 7x^{1} + 9x^{8}$",
+    "solution": "$\\frac{2}{10}x^{11} + \\frac{6}{6}x^{7} + \\frac{7}{1}x^{2} + \\frac{9}{8}x^{9} + C$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\cos)=$",
+    "solution": "$-\\sin$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\tan)=$",
+    "solution": "$\\sec^{{2}}$"
+  },
+  {
+    "problem": "$7x^{3} + 9x^{6} + 1x^{6}$",
+    "solution": "$\\frac{7}{3}x^{4} + \\frac{9}{6}x^{7} + \\frac{1}{6}x^{7} + C$"
+  },
+  {
+    "problem": "$f(x)=3*x^3 + 3*x^2 + x + 10$",
+    "solution": "${- \\frac{1}{3}}$"
+  },
+  {
+    "problem": "$10x^{8}$",
+    "solution": "$\\frac{10}{8}x^{9} + C$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $14x^2 + 72x + 30 = $",
+    "solution": "$70.6667$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $9x^2 + 61x + 51 = $",
+    "solution": "$84.5$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $7x^2 + 34x + 56 = $",
+    "solution": "$75.3333$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $66x^2 + 22x + 37 = $",
+    "solution": "$70.0$"
+  },
+  {
+    "problem": "$f(x)=2*x^3 + 3*x^2 + x + 1$",
+    "solution": "${- \\frac{1}{2} - \\frac{\\sqrt{3}}{6}, - \\frac{1}{2} + \\frac{\\sqrt{3}}{6}}$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\csc)=$",
+    "solution": "$-\\csc \\cdot \\cot$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\csc)=$",
+    "solution": "$-\\csc \\cdot \\cot$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\sin)=$",
+    "solution": "$\\cos$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\sec)=$",
+    "solution": "$\\sec \\cdot \\tan$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\csc)=$",
+    "solution": "$-\\csc \\cdot \\cot$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $45x^2 + 54x + 79 = $",
+    "solution": "$121.0$"
+  },
+  {
+    "problem": "$6x^{5}$",
+    "solution": "$\\frac{6}{5}x^{6} + C$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\sin)=$",
+    "solution": "$\\cos$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $85x^2 + 29x + 65 = $",
+    "solution": "$107.8333$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\csc)=$",
+    "solution": "$-\\csc \\cdot \\cot$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\sin)=$",
+    "solution": "$\\cos$"
+  },
+  {
+    "problem": "$1x^{7} + 5x^{10} + 3x^{7} + 8x^{6} + 3x^{10}$",
+    "solution": "$\\frac{1}{7}x^{8} + \\frac{5}{10}x^{11} + \\frac{3}{7}x^{8} + \\frac{8}{6}x^{7} + \\frac{3}{10}x^{11} + C$"
+  },
+  {
+    "problem": "$f(x)=4*x^3 + 9*x^2 + 4*x + 9$",
+    "solution": "${- \\frac{3}{4} - \\frac{\\sqrt{33}}{12}, - \\frac{3}{4} + \\frac{\\sqrt{33}}{12}}$"
+  },
+  {
+    "problem": "$3x^{3} + 9x^{10} + 9x^{8}$",
+    "solution": "$\\frac{3}{3}x^{4} + \\frac{9}{10}x^{11} + \\frac{9}{8}x^{9} + C$"
+  },
+  {
+    "problem": "$f(x)=6*x^3 + 8*x^2$",
+    "solution": "${- \\frac{8}{9}, 0}$"
+  },
+  {
+    "problem": "$3x^{2} + 1x^{6} + 4x^{7} + 6x^{8} + 7x^{6}$",
+    "solution": "$\\frac{3}{2}x^{3} + \\frac{1}{6}x^{7} + \\frac{4}{7}x^{8} + \\frac{6}{8}x^{9} + \\frac{7}{6}x^{7} + C$"
+  },
+  {
+    "problem": "$4x^{5}$",
+    "solution": "$\\frac{4}{5}x^{6} + C$"
+  },
+  {
+    "problem": "$f(x)=x^2 + 2*x + 5$",
+    "solution": "${-1}$"
+  },
+  {
+    "problem": "$7x^{1} + 5x^{5}$",
+    "solution": "$\\frac{7}{1}x^{2} + \\frac{5}{5}x^{6} + C$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $51x^2 + 76x + 90 = $",
+    "solution": "$145.0$"
+  },
+  {
+    "problem": "$8x^{8} + 2x^{9} + 9x^{5} + 8x^{3} + 4x^{7}$",
+    "solution": "$\\frac{8}{8}x^{9} + \\frac{2}{9}x^{10} + \\frac{9}{5}x^{6} + \\frac{8}{3}x^{4} + \\frac{4}{7}x^{8} + C$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $76x^2 + 31x + 1 = $",
+    "solution": "$41.8333$"
+  },
+  {
+    "problem": "$f(x)=10*x^2 + 8*x + 7$",
+    "solution": "${- \\frac{2}{5}}$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $16x^2 + 84x + 89 = $",
+    "solution": "$136.3333$"
+  },
+  {
+    "problem": "$f(x)=3*x^3 + 9*x^2 + 8*x + 8$",
+    "solution": "${- \\frac{4}{3}, - \\frac{2}{3}}$"
+  },
+  {
+    "problem": "$f(x)=2*x^3 + 9*x^2 + 5*x + 3$",
+    "solution": "${- \\frac{3}{2} - \\frac{\\sqrt{51}}{6}, - \\frac{3}{2} + \\frac{\\sqrt{51}}{6}}$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $1x^2 + 73x + 59 = $",
+    "solution": "$95.8333$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $45x^2 + 12x + 39 = $",
+    "solution": "$60.0$"
+  },
+  {
+    "problem": "$f(x)=7*x^2 + x + 5$",
+    "solution": "${- \\frac{1}{14}}$"
+  },
+  {
+    "problem": "$f(x)=6*x^2 + 7*x + 3$",
+    "solution": "${- \\frac{7}{12}}$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\cot)=$",
+    "solution": "$-\\csc^{{2}}$"
+  },
+  {
+    "problem": "$f(x)=9*x^3 + 7*x^2 + x + 2$",
+    "solution": "${- \\frac{7}{27} - \\frac{\\sqrt{22}}{27}, - \\frac{7}{27} + \\frac{\\sqrt{22}}{27}}$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\sec)=$",
+    "solution": "$\\sec \\cdot \\tan$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $3x^2 + 43x + 60 = $",
+    "solution": "$82.5$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $28x^2 + 55x + 68 = $",
+    "solution": "$104.8333$"
+  },
+  {
+    "problem": "$f(x)=8*x^3 + 8*x^2 + 6$",
+    "solution": "${- \\frac{2}{3}, 0}$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $88x^2 + 80x + 89 = $",
+    "solution": "$158.3333$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $48x^2 + 24x + 60 = $",
+    "solution": "$88.0$"
+  },
+  {
+    "problem": "$6x^{4}$",
+    "solution": "$\\frac{6}{4}x^{5} + C$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\cot)=$",
+    "solution": "$-\\csc^{{2}}$"
+  },
+  {
+    "problem": "$f(x)=7*x^3 + x^2 + 6$",
+    "solution": "${- \\frac{2}{21}, 0}$"
+  },
+  {
+    "problem": "$f(x)=6*x^2 + 9*x + 5$",
+    "solution": "${- \\frac{3}{4}}$"
+  },
+  {
+    "problem": "$f(x)=3*x^3 + 7*x^2 + 4*x$",
+    "solution": "${- \\frac{7}{9} - \\frac{\\sqrt{13}}{9}, - \\frac{7}{9} + \\frac{\\sqrt{13}}{9}}$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $10x^2 + 96x + 78 = $",
+    "solution": "$129.3333$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $83x^2 + 4x + 57 = $",
+    "solution": "$86.6667$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\sin)=$",
+    "solution": "$\\cos$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\csc)=$",
+    "solution": "$-\\csc \\cdot \\cot$"
+  },
+  {
+    "problem": "$f(x)=5*x^3 + 8*x^2 + 8$",
+    "solution": "${- \\frac{16}{15}, 0}$"
+  },
+  {
+    "problem": "$7x^{5}$",
+    "solution": "$\\frac{7}{5}x^{6} + C$"
+  },
+  {
+    "problem": "$f(x)=x^3 + 10*x^2 + 2*x + 2$",
+    "solution": "${- \\frac{10}{3} - \\frac{\\sqrt{94}}{3}, - \\frac{10}{3} + \\frac{\\sqrt{94}}{3}}$"
+  },
+  {
+    "problem": "$10x^{10}$",
+    "solution": "$\\frac{10}{10}x^{11} + C$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\sec)=$",
+    "solution": "$\\sec \\cdot \\tan$"
+  },
+  {
+    "problem": "$2x^{4} + 10x^{3} + 2x^{1} + 3x^{7} + 3x^{8}$",
+    "solution": "$\\frac{2}{4}x^{5} + \\frac{10}{3}x^{4} + \\frac{2}{1}x^{2} + \\frac{3}{7}x^{8} + \\frac{3}{8}x^{9} + C$"
+  },
+  {
+    "problem": "$9x^{4} + 10x^{6} + 8x^{1} + 7x^{5}$",
+    "solution": "$\\frac{9}{4}x^{5} + \\frac{10}{6}x^{7} + \\frac{8}{1}x^{2} + \\frac{7}{5}x^{6} + C$"
+  },
+  {
+    "problem": "$8x^{5} + 1x^{10}$",
+    "solution": "$\\frac{8}{5}x^{6} + \\frac{1}{10}x^{11} + C$"
+  },
+  {
+    "problem": "$f(x)=4*x^3 + 9*x^2 + 5*x + 4$",
+    "solution": "${- \\frac{3}{4} - \\frac{\\sqrt{21}}{12}, - \\frac{3}{4} + \\frac{\\sqrt{21}}{12}}$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $44x^2 + 73x + 54 = $",
+    "solution": "$105.1667$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $46x^2 + 17x + 40 = $",
+    "solution": "$63.8333$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $65x^2 + 77x + 86 = $",
+    "solution": "$146.1667$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\cos)=$",
+    "solution": "$-\\sin$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\cot)=$",
+    "solution": "$-\\csc^{{2}}$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $96x^2 + 23x + 84 = $",
+    "solution": "$127.5$"
+  },
+  {
+    "problem": "$f(x)=9*x^2 + 2*x + 10$",
+    "solution": "${- \\frac{1}{9}}$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\cos)=$",
+    "solution": "$-\\sin$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $10x^2 + 12x + 32 = $",
+    "solution": "$41.3333$"
+  },
+  {
+    "problem": "$f(x)=x^3 + 8*x^2 + 3*x + 2$",
+    "solution": "${- \\frac{8}{3} - \\frac{\\sqrt{55}}{3}, - \\frac{8}{3} + \\frac{\\sqrt{55}}{3}}$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $93x^2 + 23x + 40 = $",
+    "solution": "$82.5$"
+  },
+  {
+    "problem": "$f(x)=2*x^2 + 4$",
+    "solution": "${0}$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\csc)=$",
+    "solution": "$-\\csc \\cdot \\cot$"
+  },
+  {
+    "problem": "$1x^{5} + 6x^{5} + 4x^{9} + 7x^{4} + 8x^{8}$",
+    "solution": "$\\frac{1}{5}x^{6} + \\frac{6}{5}x^{6} + \\frac{4}{9}x^{10} + \\frac{7}{4}x^{5} + \\frac{8}{8}x^{9} + C$"
+  },
+  {
+    "problem": "$3x^{3}$",
+    "solution": "$\\frac{3}{3}x^{4} + C$"
+  },
+  {
+    "problem": "$f(x)=2*x^2 + 10$",
+    "solution": "${0}$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\sin)=$",
+    "solution": "$\\cos$"
+  },
+  {
+    "problem": "$f(x)=7*x^3 + 9*x^2 + 7$",
+    "solution": "${- \\frac{6}{7}, 0}$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\sec)=$",
+    "solution": "$\\sec \\cdot \\tan$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\cos)=$",
+    "solution": "$-\\sin$"
+  },
+  {
+    "problem": "$6x^{3} + 3x^{9} + 5x^{8}$",
+    "solution": "$\\frac{6}{3}x^{4} + \\frac{3}{9}x^{10} + \\frac{5}{8}x^{9} + C$"
+  },
+  {
+    "problem": "$7x^{8} + 1x^{9} + 8x^{10} + 4x^{10} + 8x^{2}$",
+    "solution": "$\\frac{7}{8}x^{9} + \\frac{1}{9}x^{10} + \\frac{8}{10}x^{11} + \\frac{4}{10}x^{11} + \\frac{8}{2}x^{3} + C$"
+  },
+  {
+    "problem": "$3x^{9} + 9x^{10} + 4x^{4} + 3x^{3} + 1x^{6}$",
+    "solution": "$\\frac{3}{9}x^{10} + \\frac{9}{10}x^{11} + \\frac{4}{4}x^{5} + \\frac{3}{3}x^{4} + \\frac{1}{6}x^{7} + C$"
+  },
+  {
+    "problem": "$f(x)=8*x^3 + 7*x^2 + 2*x + 8$",
+    "solution": "${- \\frac{1}{3}, - \\frac{1}{4}}$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\tan)=$",
+    "solution": "$\\sec^{{2}}$"
+  },
+  {
+    "problem": "$2x^{5} + 2x^{8} + 9x^{6}$",
+    "solution": "$\\frac{2}{5}x^{6} + \\frac{2}{8}x^{9} + \\frac{9}{6}x^{7} + C$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\cot)=$",
+    "solution": "$-\\csc^{{2}}$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\cot)=$",
+    "solution": "$-\\csc^{{2}}$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\csc)=$",
+    "solution": "$-\\csc \\cdot \\cot$"
+  },
+  {
+    "problem": "$f(x)=9*x^3 + 3*x^2$",
+    "solution": "${- \\frac{2}{9}, 0}$"
+  },
+  {
+    "problem": "$f(x)=5*x^3 + 9*x^2 + 2*x + 9$",
+    "solution": "${- \\frac{3}{5} - \\frac{\\sqrt{51}}{15}, - \\frac{3}{5} + \\frac{\\sqrt{51}}{15}}$"
+  },
+  {
+    "problem": "$1x^{4}$",
+    "solution": "$\\frac{1}{4}x^{5} + C$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\csc)=$",
+    "solution": "$-\\csc \\cdot \\cot$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\csc)=$",
+    "solution": "$-\\csc \\cdot \\cot$"
+  },
+  {
+    "problem": "$f(x)=6*x^2 + 8*x + 7$",
+    "solution": "${- \\frac{2}{3}}$"
+  },
+  {
+    "problem": "$5x^{9} + 3x^{10} + 1x^{9} + 7x^{2} + 3x^{6}$",
+    "solution": "$\\frac{5}{9}x^{10} + \\frac{3}{10}x^{11} + \\frac{1}{9}x^{10} + \\frac{7}{2}x^{3} + \\frac{3}{6}x^{7} + C$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $41x^2 + 8x + 8 = $",
+    "solution": "$25.6667$"
+  },
+  {
+    "problem": "$5x^{4} + 1x^{10} + 10x^{10} + 9x^{9}$",
+    "solution": "$\\frac{5}{4}x^{5} + \\frac{1}{10}x^{11} + \\frac{10}{10}x^{11} + \\frac{9}{9}x^{10} + C$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $42x^2 + 91x + 12 = $",
+    "solution": "$71.5$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $71x^2 + 50x + 88 = $",
+    "solution": "$136.6667$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $90x^2 + 11x + 6 = $",
+    "solution": "$41.5$"
+  },
+  {
+    "problem": "$f(x)=3*x^2 + x$",
+    "solution": "${- \\frac{1}{6}}$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $43x^2 + 19x + 55 = $",
+    "solution": "$78.8333$"
+  },
+  {
+    "problem": "$3x^{9} + 6x^{5} + 9x^{10} + 10x^{2} + 10x^{6}$",
+    "solution": "$\\frac{3}{9}x^{10} + \\frac{6}{5}x^{6} + \\frac{9}{10}x^{11} + \\frac{10}{2}x^{3} + \\frac{10}{6}x^{7} + C$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $29x^2 + 84x + 86 = $",
+    "solution": "$137.6667$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\cos)=$",
+    "solution": "$-\\sin$"
+  },
+  {
+    "problem": "$f(x)=2*x^2 + 4*x + 3$",
+    "solution": "${-1}$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $54x^2 + 50x + 69 = $",
+    "solution": "$112.0$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $85x^2 + 17x + 48 = $",
+    "solution": "$84.8333$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\csc)=$",
+    "solution": "$-\\csc \\cdot \\cot$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $81x^2 + 64x + 41 = $",
+    "solution": "$100.0$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\sec)=$",
+    "solution": "$\\sec \\cdot \\tan$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $25x^2 + 47x + 53 = $",
+    "solution": "$84.8333$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\cos)=$",
+    "solution": "$-\\sin$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $91x^2 + 32x + 61 = $",
+    "solution": "$107.3333$"
+  },
+  {
+    "problem": "$f(x)=10*x^3 + 9$",
+    "solution": "${0}$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $30x^2 + 56x + 66 = $",
+    "solution": "$104.0$"
+  },
+  {
+    "problem": "$2x^{2} + 10x^{2}$",
+    "solution": "$\\frac{2}{2}x^{3} + \\frac{10}{2}x^{3} + C$"
+  },
+  {
+    "problem": "$3x^{7} + 6x^{7} + 3x^{8} + 9x^{5} + 3x^{7}$",
+    "solution": "$\\frac{3}{7}x^{8} + \\frac{6}{7}x^{8} + \\frac{3}{8}x^{9} + \\frac{9}{5}x^{6} + \\frac{3}{7}x^{8} + C$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $32x^2 + 24x + 72 = $",
+    "solution": "$94.6667$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\cos)=$",
+    "solution": "$-\\sin$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\sec)=$",
+    "solution": "$\\sec \\cdot \\tan$"
+  },
+  {
+    "problem": "$6x^{3}$",
+    "solution": "$\\frac{6}{3}x^{4} + C$"
+  },
+  {
+    "problem": "$f(x)=x^3 + 8*x^2 + 7*x + 6$",
+    "solution": "${- \\frac{8}{3} - \\frac{\\sqrt{43}}{3}, - \\frac{8}{3} + \\frac{\\sqrt{43}}{3}}$"
+  },
+  {
+    "problem": "$5x^{10} + 7x^{3}$",
+    "solution": "$\\frac{5}{10}x^{11} + \\frac{7}{3}x^{4} + C$"
+  },
+  {
+    "problem": "$6x^{1} + 4x^{8} + 2x^{7}$",
+    "solution": "$\\frac{6}{1}x^{2} + \\frac{4}{8}x^{9} + \\frac{2}{7}x^{8} + C$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $87x^2 + 15x + 27 = $",
+    "solution": "$63.5$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\sec)=$",
+    "solution": "$\\sec \\cdot \\tan$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\cot)=$",
+    "solution": "$-\\csc^{{2}}$"
+  },
+  {
+    "problem": "$5x^{3} + 1x^{9} + 4x^{1} + 3x^{4} + 5x^{3}$",
+    "solution": "$\\frac{5}{3}x^{4} + \\frac{1}{9}x^{10} + \\frac{4}{1}x^{2} + \\frac{3}{4}x^{5} + \\frac{5}{3}x^{4} + C$"
+  },
+  {
+    "problem": "$f(x)=4*x^2 + 9*x + 10$",
+    "solution": "${- \\frac{9}{8}}$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\cos)=$",
+    "solution": "$-\\sin$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\sin)=$",
+    "solution": "$\\cos$"
+  },
+  {
+    "problem": "$5x^{1} + 1x^{10}$",
+    "solution": "$\\frac{5}{1}x^{2} + \\frac{1}{10}x^{11} + C$"
+  },
+  {
+    "problem": "$8x^{3} + 10x^{6} + 8x^{7} + 5x^{9}$",
+    "solution": "$\\frac{8}{3}x^{4} + \\frac{10}{6}x^{7} + \\frac{8}{7}x^{8} + \\frac{5}{9}x^{10} + C$"
+  },
+  {
+    "problem": "$10x^{1} + 9x^{1} + 5x^{10} + 5x^{3} + 5x^{10}$",
+    "solution": "$\\frac{10}{1}x^{2} + \\frac{9}{1}x^{2} + \\frac{5}{10}x^{11} + \\frac{5}{3}x^{4} + \\frac{5}{10}x^{11} + C$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\tan)=$",
+    "solution": "$\\sec^{{2}}$"
+  },
+  {
+    "problem": "$2x^{8} + 4x^{9} + 4x^{3} + 10x^{4}$",
+    "solution": "$\\frac{2}{8}x^{9} + \\frac{4}{9}x^{10} + \\frac{4}{3}x^{4} + \\frac{10}{4}x^{5} + C$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $48x^2 + 44x + 62 = $",
+    "solution": "$100.0$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $72x^2 + 69x + 65 = $",
+    "solution": "$123.5$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $27x^2 + 97x + 57 = $",
+    "solution": "$114.5$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\csc)=$",
+    "solution": "$-\\csc \\cdot \\cot$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $85x^2 + 52x + 99 = $",
+    "solution": "$153.3333$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $66x^2 + 46x + 16 = $",
+    "solution": "$61.0$"
+  },
+  {
+    "problem": "$f(x)=2*x^2 + 8$",
+    "solution": "${0}$"
+  },
+  {
+    "problem": "$9x^{5} + 8x^{5} + 5x^{4}$",
+    "solution": "$\\frac{9}{5}x^{6} + \\frac{8}{5}x^{6} + \\frac{5}{4}x^{5} + C$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\sec)=$",
+    "solution": "$\\sec \\cdot \\tan$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\cot)=$",
+    "solution": "$-\\csc^{{2}}$"
+  },
+  {
+    "problem": "$4x^{8} + 4x^{8}$",
+    "solution": "$\\frac{4}{8}x^{9} + \\frac{4}{8}x^{9} + C$"
+  },
+  {
+    "problem": "$f(x)=2*x^3 + 4*x^2 + 1$",
+    "solution": "${- \\frac{4}{3}, 0}$"
+  },
+  {
+    "problem": "$1x^{6} + 6x^{6} + 4x^{3} + 8x^{1} + 1x^{10}$",
+    "solution": "$\\frac{1}{6}x^{7} + \\frac{6}{6}x^{7} + \\frac{4}{3}x^{4} + \\frac{8}{1}x^{2} + \\frac{1}{10}x^{11} + C$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\cos)=$",
+    "solution": "$-\\sin$"
+  },
+  {
+    "problem": "$f(x)=8*x^3 + 8*x^2 + 3$",
+    "solution": "${- \\frac{2}{3}, 0}$"
+  },
+  {
+    "problem": "$f(x)=2*x^2 + 9*x + 3$",
+    "solution": "${- \\frac{9}{4}}$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $39x^2 + 96x + 36 = $",
+    "solution": "$97.0$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\cos)=$",
+    "solution": "$-\\sin$"
+  },
+  {
+    "problem": "$8x^{10} + 7x^{9} + 2x^{9} + 1x^{2}$",
+    "solution": "$\\frac{8}{10}x^{11} + \\frac{7}{9}x^{10} + \\frac{2}{9}x^{10} + \\frac{1}{2}x^{3} + C$"
+  },
+  {
+    "problem": "$8x^{1}$",
+    "solution": "$\\frac{8}{1}x^{2} + C$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $99x^2 + 12x + 39 = $",
+    "solution": "$78.0$"
+  },
+  {
+    "problem": "$4x^{8} + 8x^{3} + 10x^{1}$",
+    "solution": "$\\frac{4}{8}x^{9} + \\frac{8}{3}x^{4} + \\frac{10}{1}x^{2} + C$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\sec)=$",
+    "solution": "$\\sec \\cdot \\tan$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $26x^2 + 55x + 28 = $",
+    "solution": "$64.1667$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\cot)=$",
+    "solution": "$-\\csc^{{2}}$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $18x^2 + 91x + 81 = $",
+    "solution": "$132.5$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $57x^2 + 27x + 80 = $",
+    "solution": "$112.5$"
+  },
+  {
+    "problem": "$f(x)=7*x^2 + 10*x + 9$",
+    "solution": "${- \\frac{5}{7}}$"
+  },
+  {
+    "problem": "$5x^{4} + 4x^{4} + 7x^{1} + 6x^{5}$",
+    "solution": "$\\frac{5}{4}x^{5} + \\frac{4}{4}x^{5} + \\frac{7}{1}x^{2} + \\frac{6}{5}x^{6} + C$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $44x^2 + 73x + 15 = $",
+    "solution": "$66.1667$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $92x^2 + 95x + 29 = $",
+    "solution": "$107.1667$"
+  },
+  {
+    "problem": "$f(x)=9*x^2 + 10*x + 3$",
+    "solution": "${- \\frac{5}{9}}$"
+  },
+  {
+    "problem": "$1x^{3} + 4x^{6}$",
+    "solution": "$\\frac{1}{3}x^{4} + \\frac{4}{6}x^{7} + C$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $44x^2 + 45x + 47 = $",
+    "solution": "$84.1667$"
+  },
+  {
+    "problem": "$f(x)=3*x^3 + 9*x^2 + 4*x + 1$",
+    "solution": "${-1 - \\frac{\\sqrt{5}}{3}, -1 + \\frac{\\sqrt{5}}{3}}$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\sec)=$",
+    "solution": "$\\sec \\cdot \\tan$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\sin)=$",
+    "solution": "$\\cos$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $64x^2 + 25x + 19 = $",
+    "solution": "$52.8333$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\cos)=$",
+    "solution": "$-\\sin$"
+  },
+  {
+    "problem": "$10x^{5} + 1x^{8} + 9x^{1}$",
+    "solution": "$\\frac{10}{5}x^{6} + \\frac{1}{8}x^{9} + \\frac{9}{1}x^{2} + C$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\tan)=$",
+    "solution": "$\\sec^{{2}}$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $49x^2 + 7x + 68 = $",
+    "solution": "$87.8333$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\tan)=$",
+    "solution": "$\\sec^{{2}}$"
+  },
+  {
+    "problem": "$4x^{4} + 10x^{5} + 5x^{8} + 8x^{1} + 5x^{10}$",
+    "solution": "$\\frac{4}{4}x^{5} + \\frac{10}{5}x^{6} + \\frac{5}{8}x^{9} + \\frac{8}{1}x^{2} + \\frac{5}{10}x^{11} + C$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $92x^2 + 65x + 93 = $",
+    "solution": "$156.1667$"
+  },
+  {
+    "problem": "$f(x)=3*x^3 + 3$",
+    "solution": "${0}$"
+  },
+  {
+    "problem": "$1x^{5} + 5x^{5} + 6x^{3}$",
+    "solution": "$\\frac{1}{5}x^{6} + \\frac{5}{5}x^{6} + \\frac{6}{3}x^{4} + C$"
+  },
+  {
+    "problem": "$1x^{2}$",
+    "solution": "$\\frac{1}{2}x^{3} + C$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\tan)=$",
+    "solution": "$\\sec^{{2}}$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $32x^2 + 28x + 42 = $",
+    "solution": "$66.6667$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $90x^2 + 91x + 21 = $",
+    "solution": "$96.5$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\sin)=$",
+    "solution": "$\\cos$"
+  },
+  {
+    "problem": "$5x^{8} + 8x^{6} + 3x^{5} + 1x^{4}$",
+    "solution": "$\\frac{5}{8}x^{9} + \\frac{8}{6}x^{7} + \\frac{3}{5}x^{6} + \\frac{1}{4}x^{5} + C$"
+  },
+  {
+    "problem": "$9x^{4} + 5x^{3}$",
+    "solution": "$\\frac{9}{4}x^{5} + \\frac{5}{3}x^{4} + C$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\sec)=$",
+    "solution": "$\\sec \\cdot \\tan$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $36x^2 + 33x + 33 = $",
+    "solution": "$61.5$"
+  },
+  {
+    "problem": "$4x^{1} + 2x^{10} + 5x^{3}$",
+    "solution": "$\\frac{4}{1}x^{2} + \\frac{2}{10}x^{11} + \\frac{5}{3}x^{4} + C$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\sin)=$",
+    "solution": "$\\cos$"
+  },
+  {
+    "problem": "$7x^{4} + 3x^{3}$",
+    "solution": "$\\frac{7}{4}x^{5} + \\frac{3}{3}x^{4} + C$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $3x^2 + 29x + 59 = $",
+    "solution": "$74.5$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\cot)=$",
+    "solution": "$-\\csc^{{2}}$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\sin)=$",
+    "solution": "$\\cos$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\cos)=$",
+    "solution": "$-\\sin$"
+  },
+  {
+    "problem": "$f(x)=6*x^2 + 9*x + 9$",
+    "solution": "${- \\frac{3}{4}}$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $86x^2 + 44x + 7 = $",
+    "solution": "$57.6667$"
+  },
+  {
+    "problem": "$2x^{7} + 8x^{6} + 9x^{2} + 10x^{6} + 5x^{2}$",
+    "solution": "$\\frac{2}{7}x^{8} + \\frac{8}{6}x^{7} + \\frac{9}{2}x^{3} + \\frac{10}{6}x^{7} + \\frac{5}{2}x^{3} + C$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $5x^2 + 76x + 59 = $",
+    "solution": "$98.6667$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $0x^2 + 47x + 37 = $",
+    "solution": "$60.5$"
+  },
+  {
+    "problem": "$8x^{1} + 10x^{9}$",
+    "solution": "$\\frac{8}{1}x^{2} + \\frac{10}{9}x^{10} + C$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\cot)=$",
+    "solution": "$-\\csc^{{2}}$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $25x^2 + 9x + 24 = $",
+    "solution": "$36.8333$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $94x^2 + 77x + 76 = $",
+    "solution": "$145.8333$"
+  },
+  {
+    "problem": "$3x^{2}$",
+    "solution": "$\\frac{3}{2}x^{3} + C$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\sin)=$",
+    "solution": "$\\cos$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\cos)=$",
+    "solution": "$-\\sin$"
+  },
+  {
+    "problem": "$2x^{8} + 6x^{1} + 7x^{10} + 5x^{10} + 4x^{5}$",
+    "solution": "$\\frac{2}{8}x^{9} + \\frac{6}{1}x^{2} + \\frac{7}{10}x^{11} + \\frac{5}{10}x^{11} + \\frac{4}{5}x^{6} + C$"
+  },
+  {
+    "problem": "$6x^{6}$",
+    "solution": "$\\frac{6}{6}x^{7} + C$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $0x^2 + 34x + 2 = $",
+    "solution": "$19.0$"
+  },
+  {
+    "problem": "$4x^{4}$",
+    "solution": "$\\frac{4}{4}x^{5} + C$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $60x^2 + 7x + 30 = $",
+    "solution": "$53.5$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $33x^2 + 21x + 95 = $",
+    "solution": "$116.5$"
+  },
+  {
+    "problem": "$6x^{9} + 6x^{3} + 9x^{5} + 7x^{2} + 2x^{2}$",
+    "solution": "$\\frac{6}{9}x^{10} + \\frac{6}{3}x^{4} + \\frac{9}{5}x^{6} + \\frac{7}{2}x^{3} + \\frac{2}{2}x^{3} + C$"
+  },
+  {
+    "problem": "$8x^{8}$",
+    "solution": "$\\frac{8}{8}x^{9} + C$"
+  },
+  {
+    "problem": "$9x^{3} + 3x^{6} + 6x^{3} + 2x^{8}$",
+    "solution": "$\\frac{9}{3}x^{4} + \\frac{3}{6}x^{7} + \\frac{6}{3}x^{4} + \\frac{2}{8}x^{9} + C$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\csc)=$",
+    "solution": "$-\\csc \\cdot \\cot$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\csc)=$",
+    "solution": "$-\\csc \\cdot \\cot$"
+  },
+  {
+    "problem": "$3x^{6}$",
+    "solution": "$\\frac{3}{6}x^{7} + C$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $93x^2 + 76x + 15 = $",
+    "solution": "$84.0$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\csc)=$",
+    "solution": "$-\\csc \\cdot \\cot$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $94x^2 + 56x + 100 = $",
+    "solution": "$159.3333$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $75x^2 + 25x + 48 = $",
+    "solution": "$85.5$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $65x^2 + 37x + 37 = $",
+    "solution": "$77.1667$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\sin)=$",
+    "solution": "$\\cos$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\cot)=$",
+    "solution": "$-\\csc^{{2}}$"
+  },
+  {
+    "problem": "$10x^{2} + 3x^{3} + 5x^{9} + 3x^{10}$",
+    "solution": "$\\frac{10}{2}x^{3} + \\frac{3}{3}x^{4} + \\frac{5}{9}x^{10} + \\frac{3}{10}x^{11} + C$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\cot)=$",
+    "solution": "$-\\csc^{{2}}$"
+  },
+  {
+    "problem": "$f(x)=8*x^3 + 9*x^2 + 2*x + 8$",
+    "solution": "${- \\frac{3}{8} - \\frac{\\sqrt{33}}{24}, - \\frac{3}{8} + \\frac{\\sqrt{33}}{24}}$"
+  },
+  {
+    "problem": "$2x^{2} + 6x^{4} + 5x^{3} + 7x^{8} + 2x^{7}$",
+    "solution": "$\\frac{2}{2}x^{3} + \\frac{6}{4}x^{5} + \\frac{5}{3}x^{4} + \\frac{7}{8}x^{9} + \\frac{2}{7}x^{8} + C$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $54x^2 + 41x + 10 = $",
+    "solution": "$48.5$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\cos)=$",
+    "solution": "$-\\sin$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $5x^2 + 9x + 92 = $",
+    "solution": "$98.1667$"
+  },
+  {
+    "problem": "$9x^{1} + 4x^{10} + 7x^{2}$",
+    "solution": "$\\frac{9}{1}x^{2} + \\frac{4}{10}x^{11} + \\frac{7}{2}x^{3} + C$"
+  },
+  {
+    "problem": "$f(x)=3*x^3 + 8*x^2 + 9$",
+    "solution": "${- \\frac{16}{9}, 0}$"
+  },
+  {
+    "problem": "$2x^{1} + 6x^{1} + 3x^{9} + 6x^{7} + 8x^{1}$",
+    "solution": "$\\frac{2}{1}x^{2} + \\frac{6}{1}x^{2} + \\frac{3}{9}x^{10} + \\frac{6}{7}x^{8} + \\frac{8}{1}x^{2} + C$"
+  },
+  {
+    "problem": "$f(x)=x^3 + 5*x^2 + 8*x$",
+    "solution": "${-2, - \\frac{4}{3}}$"
+  },
+  {
+    "problem": "$f(x)=x^2 + 2*x + 2$",
+    "solution": "${-1}$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $31x^2 + 95x + 65 = $",
+    "solution": "$122.8333$"
+  },
+  {
+    "problem": "$2x^{8} + 2x^{1} + 2x^{8} + 1x^{7}$",
+    "solution": "$\\frac{2}{8}x^{9} + \\frac{2}{1}x^{2} + \\frac{2}{8}x^{9} + \\frac{1}{7}x^{8} + C$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $63x^2 + 89x + 55 = $",
+    "solution": "$120.5$"
+  },
+  {
+    "problem": "$9x^{9} + 6x^{1}$",
+    "solution": "$\\frac{9}{9}x^{10} + \\frac{6}{1}x^{2} + C$"
+  },
+  {
+    "problem": "$10x^{5} + 3x^{2} + 9x^{5}$",
+    "solution": "$\\frac{10}{5}x^{6} + \\frac{3}{2}x^{3} + \\frac{9}{5}x^{6} + C$"
+  },
+  {
+    "problem": "$f(x)=6*x^3 + 10*x^2 + 3*x + 6$",
+    "solution": "${- \\frac{5}{9} - \\frac{\\sqrt{46}}{18}, - \\frac{5}{9} + \\frac{\\sqrt{46}}{18}}$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\sin)=$",
+    "solution": "$\\cos$"
+  },
+  {
+    "problem": "$8x^{10} + 6x^{3} + 6x^{8} + 2x^{1}$",
+    "solution": "$\\frac{8}{10}x^{11} + \\frac{6}{3}x^{4} + \\frac{6}{8}x^{9} + \\frac{2}{1}x^{2} + C$"
+  },
+  {
+    "problem": "$f(x)=10*x^2 + 6*x + 3$",
+    "solution": "${- \\frac{3}{10}}$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\sin)=$",
+    "solution": "$\\cos$"
+  },
+  {
+    "problem": "$5x^{9} + 8x^{7}$",
+    "solution": "$\\frac{5}{9}x^{10} + \\frac{8}{7}x^{8} + C$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $92x^2 + 59x + 49 = $",
+    "solution": "$109.1667$"
+  },
+  {
+    "problem": "$7x^{6} + 10x^{9} + 5x^{2} + 9x^{7} + 1x^{2}$",
+    "solution": "$\\frac{7}{6}x^{7} + \\frac{10}{9}x^{10} + \\frac{5}{2}x^{3} + \\frac{9}{7}x^{8} + \\frac{1}{2}x^{3} + C$"
+  },
+  {
+    "problem": "$f(x)=7*x^2 + 3*x + 9$",
+    "solution": "${- \\frac{3}{14}}$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\cos)=$",
+    "solution": "$-\\sin$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $93x^2 + 98x + 68 = $",
+    "solution": "$148.0$"
+  },
+  {
+    "problem": "$5x^{1} + 3x^{5}$",
+    "solution": "$\\frac{5}{1}x^{2} + \\frac{3}{5}x^{6} + C$"
+  },
+  {
+    "problem": "$f(x)=2*x^2 + x + 2$",
+    "solution": "${- \\frac{1}{4}}$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $36x^2 + 7x + 80 = $",
+    "solution": "$95.5$"
+  },
+  {
+    "problem": "$f(x)=3*x^3 + 3*x^2 + 6$",
+    "solution": "${- \\frac{2}{3}, 0}$"
+  },
+  {
+    "problem": "$f(x)=8*x^2 + 6*x + 2$",
+    "solution": "${- \\frac{3}{8}}$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\csc)=$",
+    "solution": "$-\\csc \\cdot \\cot$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $84x^2 + 100x + 98 = $",
+    "solution": "$176.0$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $96x^2 + 20x + 96 = $",
+    "solution": "$138.0$"
+  },
+  {
+    "problem": "$7x^{10} + 1x^{9} + 1x^{9}$",
+    "solution": "$\\frac{7}{10}x^{11} + \\frac{1}{9}x^{10} + \\frac{1}{9}x^{10} + C$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $33x^2 + 48x + 17 = $",
+    "solution": "$52.0$"
+  },
+  {
+    "problem": "$f(x)=10*x^2 + 5*x + 3$",
+    "solution": "${- \\frac{1}{4}}$"
+  },
+  {
+    "problem": "$f(x)=x^3 + 7*x^2 + 6*x + 2$",
+    "solution": "${- \\frac{7}{3} - \\frac{\\sqrt{31}}{3}, - \\frac{7}{3} + \\frac{\\sqrt{31}}{3}}$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $9x^2 + 85x + 99 = $",
+    "solution": "$144.5$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $90x^2 + 62x + 63 = $",
+    "solution": "$124.0$"
+  },
+  {
+    "problem": "$f(x)=8*x^3 + 8*x^2 + 2*x + 1$",
+    "solution": "${- \\frac{1}{2}, - \\frac{1}{6}}$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\cos)=$",
+    "solution": "$-\\sin$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $88x^2 + 49x + 22 = $",
+    "solution": "$75.8333$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\sec)=$",
+    "solution": "$\\sec \\cdot \\tan$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\tan)=$",
+    "solution": "$\\sec^{{2}}$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\cos)=$",
+    "solution": "$-\\sin$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\cos)=$",
+    "solution": "$-\\sin$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\csc)=$",
+    "solution": "$-\\csc \\cdot \\cot$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $49x^2 + 54x + 7 = $",
+    "solution": "$50.3333$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $36x^2 + 47x + 8 = $",
+    "solution": "$43.5$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\sec)=$",
+    "solution": "$\\sec \\cdot \\tan$"
+  },
+  {
+    "problem": "$7x^{3} + 5x^{2} + 1x^{4}$",
+    "solution": "$\\frac{7}{3}x^{4} + \\frac{5}{2}x^{3} + \\frac{1}{4}x^{5} + C$"
+  },
+  {
+    "problem": "$4x^{9} + 2x^{1} + 7x^{8} + 6x^{2}$",
+    "solution": "$\\frac{4}{9}x^{10} + \\frac{2}{1}x^{2} + \\frac{7}{8}x^{9} + \\frac{6}{2}x^{3} + C$"
+  },
+  {
+    "problem": "$f(x)=10*x^2 + 3*x + 3$",
+    "solution": "${- \\frac{3}{20}}$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\csc)=$",
+    "solution": "$-\\csc \\cdot \\cot$"
+  },
+  {
+    "problem": "$f(x)=10*x^3 + 8*x^2 + x + 6$",
+    "solution": "${- \\frac{4}{15} - \\frac{\\sqrt{34}}{30}, - \\frac{4}{15} + \\frac{\\sqrt{34}}{30}}$"
+  },
+  {
+    "problem": "$f(x)=3*x^3 + 5*x^2 + x + 8$",
+    "solution": "${-1, - \\frac{1}{9}}$"
+  },
+  {
+    "problem": "$9x^{9} + 9x^{1} + 1x^{3}$",
+    "solution": "$\\frac{9}{9}x^{10} + \\frac{9}{1}x^{2} + \\frac{1}{3}x^{4} + C$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\sin)=$",
+    "solution": "$\\cos$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\sec)=$",
+    "solution": "$\\sec \\cdot \\tan$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\cot)=$",
+    "solution": "$-\\csc^{{2}}$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\tan)=$",
+    "solution": "$\\sec^{{2}}$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\sin)=$",
+    "solution": "$\\cos$"
+  },
+  {
+    "problem": "$f(x)=x^3 + 9*x^2 + x + 6$",
+    "solution": "${-3 - \\frac{\\sqrt{78}}{3}, -3 + \\frac{\\sqrt{78}}{3}}$"
+  },
+  {
+    "problem": "$f(x)=7*x^3 + 10*x^2 + 2*x + 5$",
+    "solution": "${- \\frac{10}{21} - \\frac{\\sqrt{58}}{21}, - \\frac{10}{21} + \\frac{\\sqrt{58}}{21}}$"
+  },
+  {
+    "problem": "$f(x)=3*x^3 + 4*x^2 + x + 3$",
+    "solution": "${- \\frac{4}{9} - \\frac{\\sqrt{7}}{9}, - \\frac{4}{9} + \\frac{\\sqrt{7}}{9}}$"
+  },
+  {
+    "problem": "$f(x)=x^3 + 8*x^2 + x + 10$",
+    "solution": "${- \\frac{8}{3} - \\frac{\\sqrt{61}}{3}, - \\frac{8}{3} + \\frac{\\sqrt{61}}{3}}$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $75x^2 + 17x + 58 = $",
+    "solution": "$91.5$"
+  },
+  {
+    "problem": "$7x^{1}$",
+    "solution": "$\\frac{7}{1}x^{2} + C$"
+  },
+  {
+    "problem": "$f(x)=x^2 + x + 9$",
+    "solution": "${- \\frac{1}{2}}$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $56x^2 + 37x + 2 = $",
+    "solution": "$39.1667$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\csc)=$",
+    "solution": "$-\\csc \\cdot \\cot$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $52x^2 + 63x + 6 = $",
+    "solution": "$54.8333$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $52x^2 + 11x + 0 = $",
+    "solution": "$22.8333$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $38x^2 + 28x + 43 = $",
+    "solution": "$69.6667$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $97x^2 + 100x + 30 = $",
+    "solution": "$112.3333$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\sec)=$",
+    "solution": "$\\sec \\cdot \\tan$"
+  },
+  {
+    "problem": "$f(x)=5*x^3 + 5*x^2 + x + 7$",
+    "solution": "${- \\frac{1}{3} - \\frac{\\sqrt{10}}{15}, - \\frac{1}{3} + \\frac{\\sqrt{10}}{15}}$"
+  },
+  {
+    "problem": "$f(x)=6*x^3 + 5*x^2 + x$",
+    "solution": "${- \\frac{5}{18} - \\frac{\\sqrt{7}}{18}, - \\frac{5}{18} + \\frac{\\sqrt{7}}{18}}$"
+  },
+  {
+    "problem": "$7x^{9}$",
+    "solution": "$\\frac{7}{9}x^{10} + C$"
+  },
+  {
+    "problem": "$10x^{7} + 3x^{7} + 1x^{8}$",
+    "solution": "$\\frac{10}{7}x^{8} + \\frac{3}{7}x^{8} + \\frac{1}{8}x^{9} + C$"
+  },
+  {
+    "problem": "$f(x)=6*x^3 + 9*x^2 + 4$",
+    "solution": "${-1, 0}$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\sin)=$",
+    "solution": "$\\cos$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\csc)=$",
+    "solution": "$-\\csc \\cdot \\cot$"
+  },
+  {
+    "problem": "$f(x)=3*x^3 + 9*x^2 + 9*x + 10$",
+    "solution": "${-1}$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\csc)=$",
+    "solution": "$-\\csc \\cdot \\cot$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $0x^2 + 48x + 92 = $",
+    "solution": "$116.0$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $35x^2 + 30x + 18 = $",
+    "solution": "$44.6667$"
+  },
+  {
+    "problem": "$f(x)=3*x^3 + 9*x^2 + 2*x + 8$",
+    "solution": "${-1 - \\frac{\\sqrt{7}}{3}, -1 + \\frac{\\sqrt{7}}{3}}$"
+  },
+  {
+    "problem": "$f(x)=4*x^3 + 8*x^2 + 4*x + 5$",
+    "solution": "${-1, - \\frac{1}{3}}$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\sec)=$",
+    "solution": "$\\sec \\cdot \\tan$"
+  },
+  {
+    "problem": "$f(x)=5*x^2 + 10*x + 1$",
+    "solution": "${-1}$"
+  },
+  {
+    "problem": "$f(x)=10*x^3 + 10*x^2 + 3*x + 10$",
+    "solution": "${- \\frac{1}{3} - \\frac{\\sqrt{10}}{30}, - \\frac{1}{3} + \\frac{\\sqrt{10}}{30}}$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $30x^2 + 87x + 62 = $",
+    "solution": "$115.5$"
+  },
+  {
+    "problem": "$8x^{2} + 7x^{1} + 7x^{10} + 10x^{2}$",
+    "solution": "$\\frac{8}{2}x^{3} + \\frac{7}{1}x^{2} + \\frac{7}{10}x^{11} + \\frac{10}{2}x^{3} + C$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\tan)=$",
+    "solution": "$\\sec^{{2}}$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\csc)=$",
+    "solution": "$-\\csc \\cdot \\cot$"
+  },
+  {
+    "problem": "$f(x)=2*x^3 + 7$",
+    "solution": "${0}$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $50x^2 + 17x + 15 = $",
+    "solution": "$40.1667$"
+  },
+  {
+    "problem": "$f(x)=9*x^2 + 8*x + 10$",
+    "solution": "${- \\frac{4}{9}}$"
+  },
+  {
+    "problem": "$1x^{2} + 5x^{8}$",
+    "solution": "$\\frac{1}{2}x^{3} + \\frac{5}{8}x^{9} + C$"
+  },
+  {
+    "problem": "$6x^{2}$",
+    "solution": "$\\frac{6}{2}x^{3} + C$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\sec)=$",
+    "solution": "$\\sec \\cdot \\tan$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $40x^2 + 11x + 33 = $",
+    "solution": "$51.8333$"
+  },
+  {
+    "problem": "$3x^{3} + 5x^{3} + 7x^{3}$",
+    "solution": "$\\frac{3}{3}x^{4} + \\frac{5}{3}x^{4} + \\frac{7}{3}x^{4} + C$"
+  },
+  {
+    "problem": "$3x^{6}$",
+    "solution": "$\\frac{3}{6}x^{7} + C$"
+  },
+  {
+    "problem": "$5x^{2}$",
+    "solution": "$\\frac{5}{2}x^{3} + C$"
+  },
+  {
+    "problem": "$f(x)=4*x^2 + 7*x + 9$",
+    "solution": "${- \\frac{7}{8}}$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\tan)=$",
+    "solution": "$\\sec^{{2}}$"
+  },
+  {
+    "problem": "$4x^{5} + 7x^{1}$",
+    "solution": "$\\frac{4}{5}x^{6} + \\frac{7}{1}x^{2} + C$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\cot)=$",
+    "solution": "$-\\csc^{{2}}$"
+  },
+  {
+    "problem": "$4x^{10}$",
+    "solution": "$\\frac{4}{10}x^{11} + C$"
+  },
+  {
+    "problem": "$f(x)=6*x^3 + 3*x^2 + 1$",
+    "solution": "${- \\frac{1}{3}, 0}$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $35x^2 + 48x + 51 = $",
+    "solution": "$86.6667$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\sec)=$",
+    "solution": "$\\sec \\cdot \\tan$"
+  },
+  {
+    "problem": "$3x^{3} + 7x^{9} + 10x^{7} + 5x^{2} + 3x^{9}$",
+    "solution": "$\\frac{3}{3}x^{4} + \\frac{7}{9}x^{10} + \\frac{10}{7}x^{8} + \\frac{5}{2}x^{3} + \\frac{3}{9}x^{10} + C$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $16x^2 + 89x + 29 = $",
+    "solution": "$78.8333$"
+  },
+  {
+    "problem": "$5x^{5} + 6x^{7} + 9x^{9} + 10x^{1} + 5x^{1}$",
+    "solution": "$\\frac{5}{5}x^{6} + \\frac{6}{7}x^{8} + \\frac{9}{9}x^{10} + \\frac{10}{1}x^{2} + \\frac{5}{1}x^{2} + C$"
+  },
+  {
+    "problem": "$f(x)=5*x^2 + 6*x + 6$",
+    "solution": "${- \\frac{3}{5}}$"
+  },
+  {
+    "problem": "$10x^{7} + 4x^{6} + 7x^{6} + 3x^{8} + 1x^{7}$",
+    "solution": "$\\frac{10}{7}x^{8} + \\frac{4}{6}x^{7} + \\frac{7}{6}x^{7} + \\frac{3}{8}x^{9} + \\frac{1}{7}x^{8} + C$"
+  },
+  {
+    "problem": "$f(x)=4*x^3 + 7*x^2 + 10$",
+    "solution": "${- \\frac{7}{6}, 0}$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\csc)=$",
+    "solution": "$-\\csc \\cdot \\cot$"
+  },
+  {
+    "problem": "$f(x)=2*x^3 + 8*x^2 + 2*x + 2$",
+    "solution": "${- \\frac{4}{3} - \\frac{\\sqrt{13}}{3}, - \\frac{4}{3} + \\frac{\\sqrt{13}}{3}}$"
+  },
+  {
+    "problem": "The definite integral within limits $0$ to $1$ of the equation $30x^2 + 98x + 61 = $",
+    "solution": "$120.0$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\sec)=$",
+    "solution": "$\\sec \\cdot \\tan$"
+  },
+  {
+    "problem": "$\\frac{d}{dx}(\\sec)=$",
+    "solution": "$\\sec \\cdot \\tan$"
+  }
+]

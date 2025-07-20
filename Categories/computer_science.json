@@ -1,0 +1,2002 @@
+[
+  {
+    "problem": "$001$",
+    "solution": "$1$"
+  },
+  {
+    "problem": "Binary of $5 = $",
+    "solution": "$101$"
+  },
+  {
+    "problem": "Binary of $77 = $",
+    "solution": "$1001101$"
+  },
+  {
+    "problem": "The decimal number ${x}$ in Octal is: ",
+    "solution": "$0o2736$"
+  },
+  {
+    "problem": "BCD of Decimal Number $5426 = $",
+    "solution": "$1532$"
+  },
+  {
+    "problem": "2's complement of $11111010 = $",
+    "solution": "$110$"
+  },
+  {
+    "problem": "Integer of Binary Coded Decimal $9$ is $=$ ",
+    "solution": "$38470$"
+  },
+  {
+    "problem": "$14$ % $37 = $",
+    "solution": "$14$"
+  },
+  {
+    "problem": "The Fibonacci Series of the first ${n}$ numbers is ?",
+    "solution": "$0, 1, 1, 2, 3, 5, 8, 13, 21$"
+  },
+  {
+    "problem": "Integer of Binary Coded Decimal $6$ is $=$ ",
+    "solution": "$24920$"
+  },
+  {
+    "problem": "BCD of Decimal Number $6329 = $",
+    "solution": "$18119$"
+  },
+  {
+    "problem": "2's complement of $1111101 = $",
+    "solution": "$11$"
+  },
+  {
+    "problem": "Binary of $39 = $",
+    "solution": "$100111$"
+  },
+  {
+    "problem": "Binary of $396 = $",
+    "solution": "$0x18c$"
+  },
+  {
+    "problem": "Binary of $55 = $",
+    "solution": "$110111$"
+  },
+  {
+    "problem": "Binary of $313 = $",
+    "solution": "$0x139$"
+  },
+  {
+    "problem": "$72$ % $0 = $",
+    "solution": "$0$"
+  },
+  {
+    "problem": "What is the 48th Fibonacci number?",
+    "solution": "$4807526976$"
+  },
+  {
+    "problem": "What is the 44th Fibonacci number?",
+    "solution": "$701408733$"
+  },
+  {
+    "problem": "$01110$",
+    "solution": "$0xe$"
+  },
+  {
+    "problem": "What is the 27th Fibonacci number?",
+    "solution": "$196418$"
+  },
+  {
+    "problem": "Integer of Binary Coded Decimal $5$ is $=$ ",
+    "solution": "$22087$"
+  },
+  {
+    "problem": "$110101$",
+    "solution": "$53$"
+  },
+  {
+    "problem": "BCD of Decimal Number $7630 = $",
+    "solution": "$1131214$"
+  },
+  {
+    "problem": "Binary of $194 = $",
+    "solution": "$0xc2$"
+  },
+  {
+    "problem": "2's complement of $10011 = $",
+    "solution": "$1101$"
+  },
+  {
+    "problem": "What is the 69th Fibonacci number?",
+    "solution": "$117669030460994$"
+  },
+  {
+    "problem": "$85$ % $35 = $",
+    "solution": "$15$"
+  },
+  {
+    "problem": "2's complement of $110010011 = $",
+    "solution": "$1101101$"
+  },
+  {
+    "problem": "What is the 95th Fibonacci number?",
+    "solution": "$31940434634990198784$"
+  },
+  {
+    "problem": "Binary of $71 = $",
+    "solution": "$1000111$"
+  },
+  {
+    "problem": "What is the 81th Fibonacci number?",
+    "solution": "$37889062373144008$"
+  },
+  {
+    "problem": "The Fibonacci Series of the first ${n}$ numbers is ?",
+    "solution": "$0$"
+  },
+  {
+    "problem": "Binary of $68 = $",
+    "solution": "$1000100$"
+  },
+  {
+    "problem": "Integer of Binary Coded Decimal $6$ is $=$ ",
+    "solution": "$25860$"
+  },
+  {
+    "problem": "The decimal number ${x}$ in Octal is: ",
+    "solution": "$0o1065$"
+  },
+  {
+    "problem": "What is the 44th Fibonacci number?",
+    "solution": "$701408733$"
+  },
+  {
+    "problem": "BCD of Decimal Number $9481 = $",
+    "solution": "$2509$"
+  },
+  {
+    "problem": "The decimal number ${x}$ in Octal is: ",
+    "solution": "$0o6021$"
+  },
+  {
+    "problem": "Binary of $744 = $",
+    "solution": "$0x2e8$"
+  },
+  {
+    "problem": "$25$ % $89 = $",
+    "solution": "$25$"
+  },
+  {
+    "problem": "$01100110$",
+    "solution": "$0x66$"
+  },
+  {
+    "problem": "The decimal number ${x}$ in Octal is: ",
+    "solution": "$0o6164$"
+  },
+  {
+    "problem": "$000101$",
+    "solution": "$5$"
+  },
+  {
+    "problem": "2's complement of $1110 = $",
+    "solution": "$10$"
+  },
+  {
+    "problem": "$000000110$",
+    "solution": "$6$"
+  },
+  {
+    "problem": "2's complement of $10001 = $",
+    "solution": "$1111$"
+  },
+  {
+    "problem": "$3$ % $37 = $",
+    "solution": "$3$"
+  },
+  {
+    "problem": "The decimal number ${x}$ in Octal is: ",
+    "solution": "$0o4343$"
+  },
+  {
+    "problem": "What is the 41th Fibonacci number?",
+    "solution": "$165580141$"
+  },
+  {
+    "problem": "$24$ % $3 = $",
+    "solution": "$0$"
+  },
+  {
+    "problem": "BCD of Decimal Number $6927 = $",
+    "solution": "$111015$"
+  },
+  {
+    "problem": "2's complement of $110100111 = $",
+    "solution": "$1011001$"
+  },
+  {
+    "problem": "What is the 39th Fibonacci number?",
+    "solution": "$63245986$"
+  },
+  {
+    "problem": "$00110$",
+    "solution": "$6$"
+  },
+  {
+    "problem": "Binary of $853 = $",
+    "solution": "$0x355$"
+  },
+  {
+    "problem": "BCD of Decimal Number $8751 = $",
+    "solution": "$22215$"
+  },
+  {
+    "problem": "Binary of $77 = $",
+    "solution": "$0x4d$"
+  },
+  {
+    "problem": "BCD of Decimal Number $9524 = $",
+    "solution": "$2534$"
+  },
+  {
+    "problem": "Integer of Binary Coded Decimal $2$ is $=$ ",
+    "solution": "$9106$"
+  },
+  {
+    "problem": "The Fibonacci Series of the first ${n}$ numbers is ?",
+    "solution": "$0, 1, 1, 2, 3$"
+  },
+  {
+    "problem": "Integer of Binary Coded Decimal $8$ is $=$ ",
+    "solution": "$34704$"
+  },
+  {
+    "problem": "What is the 32th Fibonacci number?",
+    "solution": "$2178309$"
+  },
+  {
+    "problem": "Binary of $323 = $",
+    "solution": "$0x143$"
+  },
+  {
+    "problem": "$100$",
+    "solution": "$0x4$"
+  },
+  {
+    "problem": "The Fibonacci Series of the first ${n}$ numbers is ?",
+    "solution": "$0$"
+  },
+  {
+    "problem": "$001110001$",
+    "solution": "$113$"
+  },
+  {
+    "problem": "$11000$",
+    "solution": "$24$"
+  },
+  {
+    "problem": "The decimal number ${x}$ in Octal is: ",
+    "solution": "$0o2010$"
+  },
+  {
+    "problem": "$39$ % $19 = $",
+    "solution": "$1$"
+  },
+  {
+    "problem": "What is the 22th Fibonacci number?",
+    "solution": "$17711$"
+  },
+  {
+    "problem": "$77$ % $12 = $",
+    "solution": "$5$"
+  },
+  {
+    "problem": "What is the 47th Fibonacci number?",
+    "solution": "$2971215073$"
+  },
+  {
+    "problem": "$10111$",
+    "solution": "$0x17$"
+  },
+  {
+    "problem": "Integer of Binary Coded Decimal $9$ is $=$ ",
+    "solution": "$37445$"
+  },
+  {
+    "problem": "The Fibonacci Series of the first ${n}$ numbers is ?",
+    "solution": "$0, 1, 1, 2, 3, 5$"
+  },
+  {
+    "problem": "$0001001$",
+    "solution": "$9$"
+  },
+  {
+    "problem": "Binary of $32 = $",
+    "solution": "$100000$"
+  },
+  {
+    "problem": "Binary of $6 = $",
+    "solution": "$110$"
+  },
+  {
+    "problem": "Binary of $71 = $",
+    "solution": "$1000111$"
+  },
+  {
+    "problem": "$26$ % $14 = $",
+    "solution": "$12$"
+  },
+  {
+    "problem": "BCD of Decimal Number $4049 = $",
+    "solution": "$15131$"
+  },
+  {
+    "problem": "Integer of Binary Coded Decimal $9$ is $=$ ",
+    "solution": "$38258$"
+  },
+  {
+    "problem": "BCD of Decimal Number $4997 = $",
+    "solution": "$1385$"
+  },
+  {
+    "problem": "The decimal number ${x}$ in Octal is: ",
+    "solution": "$0o4330$"
+  },
+  {
+    "problem": "Binary of $291 = $",
+    "solution": "$0x123$"
+  },
+  {
+    "problem": "$11010$",
+    "solution": "$26$"
+  },
+  {
+    "problem": "The decimal number ${x}$ in Octal is: ",
+    "solution": "$0o5735$"
+  },
+  {
+    "problem": "$11111101$",
+    "solution": "$253$"
+  },
+  {
+    "problem": "$01110111$",
+    "solution": "$119$"
+  },
+  {
+    "problem": "The Fibonacci Series of the first ${n}$ numbers is ?",
+    "solution": "$0, 1, 1, 2$"
+  },
+  {
+    "problem": "Binary of $901 = $",
+    "solution": "$0x385$"
+  },
+  {
+    "problem": "The decimal number ${x}$ in Octal is: ",
+    "solution": "$0o2240$"
+  },
+  {
+    "problem": "$000000000$",
+    "solution": "$0$"
+  },
+  {
+    "problem": "What is the 1th Fibonacci number?",
+    "solution": "$1$"
+  },
+  {
+    "problem": "The Fibonacci Series of the first ${n}$ numbers is ?",
+    "solution": "$0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, 1597, 2584$"
+  },
+  {
+    "problem": "2's complement of $ = $",
+    "solution": "$$"
+  },
+  {
+    "problem": "2's complement of $1101 = $",
+    "solution": "$11$"
+  },
+  {
+    "problem": "BCD of Decimal Number $1971 = $",
+    "solution": "$7113$"
+  },
+  {
+    "problem": "2's complement of $101111111 = $",
+    "solution": "$10000001$"
+  },
+  {
+    "problem": "BCD of Decimal Number $5283 = $",
+    "solution": "$14103$"
+  },
+  {
+    "problem": "Binary of $72 = $",
+    "solution": "$1001000$"
+  },
+  {
+    "problem": "The decimal number ${x}$ in Octal is: ",
+    "solution": "$0o3462$"
+  },
+  {
+    "problem": "$2$ % $42 = $",
+    "solution": "$2$"
+  },
+  {
+    "problem": "BCD of Decimal Number $7598 = $",
+    "solution": "$1131014$"
+  },
+  {
+    "problem": "BCD of Decimal Number $6384 = $",
+    "solution": "$18150$"
+  },
+  {
+    "problem": "$0011101000$",
+    "solution": "$232$"
+  },
+  {
+    "problem": "BCD of Decimal Number $9926 = $",
+    "solution": "$26126$"
+  },
+  {
+    "problem": "What is the 17th Fibonacci number?",
+    "solution": "$1597$"
+  },
+  {
+    "problem": "Integer of Binary Coded Decimal $5$ is $=$ ",
+    "solution": "$22420$"
+  },
+  {
+    "problem": "$18$ % $87 = $",
+    "solution": "$18$"
+  },
+  {
+    "problem": "$111011$",
+    "solution": "$0x3b$"
+  },
+  {
+    "problem": "$11111$",
+    "solution": "$0x1f$"
+  },
+  {
+    "problem": "The decimal number ${x}$ in Octal is: ",
+    "solution": "$0o6060$"
+  },
+  {
+    "problem": "What is the 15th Fibonacci number?",
+    "solution": "$610$"
+  },
+  {
+    "problem": "The decimal number ${x}$ in Octal is: ",
+    "solution": "$0o5303$"
+  },
+  {
+    "problem": "$001$",
+    "solution": "$0x1$"
+  },
+  {
+    "problem": "Binary of $982 = $",
+    "solution": "$0x3d6$"
+  },
+  {
+    "problem": "BCD of Decimal Number $8425 = $",
+    "solution": "$20149$"
+  },
+  {
+    "problem": "The decimal number ${x}$ in Octal is: ",
+    "solution": "$0o5523$"
+  },
+  {
+    "problem": "Integer of Binary Coded Decimal $4$ is $=$ ",
+    "solution": "$18838$"
+  },
+  {
+    "problem": "What is the 5th Fibonacci number?",
+    "solution": "$5$"
+  },
+  {
+    "problem": "$31$ % $43 = $",
+    "solution": "$31$"
+  },
+  {
+    "problem": "Binary of $50 = $",
+    "solution": "$110010$"
+  },
+  {
+    "problem": "BCD of Decimal Number $7573 = $",
+    "solution": "$11395$"
+  },
+  {
+    "problem": "2's complement of $100 = $",
+    "solution": "$100$"
+  },
+  {
+    "problem": "BCD of Decimal Number $8035 = $",
+    "solution": "$11563$"
+  },
+  {
+    "problem": "$91$ % $67 = $",
+    "solution": "$24$"
+  },
+  {
+    "problem": "2's complement of $10100011 = $",
+    "solution": "$1011101$"
+  },
+  {
+    "problem": "Binary of $68 = $",
+    "solution": "$1000100$"
+  },
+  {
+    "problem": "Binary of $792 = $",
+    "solution": "$0x318$"
+  },
+  {
+    "problem": "$1100110001$",
+    "solution": "$0x331$"
+  },
+  {
+    "problem": "$8$ % $2 = $",
+    "solution": "$0$"
+  },
+  {
+    "problem": "What is the 96th Fibonacci number?",
+    "solution": "$51680708854858489856$"
+  },
+  {
+    "problem": "$010110$",
+    "solution": "$0x16$"
+  },
+  {
+    "problem": "Binary of $26 = $",
+    "solution": "$11010$"
+  },
+  {
+    "problem": "$68$ % $84 = $",
+    "solution": "$68$"
+  },
+  {
+    "problem": "The Fibonacci Series of the first ${n}$ numbers is ?",
+    "solution": "$0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, 1597, 2584$"
+  },
+  {
+    "problem": "$61$ % $78 = $",
+    "solution": "$61$"
+  },
+  {
+    "problem": "$110$",
+    "solution": "$0x6$"
+  },
+  {
+    "problem": "What is the 34th Fibonacci number?",
+    "solution": "$5702887$"
+  },
+  {
+    "problem": "What is the 59th Fibonacci number?",
+    "solution": "$956722026041$"
+  },
+  {
+    "problem": "$001000$",
+    "solution": "$8$"
+  },
+  {
+    "problem": "$101$",
+    "solution": "$0x5$"
+  },
+  {
+    "problem": "$001111011$",
+    "solution": "$123$"
+  },
+  {
+    "problem": "$89$ % $48 = $",
+    "solution": "$41$"
+  },
+  {
+    "problem": "2's complement of $11101010 = $",
+    "solution": "$10110$"
+  },
+  {
+    "problem": "2's complement of $1111 = $",
+    "solution": "$1$"
+  },
+  {
+    "problem": "$0111$",
+    "solution": "$0x7$"
+  },
+  {
+    "problem": "$100010011$",
+    "solution": "$275$"
+  },
+  {
+    "problem": "Binary of $88 = $",
+    "solution": "$1011000$"
+  },
+  {
+    "problem": "Integer of Binary Coded Decimal $7$ is $=$ ",
+    "solution": "$30084$"
+  },
+  {
+    "problem": "2's complement of $1100 = $",
+    "solution": "$100$"
+  },
+  {
+    "problem": "$011$",
+    "solution": "$3$"
+  },
+  {
+    "problem": "The Fibonacci Series of the first ${n}$ numbers is ?",
+    "solution": "$0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, 1597, 2584$"
+  },
+  {
+    "problem": "What is the 49th Fibonacci number?",
+    "solution": "$7778742049$"
+  },
+  {
+    "problem": "$010010010$",
+    "solution": "$0x92$"
+  },
+  {
+    "problem": "The decimal number ${x}$ in Octal is: ",
+    "solution": "$0o7746$"
+  },
+  {
+    "problem": "2's complement of $10 = $",
+    "solution": "$10$"
+  },
+  {
+    "problem": "$100$",
+    "solution": "$0x4$"
+  },
+  {
+    "problem": "What is the 53th Fibonacci number?",
+    "solution": "$53316291173$"
+  },
+  {
+    "problem": "The Fibonacci Series of the first ${n}$ numbers is ?",
+    "solution": "$0, 1, 1, 2, 3$"
+  },
+  {
+    "problem": "$73$ % $85 = $",
+    "solution": "$73$"
+  },
+  {
+    "problem": "Binary of $114 = $",
+    "solution": "$0x72$"
+  },
+  {
+    "problem": "Binary of $68 = $",
+    "solution": "$1000100$"
+  },
+  {
+    "problem": "$1010110010$",
+    "solution": "$690$"
+  },
+  {
+    "problem": "BCD of Decimal Number $8049 = $",
+    "solution": "$11571$"
+  },
+  {
+    "problem": "The Fibonacci Series of the first ${n}$ numbers is ?",
+    "solution": "$0, 1, 1, 2, 3, 5$"
+  },
+  {
+    "problem": "The decimal number ${x}$ in Octal is: ",
+    "solution": "$0o6556$"
+  },
+  {
+    "problem": "2's complement of $1 = $",
+    "solution": "$1$"
+  },
+  {
+    "problem": "The Fibonacci Series of the first ${n}$ numbers is ?",
+    "solution": "$0, 1, 1, 2, 3, 5$"
+  },
+  {
+    "problem": "BCD of Decimal Number $5334 = $",
+    "solution": "$14136$"
+  },
+  {
+    "problem": "$54$ % $34 = $",
+    "solution": "$20$"
+  },
+  {
+    "problem": "Integer of Binary Coded Decimal $1$ is $=$ ",
+    "solution": "$5271$"
+  },
+  {
+    "problem": "$61$ % $42 = $",
+    "solution": "$19$"
+  },
+  {
+    "problem": "The decimal number ${x}$ in Octal is: ",
+    "solution": "$0o2137$"
+  },
+  {
+    "problem": "2's complement of $1111 = $",
+    "solution": "$1$"
+  },
+  {
+    "problem": "BCD of Decimal Number $9400 = $",
+    "solution": "$24118$"
+  },
+  {
+    "problem": "$01110$",
+    "solution": "$0xe$"
+  },
+  {
+    "problem": "$001100$",
+    "solution": "$12$"
+  },
+  {
+    "problem": "Binary of $4 = $",
+    "solution": "$100$"
+  },
+  {
+    "problem": "What is the 81th Fibonacci number?",
+    "solution": "$37889062373144008$"
+  },
+  {
+    "problem": "$95$ % $80 = $",
+    "solution": "$15$"
+  },
+  {
+    "problem": "The decimal number ${x}$ in Octal is: ",
+    "solution": "$0o6022$"
+  },
+  {
+    "problem": "Binary of $376 = $",
+    "solution": "$0x178$"
+  },
+  {
+    "problem": "BCD of Decimal Number $2095 = $",
+    "solution": "$8215$"
+  },
+  {
+    "problem": "Integer of Binary Coded Decimal $5$ is $=$ ",
+    "solution": "$22832$"
+  },
+  {
+    "problem": "Binary of $22 = $",
+    "solution": "$10110$"
+  },
+  {
+    "problem": "$1100$",
+    "solution": "$12$"
+  },
+  {
+    "problem": "What is the 63th Fibonacci number?",
+    "solution": "$6557470319842$"
+  },
+  {
+    "problem": "The Fibonacci Series of the first ${n}$ numbers is ?",
+    "solution": "$0$"
+  },
+  {
+    "problem": "$0$",
+    "solution": "$0$"
+  },
+  {
+    "problem": "$111$",
+    "solution": "$7$"
+  },
+  {
+    "problem": "$98$ % $98 = $",
+    "solution": "$0$"
+  },
+  {
+    "problem": "BCD of Decimal Number $2763 = $",
+    "solution": "$101211$"
+  },
+  {
+    "problem": "$10000$",
+    "solution": "$16$"
+  },
+  {
+    "problem": "$00$",
+    "solution": "$0x0$"
+  },
+  {
+    "problem": "Integer of Binary Coded Decimal $6$ is $=$ ",
+    "solution": "$26999$"
+  },
+  {
+    "problem": "$00001011$",
+    "solution": "$11$"
+  },
+  {
+    "problem": "Binary of $697 = $",
+    "solution": "$0x2b9$"
+  },
+  {
+    "problem": "The Fibonacci Series of the first ${n}$ numbers is ?",
+    "solution": "$0, 1, 1, 2, 3$"
+  },
+  {
+    "problem": "$47$ % $67 = $",
+    "solution": "$47$"
+  },
+  {
+    "problem": "$48$ % $84 = $",
+    "solution": "$48$"
+  },
+  {
+    "problem": "Integer of Binary Coded Decimal $1$ is $=$ ",
+    "solution": "$4692$"
+  },
+  {
+    "problem": "Binary of $82 = $",
+    "solution": "$1010010$"
+  },
+  {
+    "problem": "Binary of $24 = $",
+    "solution": "$11000$"
+  },
+  {
+    "problem": "The Fibonacci Series of the first ${n}$ numbers is ?",
+    "solution": "$0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, 1597$"
+  },
+  {
+    "problem": "2's complement of $10 = $",
+    "solution": "$10$"
+  },
+  {
+    "problem": "What is the 90th Fibonacci number?",
+    "solution": "$2880067194370824704$"
+  },
+  {
+    "problem": "$80$ % $93 = $",
+    "solution": "$80$"
+  },
+  {
+    "problem": "Binary of $26 = $",
+    "solution": "$11010$"
+  },
+  {
+    "problem": "2's complement of $101000010 = $",
+    "solution": "$10111110$"
+  },
+  {
+    "problem": "BCD of Decimal Number $9504 = $",
+    "solution": "$2520$"
+  },
+  {
+    "problem": "BCD of Decimal Number $1332 = $",
+    "solution": "$534$"
+  },
+  {
+    "problem": "Integer of Binary Coded Decimal $7$ is $=$ ",
+    "solution": "$30003$"
+  },
+  {
+    "problem": "The decimal number ${x}$ in Octal is: ",
+    "solution": "$0o6631$"
+  },
+  {
+    "problem": "2's complement of $1 = $",
+    "solution": "$1$"
+  },
+  {
+    "problem": "Binary of $57 = $",
+    "solution": "$111001$"
+  },
+  {
+    "problem": "The decimal number ${x}$ in Octal is: ",
+    "solution": "$0o2065$"
+  },
+  {
+    "problem": "Integer of Binary Coded Decimal $6$ is $=$ ",
+    "solution": "$24934$"
+  },
+  {
+    "problem": "The Fibonacci Series of the first ${n}$ numbers is ?",
+    "solution": "$0, 1, 1, 2, 3, 5, 8, 13, 21$"
+  },
+  {
+    "problem": "Binary of $92 = $",
+    "solution": "$1011100$"
+  },
+  {
+    "problem": "Integer of Binary Coded Decimal $8$ is $=$ ",
+    "solution": "$33127$"
+  },
+  {
+    "problem": "$011$",
+    "solution": "$3$"
+  },
+  {
+    "problem": "The decimal number ${x}$ in Octal is: ",
+    "solution": "$0o1453$"
+  },
+  {
+    "problem": "$010001$",
+    "solution": "$17$"
+  },
+  {
+    "problem": "The decimal number ${x}$ in Octal is: ",
+    "solution": "$0o5250$"
+  },
+  {
+    "problem": "2's complement of $1111110001 = $",
+    "solution": "$1111$"
+  },
+  {
+    "problem": "$010$",
+    "solution": "$0x2$"
+  },
+  {
+    "problem": "$011000$",
+    "solution": "$0x18$"
+  },
+  {
+    "problem": "2's complement of $101001011 = $",
+    "solution": "$10110101$"
+  },
+  {
+    "problem": "The Fibonacci Series of the first ${n}$ numbers is ?",
+    "solution": "$0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144$"
+  },
+  {
+    "problem": "Binary of $663 = $",
+    "solution": "$0x297$"
+  },
+  {
+    "problem": "$1010$",
+    "solution": "$0xa$"
+  },
+  {
+    "problem": "Binary of $926 = $",
+    "solution": "$0x39e$"
+  },
+  {
+    "problem": "The Fibonacci Series of the first ${n}$ numbers is ?",
+    "solution": "$0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55$"
+  },
+  {
+    "problem": "The Fibonacci Series of the first ${n}$ numbers is ?",
+    "solution": "$0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377$"
+  },
+  {
+    "problem": "The Fibonacci Series of the first ${n}$ numbers is ?",
+    "solution": "$0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610$"
+  },
+  {
+    "problem": "What is the 77th Fibonacci number?",
+    "solution": "$5527939700884771$"
+  },
+  {
+    "problem": "The decimal number ${x}$ in Octal is: ",
+    "solution": "$0o1347$"
+  },
+  {
+    "problem": "The Fibonacci Series of the first ${n}$ numbers is ?",
+    "solution": "$0, 1$"
+  },
+  {
+    "problem": "The Fibonacci Series of the first ${n}$ numbers is ?",
+    "solution": "$0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987$"
+  },
+  {
+    "problem": "BCD of Decimal Number $3029 = $",
+    "solution": "$11135$"
+  },
+  {
+    "problem": "BCD of Decimal Number $8518 = $",
+    "solution": "$2146$"
+  },
+  {
+    "problem": "$9$ % $67 = $",
+    "solution": "$9$"
+  },
+  {
+    "problem": "What is the 71th Fibonacci number?",
+    "solution": "$308061521170129$"
+  },
+  {
+    "problem": "The Fibonacci Series of the first ${n}$ numbers is ?",
+    "solution": "$0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377$"
+  },
+  {
+    "problem": "2's complement of $1011 = $",
+    "solution": "$101$"
+  },
+  {
+    "problem": "Integer of Binary Coded Decimal $6$ is $=$ ",
+    "solution": "$25441$"
+  },
+  {
+    "problem": "$001011101$",
+    "solution": "$0x5d$"
+  },
+  {
+    "problem": "$011110$",
+    "solution": "$30$"
+  },
+  {
+    "problem": "BCD of Decimal Number $2323 = $",
+    "solution": "$913$"
+  },
+  {
+    "problem": "BCD of Decimal Number $9935 = $",
+    "solution": "$261215$"
+  },
+  {
+    "problem": "What is the 35th Fibonacci number?",
+    "solution": "$9227465$"
+  },
+  {
+    "problem": "$00100$",
+    "solution": "$0x4$"
+  },
+  {
+    "problem": "2's complement of $110011 = $",
+    "solution": "$1101$"
+  },
+  {
+    "problem": "Binary of $98 = $",
+    "solution": "$1100010$"
+  },
+  {
+    "problem": "Binary of $693 = $",
+    "solution": "$0x2b5$"
+  },
+  {
+    "problem": "$001001111$",
+    "solution": "$0x4f$"
+  },
+  {
+    "problem": "The Fibonacci Series of the first ${n}$ numbers is ?",
+    "solution": "$0, 1$"
+  },
+  {
+    "problem": "BCD of Decimal Number $2143 = $",
+    "solution": "$8515$"
+  },
+  {
+    "problem": "BCD of Decimal Number $6304 = $",
+    "solution": "$18100$"
+  },
+  {
+    "problem": "Integer of Binary Coded Decimal $4$ is $=$ ",
+    "solution": "$17801$"
+  },
+  {
+    "problem": "$110111$",
+    "solution": "$55$"
+  },
+  {
+    "problem": "The Fibonacci Series of the first ${n}$ numbers is ?",
+    "solution": "$0, 1, 1, 2, 3, 5, 8$"
+  },
+  {
+    "problem": "$001101$",
+    "solution": "$0xd$"
+  },
+  {
+    "problem": "$011010100$",
+    "solution": "$212$"
+  },
+  {
+    "problem": "The decimal number ${x}$ in Octal is: ",
+    "solution": "$0o53$"
+  },
+  {
+    "problem": "The Fibonacci Series of the first ${n}$ numbers is ?",
+    "solution": "$0, 1, 1, 2$"
+  },
+  {
+    "problem": "$25$ % $71 = $",
+    "solution": "$25$"
+  },
+  {
+    "problem": "$001000$",
+    "solution": "$0x8$"
+  },
+  {
+    "problem": "BCD of Decimal Number $7587 = $",
+    "solution": "$113103$"
+  },
+  {
+    "problem": "The Fibonacci Series of the first ${n}$ numbers is ?",
+    "solution": "$0, 1, 1, 2, 3, 5, 8, 13, 21, 34$"
+  },
+  {
+    "problem": "Binary of $19 = $",
+    "solution": "$10011$"
+  },
+  {
+    "problem": "BCD of Decimal Number $2706 = $",
+    "solution": "$1092$"
+  },
+  {
+    "problem": "The Fibonacci Series of the first ${n}$ numbers is ?",
+    "solution": "$0, 1, 1, 2, 3, 5$"
+  },
+  {
+    "problem": "2's complement of $10001011 = $",
+    "solution": "$1110101$"
+  },
+  {
+    "problem": "Integer of Binary Coded Decimal $1$ is $=$ ",
+    "solution": "$4483$"
+  },
+  {
+    "problem": "$81$ % $45 = $",
+    "solution": "$36$"
+  },
+  {
+    "problem": "The Fibonacci Series of the first ${n}$ numbers is ?",
+    "solution": "$0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, 1597, 2584$"
+  },
+  {
+    "problem": "2's complement of $11100 = $",
+    "solution": "$100$"
+  },
+  {
+    "problem": "$83$ % $9 = $",
+    "solution": "$2$"
+  },
+  {
+    "problem": "2's complement of $ = $",
+    "solution": "$$"
+  },
+  {
+    "problem": "Integer of Binary Coded Decimal $1$ is $=$ ",
+    "solution": "$6225$"
+  },
+  {
+    "problem": "$79$ % $6 = $",
+    "solution": "$1$"
+  },
+  {
+    "problem": "Binary of $472 = $",
+    "solution": "$0x1d8$"
+  },
+  {
+    "problem": "The decimal number ${x}$ in Octal is: ",
+    "solution": "$0o3031$"
+  },
+  {
+    "problem": "BCD of Decimal Number $8436 = $",
+    "solution": "$20154$"
+  },
+  {
+    "problem": "The decimal number ${x}$ in Octal is: ",
+    "solution": "$0o763$"
+  },
+  {
+    "problem": "BCD of Decimal Number $8027 = $",
+    "solution": "$115511$"
+  },
+  {
+    "problem": "What is the 72th Fibonacci number?",
+    "solution": "$498454011879265$"
+  },
+  {
+    "problem": "$10001101$",
+    "solution": "$141$"
+  },
+  {
+    "problem": "What is the 27th Fibonacci number?",
+    "solution": "$196418$"
+  },
+  {
+    "problem": "The Fibonacci Series of the first ${n}$ numbers is ?",
+    "solution": "$0$"
+  },
+  {
+    "problem": "$00110001$",
+    "solution": "$49$"
+  },
+  {
+    "problem": "$01000111$",
+    "solution": "$0x47$"
+  },
+  {
+    "problem": "The Fibonacci Series of the first ${n}$ numbers is ?",
+    "solution": "$0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144$"
+  },
+  {
+    "problem": "$101111000$",
+    "solution": "$0x178$"
+  },
+  {
+    "problem": "$54$ % $31 = $",
+    "solution": "$23$"
+  },
+  {
+    "problem": "$21$ % $87 = $",
+    "solution": "$21$"
+  },
+  {
+    "problem": "$001010111$",
+    "solution": "$87$"
+  },
+  {
+    "problem": "2's complement of $1101 = $",
+    "solution": "$11$"
+  },
+  {
+    "problem": "Integer of Binary Coded Decimal $1$ is $=$ ",
+    "solution": "$5473$"
+  },
+  {
+    "problem": "$0010$",
+    "solution": "$0x2$"
+  },
+  {
+    "problem": "The decimal number ${x}$ in Octal is: ",
+    "solution": "$0o2054$"
+  },
+  {
+    "problem": "Binary of $583 = $",
+    "solution": "$0x247$"
+  },
+  {
+    "problem": "$01011$",
+    "solution": "$11$"
+  },
+  {
+    "problem": "Integer of Binary Coded Decimal $5$ is $=$ ",
+    "solution": "$21063$"
+  },
+  {
+    "problem": "Integer of Binary Coded Decimal $2$ is $=$ ",
+    "solution": "$10579$"
+  },
+  {
+    "problem": "BCD of Decimal Number $3289 = $",
+    "solution": "$12139$"
+  },
+  {
+    "problem": "The decimal number ${x}$ in Octal is: ",
+    "solution": "$0o5550$"
+  },
+  {
+    "problem": "$00$",
+    "solution": "$0x0$"
+  },
+  {
+    "problem": "Binary of $44 = $",
+    "solution": "$101100$"
+  },
+  {
+    "problem": "2's complement of $110110 = $",
+    "solution": "$1010$"
+  },
+  {
+    "problem": "What is the 33th Fibonacci number?",
+    "solution": "$3524578$"
+  },
+  {
+    "problem": "BCD of Decimal Number $9158 = $",
+    "solution": "$23126$"
+  },
+  {
+    "problem": "$7$ % $10 = $",
+    "solution": "$7$"
+  },
+  {
+    "problem": "BCD of Decimal Number $6780 = $",
+    "solution": "$110712$"
+  },
+  {
+    "problem": "$11$",
+    "solution": "$0x3$"
+  },
+  {
+    "problem": "BCD of Decimal Number $5743 = $",
+    "solution": "$16615$"
+  },
+  {
+    "problem": "$010$",
+    "solution": "$2$"
+  },
+  {
+    "problem": "Integer of Binary Coded Decimal $8$ is $=$ ",
+    "solution": "$33620$"
+  },
+  {
+    "problem": "$01$",
+    "solution": "$1$"
+  },
+  {
+    "problem": "Binary of $389 = $",
+    "solution": "$0x185$"
+  },
+  {
+    "problem": "Binary of $69 = $",
+    "solution": "$1000101$"
+  },
+  {
+    "problem": "Binary of $96 = $",
+    "solution": "$1100000$"
+  },
+  {
+    "problem": "BCD of Decimal Number $1345 = $",
+    "solution": "$541$"
+  },
+  {
+    "problem": "The Fibonacci Series of the first ${n}$ numbers is ?",
+    "solution": "$0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233$"
+  },
+  {
+    "problem": "Binary of $73 = $",
+    "solution": "$1001001$"
+  },
+  {
+    "problem": "Integer of Binary Coded Decimal $4$ is $=$ ",
+    "solution": "$18467$"
+  },
+  {
+    "problem": "What is the 48th Fibonacci number?",
+    "solution": "$4807526976$"
+  },
+  {
+    "problem": "$11$ % $46 = $",
+    "solution": "$11$"
+  },
+  {
+    "problem": "BCD of Decimal Number $9492 = $",
+    "solution": "$2514$"
+  },
+  {
+    "problem": "What is the 94th Fibonacci number?",
+    "solution": "$19740274219868282880$"
+  },
+  {
+    "problem": "The decimal number ${x}$ in Octal is: ",
+    "solution": "$0o5340$"
+  },
+  {
+    "problem": "BCD of Decimal Number $9778 = $",
+    "solution": "$2632$"
+  },
+  {
+    "problem": "Binary of $78 = $",
+    "solution": "$0x4e$"
+  },
+  {
+    "problem": "$81$ % $55 = $",
+    "solution": "$26$"
+  },
+  {
+    "problem": "$2$ % $71 = $",
+    "solution": "$2$"
+  },
+  {
+    "problem": "2's complement of $101 = $",
+    "solution": "$11$"
+  },
+  {
+    "problem": "2's complement of $ = $",
+    "solution": "$$"
+  },
+  {
+    "problem": "Binary of $91 = $",
+    "solution": "$0x5b$"
+  },
+  {
+    "problem": "$0011110$",
+    "solution": "$0x1e$"
+  },
+  {
+    "problem": "Binary of $402 = $",
+    "solution": "$0x192$"
+  },
+  {
+    "problem": "BCD of Decimal Number $3719 = $",
+    "solution": "$1487$"
+  },
+  {
+    "problem": "$25$ % $92 = $",
+    "solution": "$25$"
+  },
+  {
+    "problem": "Integer of Binary Coded Decimal $6$ is $=$ ",
+    "solution": "$24981$"
+  },
+  {
+    "problem": "What is the 90th Fibonacci number?",
+    "solution": "$2880067194370824704$"
+  },
+  {
+    "problem": "$110$",
+    "solution": "$6$"
+  },
+  {
+    "problem": "The Fibonacci Series of the first ${n}$ numbers is ?",
+    "solution": "$0, 1, 1, 2, 3, 5$"
+  },
+  {
+    "problem": "$78$ % $89 = $",
+    "solution": "$78$"
+  },
+  {
+    "problem": "The Fibonacci Series of the first ${n}$ numbers is ?",
+    "solution": "$0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, 1597$"
+  },
+  {
+    "problem": "$10111$",
+    "solution": "$0x17$"
+  },
+  {
+    "problem": "What is the 25th Fibonacci number?",
+    "solution": "$75025$"
+  },
+  {
+    "problem": "$0$",
+    "solution": "$0$"
+  },
+  {
+    "problem": "2's complement of $1001100 = $",
+    "solution": "$110100$"
+  },
+  {
+    "problem": "The decimal number ${x}$ in Octal is: ",
+    "solution": "$0o4733$"
+  },
+  {
+    "problem": "$73$ % $48 = $",
+    "solution": "$25$"
+  },
+  {
+    "problem": "Binary of $447 = $",
+    "solution": "$0x1bf$"
+  },
+  {
+    "problem": "$1111$",
+    "solution": "$15$"
+  },
+  {
+    "problem": "$1111000$",
+    "solution": "$0x78$"
+  },
+  {
+    "problem": "The decimal number ${x}$ in Octal is: ",
+    "solution": "$0o4505$"
+  },
+  {
+    "problem": "$10$",
+    "solution": "$2$"
+  },
+  {
+    "problem": "Integer of Binary Coded Decimal $5$ is $=$ ",
+    "solution": "$21299$"
+  },
+  {
+    "problem": "$1$",
+    "solution": "$1$"
+  },
+  {
+    "problem": "What is the 47th Fibonacci number?",
+    "solution": "$2971215073$"
+  },
+  {
+    "problem": "$11$",
+    "solution": "$3$"
+  },
+  {
+    "problem": "The Fibonacci Series of the first ${n}$ numbers is ?",
+    "solution": "$0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377$"
+  },
+  {
+    "problem": "BCD of Decimal Number $7024 = $",
+    "solution": "$11170$"
+  },
+  {
+    "problem": "Binary of $56 = $",
+    "solution": "$111000$"
+  },
+  {
+    "problem": "The Fibonacci Series of the first ${n}$ numbers is ?",
+    "solution": "$0, 1, 1, 2, 3$"
+  },
+  {
+    "problem": "What is the 11th Fibonacci number?",
+    "solution": "$89$"
+  },
+  {
+    "problem": "Binary of $340 = $",
+    "solution": "$0x154$"
+  },
+  {
+    "problem": "Binary of $207 = $",
+    "solution": "$0xcf$"
+  },
+  {
+    "problem": "BCD of Decimal Number $7693 = $",
+    "solution": "$114013$"
+  },
+  {
+    "problem": "$66$ % $62 = $",
+    "solution": "$4$"
+  },
+  {
+    "problem": "BCD of Decimal Number $2269 = $",
+    "solution": "$81313$"
+  },
+  {
+    "problem": "2's complement of $110011110 = $",
+    "solution": "$1100010$"
+  },
+  {
+    "problem": "$27$ % $83 = $",
+    "solution": "$27$"
+  },
+  {
+    "problem": "Binary of $89 = $",
+    "solution": "$1011001$"
+  },
+  {
+    "problem": "What is the 52th Fibonacci number?",
+    "solution": "$32951280099$"
+  },
+  {
+    "problem": "$0$",
+    "solution": "$0$"
+  },
+  {
+    "problem": "BCD of Decimal Number $6878 = $",
+    "solution": "$1101314$"
+  },
+  {
+    "problem": "$60$ % $42 = $",
+    "solution": "$18$"
+  },
+  {
+    "problem": "Binary of $5 = $",
+    "solution": "$101$"
+  },
+  {
+    "problem": "Binary of $50 = $",
+    "solution": "$110010$"
+  },
+  {
+    "problem": "BCD of Decimal Number $6700 = $",
+    "solution": "$110212$"
+  },
+  {
+    "problem": "The Fibonacci Series of the first ${n}$ numbers is ?",
+    "solution": "$0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, 1597, 2584$"
+  },
+  {
+    "problem": "Binary of $429 = $",
+    "solution": "$0x1ad$"
+  },
+  {
+    "problem": "Binary of $31 = $",
+    "solution": "$11111$"
+  },
+  {
+    "problem": "2's complement of $1101 = $",
+    "solution": "$11$"
+  },
+  {
+    "problem": "2's complement of $1 = $",
+    "solution": "$1$"
+  },
+  {
+    "problem": "$70$ % $5 = $",
+    "solution": "$0$"
+  },
+  {
+    "problem": "The Fibonacci Series of the first ${n}$ numbers is ?",
+    "solution": "$0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144$"
+  },
+  {
+    "problem": "$1001011$",
+    "solution": "$75$"
+  },
+  {
+    "problem": "2's complement of $10 = $",
+    "solution": "$10$"
+  },
+  {
+    "problem": "The decimal number ${x}$ in Octal is: ",
+    "solution": "$0o2606$"
+  },
+  {
+    "problem": "What is the 19th Fibonacci number?",
+    "solution": "$4181$"
+  },
+  {
+    "problem": "$1011000$",
+    "solution": "$0x58$"
+  },
+  {
+    "problem": "What is the 89th Fibonacci number?",
+    "solution": "$1779979416004719360$"
+  },
+  {
+    "problem": "Binary of $477 = $",
+    "solution": "$0x1dd$"
+  },
+  {
+    "problem": "BCD of Decimal Number $2490 = $",
+    "solution": "$91110$"
+  },
+  {
+    "problem": "$0110$",
+    "solution": "$0x6$"
+  },
+  {
+    "problem": "2's complement of $11100 = $",
+    "solution": "$100$"
+  },
+  {
+    "problem": "$61$ % $39 = $",
+    "solution": "$22$"
+  },
+  {
+    "problem": "The Fibonacci Series of the first ${n}$ numbers is ?",
+    "solution": "$0, 1, 1, 2$"
+  },
+  {
+    "problem": "2's complement of $10000111 = $",
+    "solution": "$1111001$"
+  },
+  {
+    "problem": "2's complement of $11100 = $",
+    "solution": "$100$"
+  },
+  {
+    "problem": "$67$ % $69 = $",
+    "solution": "$67$"
+  },
+  {
+    "problem": "BCD of Decimal Number $2003 = $",
+    "solution": "$7133$"
+  },
+  {
+    "problem": "$01111$",
+    "solution": "$15$"
+  },
+  {
+    "problem": "Integer of Binary Coded Decimal $6$ is $=$ ",
+    "solution": "$26896$"
+  },
+  {
+    "problem": "$66$ % $30 = $",
+    "solution": "$6$"
+  },
+  {
+    "problem": "The decimal number ${x}$ in Octal is: ",
+    "solution": "$0o6323$"
+  },
+  {
+    "problem": "$0001010$",
+    "solution": "$0xa$"
+  },
+  {
+    "problem": "2's complement of $1000010 = $",
+    "solution": "$111110$"
+  },
+  {
+    "problem": "BCD of Decimal Number $3590 = $",
+    "solution": "$1406$"
+  },
+  {
+    "problem": "Binary of $47 = $",
+    "solution": "$101111$"
+  },
+  {
+    "problem": "BCD of Decimal Number $4034 = $",
+    "solution": "$15122$"
+  },
+  {
+    "problem": "$27$ % $88 = $",
+    "solution": "$27$"
+  },
+  {
+    "problem": "The decimal number ${x}$ in Octal is: ",
+    "solution": "$0o5342$"
+  },
+  {
+    "problem": "$51$ % $3 = $",
+    "solution": "$0$"
+  },
+  {
+    "problem": "What is the 15th Fibonacci number?",
+    "solution": "$610$"
+  },
+  {
+    "problem": "The decimal number ${x}$ in Octal is: ",
+    "solution": "$0o7515$"
+  },
+  {
+    "problem": "Binary of $574 = $",
+    "solution": "$0x23e$"
+  },
+  {
+    "problem": "Binary of $22 = $",
+    "solution": "$10110$"
+  },
+  {
+    "problem": "Binary of $29 = $",
+    "solution": "$11101$"
+  },
+  {
+    "problem": "The Fibonacci Series of the first ${n}$ numbers is ?",
+    "solution": "$0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55$"
+  },
+  {
+    "problem": "2's complement of $ = $",
+    "solution": "$$"
+  },
+  {
+    "problem": "The Fibonacci Series of the first ${n}$ numbers is ?",
+    "solution": "$0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233$"
+  },
+  {
+    "problem": "$0$",
+    "solution": "$0$"
+  },
+  {
+    "problem": "$0001011$",
+    "solution": "$11$"
+  },
+  {
+    "problem": "Binary of $830 = $",
+    "solution": "$0x33e$"
+  },
+  {
+    "problem": "Binary of $568 = $",
+    "solution": "$0x238$"
+  },
+  {
+    "problem": "The Fibonacci Series of the first ${n}$ numbers is ?",
+    "solution": "$0, 1, 1, 2, 3$"
+  },
+  {
+    "problem": "What is the 92th Fibonacci number?",
+    "solution": "$7540113804746369024$"
+  },
+  {
+    "problem": "$11$",
+    "solution": "$3$"
+  },
+  {
+    "problem": "Integer of Binary Coded Decimal $2$ is $=$ ",
+    "solution": "$8851$"
+  },
+  {
+    "problem": "BCD of Decimal Number $8613 = $",
+    "solution": "$21105$"
+  },
+  {
+    "problem": "2's complement of $ = $",
+    "solution": "$$"
+  },
+  {
+    "problem": "Binary of $539 = $",
+    "solution": "$0x21b$"
+  },
+  {
+    "problem": "$110110001$",
+    "solution": "$433$"
+  },
+  {
+    "problem": "BCD of Decimal Number $4598 = $",
+    "solution": "$11156$"
+  },
+  {
+    "problem": "BCD of Decimal Number $4027 = $",
+    "solution": "$151111$"
+  },
+  {
+    "problem": "$001$",
+    "solution": "$0x1$"
+  },
+  {
+    "problem": "The Fibonacci Series of the first ${n}$ numbers is ?",
+    "solution": "$0, 1, 1, 2, 3, 5, 8, 13$"
+  },
+  {
+    "problem": "$111101$",
+    "solution": "$61$"
+  },
+  {
+    "problem": "The Fibonacci Series of the first ${n}$ numbers is ?",
+    "solution": "$0, 1$"
+  },
+  {
+    "problem": "The decimal number ${x}$ in Octal is: ",
+    "solution": "$0o6615$"
+  },
+  {
+    "problem": "Integer of Binary Coded Decimal $9$ is $=$ ",
+    "solution": "$37457$"
+  },
+  {
+    "problem": "The Fibonacci Series of the first ${n}$ numbers is ?",
+    "solution": "$0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, 1597, 2584$"
+  },
+  {
+    "problem": "Binary of $80 = $",
+    "solution": "$1010000$"
+  },
+  {
+    "problem": "$00100101$",
+    "solution": "$37$"
+  },
+  {
+    "problem": "Binary of $74 = $",
+    "solution": "$1001010$"
+  },
+  {
+    "problem": "$10010$",
+    "solution": "$18$"
+  },
+  {
+    "problem": "$47$ % $96 = $",
+    "solution": "$47$"
+  },
+  {
+    "problem": "The Fibonacci Series of the first ${n}$ numbers is ?",
+    "solution": "$0, 1, 1, 2, 3, 5, 8$"
+  },
+  {
+    "problem": "2's complement of $1000100001 = $",
+    "solution": "$111011111$"
+  },
+  {
+    "problem": "2's complement of $11 = $",
+    "solution": "$1$"
+  },
+  {
+    "problem": "$99$ % $58 = $",
+    "solution": "$41$"
+  },
+  {
+    "problem": "$111100$",
+    "solution": "$0x3c$"
+  },
+  {
+    "problem": "$1100011$",
+    "solution": "$0x63$"
+  },
+  {
+    "problem": "$16$ % $52 = $",
+    "solution": "$16$"
+  },
+  {
+    "problem": "$46$ % $81 = $",
+    "solution": "$46$"
+  },
+  {
+    "problem": "Integer of Binary Coded Decimal $2$ is $=$ ",
+    "solution": "$9225$"
+  },
+  {
+    "problem": "$0110001$",
+    "solution": "$0x31$"
+  },
+  {
+    "problem": "Binary of $94 = $",
+    "solution": "$1011110$"
+  },
+  {
+    "problem": "Binary of $32 = $",
+    "solution": "$100000$"
+  },
+  {
+    "problem": "Binary of $55 = $",
+    "solution": "$110111$"
+  },
+  {
+    "problem": "Binary of $60 = $",
+    "solution": "$111100$"
+  },
+  {
+    "problem": "Integer of Binary Coded Decimal $2$ is $=$ ",
+    "solution": "$9625$"
+  },
+  {
+    "problem": "The Fibonacci Series of the first ${n}$ numbers is ?",
+    "solution": "$0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233$"
+  },
+  {
+    "problem": "Integer of Binary Coded Decimal $2$ is $=$ ",
+    "solution": "$10610$"
+  },
+  {
+    "problem": "$00011010$",
+    "solution": "$26$"
+  },
+  {
+    "problem": "Binary of $522 = $",
+    "solution": "$0x20a$"
+  },
+  {
+    "problem": "The Fibonacci Series of the first ${n}$ numbers is ?",
+    "solution": "$0, 1, 1, 2, 3, 5, 8, 13, 21, 34$"
+  },
+  {
+    "problem": "BCD of Decimal Number $4475 = $",
+    "solution": "$11711$"
+  },
+  {
+    "problem": "The Fibonacci Series of the first ${n}$ numbers is ?",
+    "solution": "$0, 1, 1, 2, 3, 5, 8$"
+  },
+  {
+    "problem": "The Fibonacci Series of the first ${n}$ numbers is ?",
+    "solution": "$0, 1, 1, 2, 3, 5, 8, 13$"
+  },
+  {
+    "problem": "What is the 21th Fibonacci number?",
+    "solution": "$10946$"
+  },
+  {
+    "problem": "Integer of Binary Coded Decimal $7$ is $=$ ",
+    "solution": "$29207$"
+  },
+  {
+    "problem": "$0010101001$",
+    "solution": "$0xa9$"
+  },
+  {
+    "problem": "The decimal number ${x}$ in Octal is: ",
+    "solution": "$0o2242$"
+  },
+  {
+    "problem": "$111100100$",
+    "solution": "$0x1e4$"
+  },
+  {
+    "problem": "$111010110$",
+    "solution": "$470$"
+  },
+  {
+    "problem": "BCD of Decimal Number $3977 = $",
+    "solution": "$1589$"
+  },
+  {
+    "problem": "2's complement of $10010 = $",
+    "solution": "$1110$"
+  },
+  {
+    "problem": "$0$",
+    "solution": "$0$"
+  },
+  {
+    "problem": "$3$ % $67 = $",
+    "solution": "$3$"
+  },
+  {
+    "problem": "Binary of $99 = $",
+    "solution": "$1100011$"
+  },
+  {
+    "problem": "Integer of Binary Coded Decimal $9$ is $=$ ",
+    "solution": "$37448$"
+  },
+  {
+    "problem": "$00$",
+    "solution": "$0x0$"
+  },
+  {
+    "problem": "Binary of $85 = $",
+    "solution": "$1010101$"
+  },
+  {
+    "problem": "Integer of Binary Coded Decimal $6$ is $=$ ",
+    "solution": "$26116$"
+  },
+  {
+    "problem": "The Fibonacci Series of the first ${n}$ numbers is ?",
+    "solution": "$0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987$"
+  },
+  {
+    "problem": "$92$ % $10 = $",
+    "solution": "$2$"
+  },
+  {
+    "problem": "The decimal number ${x}$ in Octal is: ",
+    "solution": "$0o2622$"
+  },
+  {
+    "problem": "The decimal number ${x}$ in Octal is: ",
+    "solution": "$0o3645$"
+  },
+  {
+    "problem": "BCD of Decimal Number $9370 = $",
+    "solution": "$24910$"
+  },
+  {
+    "problem": "Binary of $369 = $",
+    "solution": "$0x171$"
+  }
+]

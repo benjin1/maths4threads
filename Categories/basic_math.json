@@ -1,0 +1,2002 @@
+[
+  {
+    "problem": "GCD(709597191,771822019)=",
+    "solution": "1"
+  },
+  {
+    "problem": "Is 79 prime?",
+    "solution": "Yes"
+  },
+  {
+    "problem": "225\\div25=",
+    "solution": "9"
+  },
+  {
+    "problem": "Find the percentage error when observed value equals -20 and exact value equals -28.",
+    "solution": "28.57\\%"
+  },
+  {
+    "problem": "What is the percentage difference between 43 and 69?",
+    "solution": "46.43%"
+  },
+  {
+    "problem": "What is 91% of 43?",
+    "solution": "39.13"
+  },
+  {
+    "problem": "Which symbol represents the comparison between \\frac{2}{6} and \\frac{2}{6}?",
+    "solution": "="
+  },
+  {
+    "problem": "14^2=",
+    "solution": "196"
+  },
+  {
+    "problem": "Is 25 composite?",
+    "solution": "Yes"
+  },
+  {
+    "problem": "GCD(244598978,815172787)=",
+    "solution": "13"
+  },
+  {
+    "problem": "Is 87 prime?",
+    "solution": "No"
+  },
+  {
+    "problem": "Is 6 composite?",
+    "solution": "Yes"
+  },
+  {
+    "problem": "8^3 =",
+    "solution": "512"
+  },
+  {
+    "problem": "74\\div14=",
+    "solution": "5.29"
+  },
+  {
+    "problem": "Is 100 prime?",
+    "solution": "No"
+  },
+  {
+    "problem": "345\\div23=",
+    "solution": "15"
+  },
+  {
+    "problem": "\\frac{6}{4}\\div\\frac{1}{3}=",
+    "solution": "\\frac{9}{2}"
+  },
+  {
+    "problem": "11\\cdot8",
+    "solution": "88"
+  },
+  {
+    "problem": "What is the percentage difference between 81 and 179?",
+    "solution": "75.38%"
+  },
+  {
+    "problem": "Is 58 composite?",
+    "solution": "Yes"
+  },
+  {
+    "problem": "What is the cube root of: \\sqrt[3]{491}= to 2 decimal places?",
+    "solution": "7.89"
+  },
+  {
+    "problem": "What is the cube root of: \\sqrt[3]{570}= to 2 decimal places?",
+    "solution": "8.29"
+  },
+  {
+    "problem": "GCD(476273367,180527262)=",
+    "solution": "3"
+  },
+  {
+    "problem": "Simplify 46^{1^{10}}",
+    "solution": "46^{10}"
+  },
+  {
+    "problem": "98-39=",
+    "solution": "59"
+  },
+  {
+    "problem": "What is the cube root of: \\sqrt[3]{25}= to 2 decimal places?",
+    "solution": "2.92"
+  },
+  {
+    "problem": "7\\cdot6",
+    "solution": "42"
+  },
+  {
+    "problem": "What is the cube root of: \\sqrt[3]{391}= to 2 decimal places?",
+    "solution": "7.31"
+  },
+  {
+    "problem": "0! =",
+    "solution": "1"
+  },
+  {
+    "problem": "\\frac{8}{5}\\div\\frac{7}{10}=",
+    "solution": "\\frac{16}{7}"
+  },
+  {
+    "problem": "2! =",
+    "solution": "2"
+  },
+  {
+    "problem": "\\sqrt{36}=",
+    "solution": "6"
+  },
+  {
+    "problem": "Which symbol represents the comparison between \\frac{10}{9} and \\frac{9}{8}?",
+    "solution": "<"
+  },
+  {
+    "problem": "2! =",
+    "solution": "2"
+  },
+  {
+    "problem": "What is 36% of 69?",
+    "solution": "24.84"
+  },
+  {
+    "problem": "|-16-63|=",
+    "solution": "79"
+  },
+  {
+    "problem": "\\frac{5}{9}\\div\\frac{4}{8}=",
+    "solution": "\\frac{10}{9}"
+  },
+  {
+    "problem": "70-42=",
+    "solution": "28"
+  },
+  {
+    "problem": "\\sqrt{144}=",
+    "solution": "12"
+  },
+  {
+    "problem": "Which symbol represents the comparison between \\frac{3}{6} and \\frac{3}{8}?",
+    "solution": ">"
+  },
+  {
+    "problem": "Find the percentage error when observed value equals 3 and exact value equals 36.",
+    "solution": "91.67\\%"
+  },
+  {
+    "problem": "Simplify 39^{6^{9}}",
+    "solution": "39^{54}"
+  },
+  {
+    "problem": "What is the percentage difference between 6 and 153?",
+    "solution": "184.91%"
+  },
+  {
+    "problem": "Which symbol represents the comparison between \\frac{6}{1} and \\frac{3}{1}?",
+    "solution": ">"
+  },
+  {
+    "problem": "What is the percentage difference between 94 and 134?",
+    "solution": "35.09%"
+  },
+  {
+    "problem": "\\sqrt{4}=",
+    "solution": "2"
+  },
+  {
+    "problem": "54-33=",
+    "solution": "21"
+  },
+  {
+    "problem": "7\\cdot4",
+    "solution": "28"
+  },
+  {
+    "problem": "What is 87% of 97?",
+    "solution": "84.39"
+  },
+  {
+    "problem": "\\sqrt{1}=",
+    "solution": "1"
+  },
+  {
+    "problem": "Simplify 18^{8^{9}}",
+    "solution": "18^{72}"
+  },
+  {
+    "problem": "17^2=",
+    "solution": "289"
+  },
+  {
+    "problem": "6\\cdot8",
+    "solution": "48"
+  },
+  {
+    "problem": "What is the cube root of: \\sqrt[3]{893}= to 2 decimal places?",
+    "solution": "9.63"
+  },
+  {
+    "problem": "16\\div71=",
+    "solution": "0.23"
+  },
+  {
+    "problem": "Is 62 prime?",
+    "solution": "No"
+  },
+  {
+    "problem": "75-37=",
+    "solution": "38"
+  },
+  {
+    "problem": "Is 240 composite?",
+    "solution": "Yes"
+  },
+  {
+    "problem": "What is the percentage difference between 81 and 154?",
+    "solution": "62.13%"
+  },
+  {
+    "problem": "What is 9% of 79?",
+    "solution": "7.11"
+  },
+  {
+    "problem": "What is 53% of 79?",
+    "solution": "41.87"
+  },
+  {
+    "problem": "Simplify 6^{6^{3}}",
+    "solution": "6^{18}"
+  },
+  {
+    "problem": "\\sqrt{1}=",
+    "solution": "1"
+  },
+  {
+    "problem": "\\frac{9}{6}\\div\\frac{1}{3}=",
+    "solution": "\\frac{9}{2}"
+  },
+  {
+    "problem": "What is the percentage difference between 136 and 32?",
+    "solution": "123.81%"
+  },
+  {
+    "problem": "15^2=",
+    "solution": "225"
+  },
+  {
+    "problem": "\\frac{8}{2}\\cdot\\frac{6}{3}=",
+    "solution": "\\frac{48}{6}"
+  },
+  {
+    "problem": "10\\cdot8",
+    "solution": "80"
+  },
+  {
+    "problem": "Which symbol represents the comparison between \\frac{6}{9} and \\frac{8}{10}?",
+    "solution": "<"
+  },
+  {
+    "problem": "33\\div42=",
+    "solution": "0.79"
+  },
+  {
+    "problem": "What is the cube root of: \\sqrt[3]{317}= to 2 decimal places?",
+    "solution": "6.82"
+  },
+  {
+    "problem": "What is 52% of 41?",
+    "solution": "21.32"
+  },
+  {
+    "problem": "Is 224 composite?",
+    "solution": "Yes"
+  },
+  {
+    "problem": "|49--7|=",
+    "solution": "56"
+  },
+  {
+    "problem": "\\sqrt{64}=",
+    "solution": "8"
+  },
+  {
+    "problem": "Is 240 composite?",
+    "solution": "Yes"
+  },
+  {
+    "problem": "Is 167 composite?",
+    "solution": "No"
+  },
+  {
+    "problem": "Is 61 prime?",
+    "solution": "Yes"
+  },
+  {
+    "problem": "GCD(678628214,595759344)=",
+    "solution": "2"
+  },
+  {
+    "problem": "Find the percentage error when observed value equals 48 and exact value equals 43.",
+    "solution": "11.63\\%"
+  },
+  {
+    "problem": "\\frac{8}{1}\\cdot\\frac{9}{3}=",
+    "solution": "\\frac{72}{3}"
+  },
+  {
+    "problem": "GCD(438065283,975225324)=",
+    "solution": "3"
+  },
+  {
+    "problem": "What is the percentage difference between 138 and 6?",
+    "solution": "183.33%"
+  },
+  {
+    "problem": "What is the cube root of: \\sqrt[3]{71}= to 2 decimal places?",
+    "solution": "4.14"
+  },
+  {
+    "problem": "70\\div18=",
+    "solution": "3.89"
+  },
+  {
+    "problem": "GCD(243055785,669076621)=",
+    "solution": "1"
+  },
+  {
+    "problem": "What is the percentage difference between 180 and 188?",
+    "solution": "4.35%"
+  },
+  {
+    "problem": "|-68--96|=",
+    "solution": "28"
+  },
+  {
+    "problem": "12^9 =",
+    "solution": "5159780352"
+  },
+  {
+    "problem": "Which symbol represents the comparison between \\frac{10}{7} and \\frac{1}{5}?",
+    "solution": ">"
+  },
+  {
+    "problem": "\\sqrt{1}=",
+    "solution": "1"
+  },
+  {
+    "problem": "Simplify 26^{9^{3}}",
+    "solution": "26^{27}"
+  },
+  {
+    "problem": "Is 10 prime?",
+    "solution": "No"
+  },
+  {
+    "problem": "What is the percentage difference between 177 and 71?",
+    "solution": "85.48%"
+  },
+  {
+    "problem": "192\\div24=",
+    "solution": "8"
+  },
+  {
+    "problem": "What is the percentage difference between 106 and 10?",
+    "solution": "165.52%"
+  },
+  {
+    "problem": "20^9 =",
+    "solution": "512000000000"
+  },
+  {
+    "problem": "\\sqrt{16}=",
+    "solution": "4"
+  },
+  {
+    "problem": "Find the percentage error when observed value equals 16 and exact value equals 30.",
+    "solution": "46.67\\%"
+  },
+  {
+    "problem": "4^6 =",
+    "solution": "4096"
+  },
+  {
+    "problem": "What is 93% of 17?",
+    "solution": "15.81"
+  },
+  {
+    "problem": "What is 50% of 4?",
+    "solution": "2.00"
+  },
+  {
+    "problem": "\\frac{2}{6}\\cdot\\frac{1}{7}=",
+    "solution": "\\frac{1}{21}"
+  },
+  {
+    "problem": "Find the percentage error when observed value equals 84 and exact value equals 55.",
+    "solution": "52.73\\%"
+  },
+  {
+    "problem": "|-62--71|=",
+    "solution": "9"
+  },
+  {
+    "problem": "9^9 =",
+    "solution": "387420489"
+  },
+  {
+    "problem": "Find the percentage error when observed value equals 48 and exact value equals 3.",
+    "solution": "1500.0\\%"
+  },
+  {
+    "problem": "4! =",
+    "solution": "24"
+  },
+  {
+    "problem": "Is 21 prime?",
+    "solution": "No"
+  },
+  {
+    "problem": "6\\cdot4",
+    "solution": "24"
+  },
+  {
+    "problem": "What is the cube root of: \\sqrt[3]{719}= to 2 decimal places?",
+    "solution": "8.96"
+  },
+  {
+    "problem": "Find the percentage error when observed value equals -70 and exact value equals -61.",
+    "solution": "14.75\\%"
+  },
+  {
+    "problem": "483\\div23=",
+    "solution": "21"
+  },
+  {
+    "problem": "What is 50% of 40?",
+    "solution": "20.00"
+  },
+  {
+    "problem": "66\\div11=",
+    "solution": "6"
+  },
+  {
+    "problem": "\\frac{6}{10}\\cdot\\frac{1}{9}=",
+    "solution": "\\frac{1}{15}"
+  },
+  {
+    "problem": "What is the percentage difference between 192 and 105?",
+    "solution": "58.59%"
+  },
+  {
+    "problem": "Is 13 composite?",
+    "solution": "No"
+  },
+  {
+    "problem": "15^2=",
+    "solution": "225"
+  },
+  {
+    "problem": "1\\cdot8",
+    "solution": "8"
+  },
+  {
+    "problem": "GCD(728289853,109840470)=",
+    "solution": "1"
+  },
+  {
+    "problem": "What is the percentage difference between 88 and 189?",
+    "solution": "72.92%"
+  },
+  {
+    "problem": "What is the cube root of: \\sqrt[3]{283}= to 2 decimal places?",
+    "solution": "6.57"
+  },
+  {
+    "problem": "Is 154 composite?",
+    "solution": "Yes"
+  },
+  {
+    "problem": "Simplify 37^{8^{10}}",
+    "solution": "37^{80}"
+  },
+  {
+    "problem": "323\\div19=",
+    "solution": "17"
+  },
+  {
+    "problem": "\\frac{3}{10}\\div\\frac{4}{5}=",
+    "solution": "\\frac{3}{8}"
+  },
+  {
+    "problem": "2^2=",
+    "solution": "4"
+  },
+  {
+    "problem": "3! =",
+    "solution": "6"
+  },
+  {
+    "problem": "89\\div41=",
+    "solution": "2.17"
+  },
+  {
+    "problem": "\\sqrt{16}=",
+    "solution": "4"
+  },
+  {
+    "problem": "\\sqrt{25}=",
+    "solution": "5"
+  },
+  {
+    "problem": "\\frac{1}{4}\\div\\frac{9}{10}=",
+    "solution": "\\frac{5}{18}"
+  },
+  {
+    "problem": "What is the cube root of: \\sqrt[3]{341}= to 2 decimal places?",
+    "solution": "6.99"
+  },
+  {
+    "problem": "\\frac{4}{7}\\cdot\\frac{6}{5}=",
+    "solution": "\\frac{24}{35}"
+  },
+  {
+    "problem": "34-12=",
+    "solution": "22"
+  },
+  {
+    "problem": "48\\div36=",
+    "solution": "1.33"
+  },
+  {
+    "problem": "What is the percentage difference between 96 and 133?",
+    "solution": "32.31%"
+  },
+  {
+    "problem": "4! =",
+    "solution": "24"
+  },
+  {
+    "problem": "85\\div9=",
+    "solution": "9.44"
+  },
+  {
+    "problem": "What is 60% of 41?",
+    "solution": "24.60"
+  },
+  {
+    "problem": "5^2=",
+    "solution": "25"
+  },
+  {
+    "problem": "Is 7 prime?",
+    "solution": "Yes"
+  },
+  {
+    "problem": "GCD(630471432,198468202)=",
+    "solution": "2"
+  },
+  {
+    "problem": "Simplify 21^{10^{2}}",
+    "solution": "21^{20}"
+  },
+  {
+    "problem": "Which symbol represents the comparison between \\frac{7}{6} and \\frac{3}{9}?",
+    "solution": ">"
+  },
+  {
+    "problem": "\\frac{2}{4}\\cdot\\frac{1}{2}=",
+    "solution": "\\frac{1}{4}"
+  },
+  {
+    "problem": "Simplify 12^{8^{7}}",
+    "solution": "12^{56}"
+  },
+  {
+    "problem": "88-61=",
+    "solution": "27"
+  },
+  {
+    "problem": "5! =",
+    "solution": "120"
+  },
+  {
+    "problem": "Is 44 prime?",
+    "solution": "No"
+  },
+  {
+    "problem": "10^2=",
+    "solution": "100"
+  },
+  {
+    "problem": "Which symbol represents the comparison between \\frac{2}{6} and \\frac{8}{10}?",
+    "solution": "<"
+  },
+  {
+    "problem": "GCD(579147975,679698272)=",
+    "solution": "1"
+  },
+  {
+    "problem": "\\frac{7}{4}\\div\\frac{2}{1}=",
+    "solution": "\\frac{7}{8}"
+  },
+  {
+    "problem": "1! =",
+    "solution": "1"
+  },
+  {
+    "problem": "\\frac{8}{2}\\div\\frac{9}{5}=",
+    "solution": "\\frac{20}{9}"
+  },
+  {
+    "problem": "GCD(990983363,65281539)=",
+    "solution": "1"
+  },
+  {
+    "problem": "What is 24% of 13?",
+    "solution": "3.12"
+  },
+  {
+    "problem": "\\sqrt{25}=",
+    "solution": "5"
+  },
+  {
+    "problem": "Simplify 28^{4^{1}}",
+    "solution": "28^{4}"
+  },
+  {
+    "problem": "What is the percentage difference between 53 and 170?",
+    "solution": "104.93%"
+  },
+  {
+    "problem": "11^2=",
+    "solution": "121"
+  },
+  {
+    "problem": "Simplify 14^{1^{4}}",
+    "solution": "14^{4}"
+  },
+  {
+    "problem": "Is 167 composite?",
+    "solution": "No"
+  },
+  {
+    "problem": "55-21=",
+    "solution": "34"
+  },
+  {
+    "problem": "What is 9% of 79?",
+    "solution": "7.11"
+  },
+  {
+    "problem": "462\\div21=",
+    "solution": "22"
+  },
+  {
+    "problem": "\\frac{6}{8}\\div\\frac{6}{10}=",
+    "solution": "\\frac{5}{4}"
+  },
+  {
+    "problem": "342\\div19=",
+    "solution": "18"
+  },
+  {
+    "problem": "Is 13 prime?",
+    "solution": "Yes"
+  },
+  {
+    "problem": "18^5 =",
+    "solution": "1889568"
+  },
+  {
+    "problem": "What is the percentage difference between 75 and 8?",
+    "solution": "161.45%"
+  },
+  {
+    "problem": "13^3 =",
+    "solution": "2197"
+  },
+  {
+    "problem": "\\frac{10}{8}\\div\\frac{5}{10}=",
+    "solution": "\\frac{5}{2}"
+  },
+  {
+    "problem": "\\frac{4}{6}\\div\\frac{5}{8}=",
+    "solution": "\\frac{16}{15}"
+  },
+  {
+    "problem": "4! =",
+    "solution": "24"
+  },
+  {
+    "problem": "16^6 =",
+    "solution": "16777216"
+  },
+  {
+    "problem": "Is 113 composite?",
+    "solution": "No"
+  },
+  {
+    "problem": "55\\div4=",
+    "solution": "13.75"
+  },
+  {
+    "problem": "What is the cube root of: \\sqrt[3]{587}= to 2 decimal places?",
+    "solution": "8.37"
+  },
+  {
+    "problem": "27-12=",
+    "solution": "15"
+  },
+  {
+    "problem": "14^2=",
+    "solution": "196"
+  },
+  {
+    "problem": "Find the percentage error when observed value equals 21 and exact value equals 70.",
+    "solution": "70.0\\%"
+  },
+  {
+    "problem": "\\frac{7}{1}\\div\\frac{1}{4}=",
+    "solution": "\\frac{28}{1}"
+  },
+  {
+    "problem": "42\\div73=",
+    "solution": "0.58"
+  },
+  {
+    "problem": "83-13=",
+    "solution": "70"
+  },
+  {
+    "problem": "GCD(183938117,481747563)=",
+    "solution": "11"
+  },
+  {
+    "problem": "\\sqrt{1}=",
+    "solution": "1"
+  },
+  {
+    "problem": "2! =",
+    "solution": "2"
+  },
+  {
+    "problem": "Which symbol represents the comparison between \\frac{9}{6} and \\frac{7}{3}?",
+    "solution": "<"
+  },
+  {
+    "problem": "1^2=",
+    "solution": "1"
+  },
+  {
+    "problem": "\\frac{3}{4}\\cdot\\frac{7}{4}=",
+    "solution": "\\frac{21}{16}"
+  },
+  {
+    "problem": "What is the percentage difference between 49 and 200?",
+    "solution": "121.29%"
+  },
+  {
+    "problem": "36\\div7=",
+    "solution": "5.14"
+  },
+  {
+    "problem": "\\frac{3}{2}\\cdot\\frac{6}{9}=",
+    "solution": "\\frac{18}{18}"
+  },
+  {
+    "problem": "2! =",
+    "solution": "2"
+  },
+  {
+    "problem": "1^1 =",
+    "solution": "1"
+  },
+  {
+    "problem": "What is 99% of 1?",
+    "solution": "0.99"
+  },
+  {
+    "problem": "10\\cdot3",
+    "solution": "30"
+  },
+  {
+    "problem": "14^2=",
+    "solution": "196"
+  },
+  {
+    "problem": "28\\div99=",
+    "solution": "0.28"
+  },
+  {
+    "problem": "\\frac{3}{10}\\cdot\\frac{9}{4}=",
+    "solution": "\\frac{27}{40}"
+  },
+  {
+    "problem": "What is the cube root of: \\sqrt[3]{915}= to 2 decimal places?",
+    "solution": "9.71"
+  },
+  {
+    "problem": "Which symbol represents the comparison between \\frac{3}{4} and \\frac{8}{7}?",
+    "solution": "<"
+  },
+  {
+    "problem": "0! =",
+    "solution": "1"
+  },
+  {
+    "problem": "\\frac{10}{5}\\cdot\\frac{10}{6}=",
+    "solution": "\\frac{10}{3}"
+  },
+  {
+    "problem": "Is 11 composite?",
+    "solution": "No"
+  },
+  {
+    "problem": "91\\div35=",
+    "solution": "2.6"
+  },
+  {
+    "problem": "|-80-75|=",
+    "solution": "155"
+  },
+  {
+    "problem": "Is 71 prime?",
+    "solution": "Yes"
+  },
+  {
+    "problem": "306\\div18=",
+    "solution": "17"
+  },
+  {
+    "problem": "\\sqrt{1}=",
+    "solution": "1"
+  },
+  {
+    "problem": "68-64=",
+    "solution": "4"
+  },
+  {
+    "problem": "13^2=",
+    "solution": "169"
+  },
+  {
+    "problem": "2! =",
+    "solution": "2"
+  },
+  {
+    "problem": "What is the percentage difference between 196 and 187?",
+    "solution": "4.7%"
+  },
+  {
+    "problem": "Which symbol represents the comparison between \\frac{8}{4} and \\frac{9}{8}?",
+    "solution": ">"
+  },
+  {
+    "problem": "Is 7 composite?",
+    "solution": "No"
+  },
+  {
+    "problem": "What is the percentage difference between 51 and 66?",
+    "solution": "25.64%"
+  },
+  {
+    "problem": "18^2=",
+    "solution": "324"
+  },
+  {
+    "problem": "Find the percentage error when observed value equals -39 and exact value equals -65.",
+    "solution": "40.0\\%"
+  },
+  {
+    "problem": "1! =",
+    "solution": "1"
+  },
+  {
+    "problem": "2! =",
+    "solution": "2"
+  },
+  {
+    "problem": "\\frac{10}{1}\\div\\frac{10}{9}=",
+    "solution": "\\frac{9}{1}"
+  },
+  {
+    "problem": "Find the percentage error when observed value equals -2 and exact value equals -9.",
+    "solution": "77.78\\%"
+  },
+  {
+    "problem": "3^2=",
+    "solution": "9"
+  },
+  {
+    "problem": "Is 164 composite?",
+    "solution": "Yes"
+  },
+  {
+    "problem": "\\frac{1}{5}\\div\\frac{8}{2}=",
+    "solution": "\\frac{1}{20}"
+  },
+  {
+    "problem": "Is 109 composite?",
+    "solution": "No"
+  },
+  {
+    "problem": "Is 83 prime?",
+    "solution": "Yes"
+  },
+  {
+    "problem": "What is the cube root of: \\sqrt[3]{760}= to 2 decimal places?",
+    "solution": "9.13"
+  },
+  {
+    "problem": "\\frac{2}{10}\\div\\frac{7}{4}=",
+    "solution": "\\frac{4}{35}"
+  },
+  {
+    "problem": "153\\div9=",
+    "solution": "17"
+  },
+  {
+    "problem": "Simplify 25^{9^{2}}",
+    "solution": "25^{18}"
+  },
+  {
+    "problem": "Find the percentage error when observed value equals 31 and exact value equals 52.",
+    "solution": "40.38\\%"
+  },
+  {
+    "problem": "Is 50 composite?",
+    "solution": "Yes"
+  },
+  {
+    "problem": "5\\cdot11",
+    "solution": "55"
+  },
+  {
+    "problem": "29-17=",
+    "solution": "12"
+  },
+  {
+    "problem": "What is the cube root of: \\sqrt[3]{660}= to 2 decimal places?",
+    "solution": "8.71"
+  },
+  {
+    "problem": "11\\cdot6",
+    "solution": "66"
+  },
+  {
+    "problem": "0! =",
+    "solution": "1"
+  },
+  {
+    "problem": "Is 52 prime?",
+    "solution": "No"
+  },
+  {
+    "problem": "Which symbol represents the comparison between \\frac{10}{3} and \\frac{7}{8}?",
+    "solution": ">"
+  },
+  {
+    "problem": "\\frac{8}{7}\\cdot\\frac{7}{1}=",
+    "solution": "\\frac{56}{7}"
+  },
+  {
+    "problem": "GCD(575250197,525123972)=",
+    "solution": "1"
+  },
+  {
+    "problem": "What is 47% of 95?",
+    "solution": "44.65"
+  },
+  {
+    "problem": "9\\cdot6",
+    "solution": "54"
+  },
+  {
+    "problem": "What is 37% of 67?",
+    "solution": "24.79"
+  },
+  {
+    "problem": "What is the cube root of: \\sqrt[3]{706}= to 2 decimal places?",
+    "solution": "8.9"
+  },
+  {
+    "problem": "1! =",
+    "solution": "1"
+  },
+  {
+    "problem": "GCD(160953240,288614553)=",
+    "solution": "3"
+  },
+  {
+    "problem": "75\\div5=",
+    "solution": "15"
+  },
+  {
+    "problem": "Which symbol represents the comparison between \\frac{8}{4} and \\frac{8}{1}?",
+    "solution": "<"
+  },
+  {
+    "problem": "\\frac{1}{10}\\div\\frac{6}{9}=",
+    "solution": "\\frac{3}{20}"
+  },
+  {
+    "problem": "\\frac{10}{8}\\cdot\\frac{9}{6}=",
+    "solution": "\\frac{15}{8}"
+  },
+  {
+    "problem": "What is the cube root of: \\sqrt[3]{248}= to 2 decimal places?",
+    "solution": "6.28"
+  },
+  {
+    "problem": "6\\cdot0",
+    "solution": "0"
+  },
+  {
+    "problem": "\\frac{2}{4}\\div\\frac{6}{3}=",
+    "solution": "\\frac{1}{4}"
+  },
+  {
+    "problem": "GCD(492951692,439170306)=",
+    "solution": "2"
+  },
+  {
+    "problem": "3\\cdot4",
+    "solution": "12"
+  },
+  {
+    "problem": "96\\div6=",
+    "solution": "16"
+  },
+  {
+    "problem": "18^2=",
+    "solution": "324"
+  },
+  {
+    "problem": "Is 31 prime?",
+    "solution": "Yes"
+  },
+  {
+    "problem": "2! =",
+    "solution": "2"
+  },
+  {
+    "problem": "1^7 =",
+    "solution": "1"
+  },
+  {
+    "problem": "\\frac{1}{3}\\cdot\\frac{9}{10}=",
+    "solution": "\\frac{3}{10}"
+  },
+  {
+    "problem": "Find the percentage error when observed value equals -56 and exact value equals -59.",
+    "solution": "5.08\\%"
+  },
+  {
+    "problem": "Is 73 prime?",
+    "solution": "Yes"
+  },
+  {
+    "problem": "What is 4% of 60?",
+    "solution": "2.40"
+  },
+  {
+    "problem": "76-5=",
+    "solution": "71"
+  },
+  {
+    "problem": "\\sqrt{1}=",
+    "solution": "1"
+  },
+  {
+    "problem": "19^3 =",
+    "solution": "6859"
+  },
+  {
+    "problem": "6^2=",
+    "solution": "36"
+  },
+  {
+    "problem": "Is 26 prime?",
+    "solution": "No"
+  },
+  {
+    "problem": "289\\div17=",
+    "solution": "17"
+  },
+  {
+    "problem": "Is 114 composite?",
+    "solution": "Yes"
+  },
+  {
+    "problem": "What is the cube root of: \\sqrt[3]{621}= to 2 decimal places?",
+    "solution": "8.53"
+  },
+  {
+    "problem": "GCD(100975387,538808911)=",
+    "solution": "1"
+  },
+  {
+    "problem": "Find the percentage error when observed value equals 24 and exact value equals 8.",
+    "solution": "200.0\\%"
+  },
+  {
+    "problem": "Find the percentage error when observed value equals 52 and exact value equals 55.",
+    "solution": "5.45\\%"
+  },
+  {
+    "problem": "87-20=",
+    "solution": "67"
+  },
+  {
+    "problem": "18^2=",
+    "solution": "324"
+  },
+  {
+    "problem": "Is 52 composite?",
+    "solution": "Yes"
+  },
+  {
+    "problem": "What is 2% of 94?",
+    "solution": "1.88"
+  },
+  {
+    "problem": "What is the percentage difference between 171 and 158?",
+    "solution": "7.9%"
+  },
+  {
+    "problem": "\\frac{5}{4}\\cdot\\frac{7}{6}=",
+    "solution": "\\frac{35}{24}"
+  },
+  {
+    "problem": "GCD(295611173,81847743)=",
+    "solution": "1"
+  },
+  {
+    "problem": "0! =",
+    "solution": "1"
+  },
+  {
+    "problem": "What is the percentage difference between 19 and 1?",
+    "solution": "180.0%"
+  },
+  {
+    "problem": "23-20=",
+    "solution": "3"
+  },
+  {
+    "problem": "What is the cube root of: \\sqrt[3]{919}= to 2 decimal places?",
+    "solution": "9.72"
+  },
+  {
+    "problem": "4! =",
+    "solution": "24"
+  },
+  {
+    "problem": "99\\div23=",
+    "solution": "4.3"
+  },
+  {
+    "problem": "Which symbol represents the comparison between \\frac{10}{7} and \\frac{5}{6}?",
+    "solution": ">"
+  },
+  {
+    "problem": "171\\div19=",
+    "solution": "9"
+  },
+  {
+    "problem": "5^3 =",
+    "solution": "125"
+  },
+  {
+    "problem": "What is the percentage difference between 149 and 138?",
+    "solution": "7.67%"
+  },
+  {
+    "problem": "\\frac{5}{8}\\div\\frac{10}{3}=",
+    "solution": "\\frac{3}{16}"
+  },
+  {
+    "problem": "3! =",
+    "solution": "6"
+  },
+  {
+    "problem": "GCD(220262460,422602996)=",
+    "solution": "4"
+  },
+  {
+    "problem": "GCD(617165278,129873260)=",
+    "solution": "2"
+  },
+  {
+    "problem": "\\sqrt{81}=",
+    "solution": "9"
+  },
+  {
+    "problem": "\\frac{2}{10}\\cdot\\frac{10}{6}=",
+    "solution": "\\frac{1}{3}"
+  },
+  {
+    "problem": "What is 62% of 73?",
+    "solution": "45.26"
+  },
+  {
+    "problem": "4! =",
+    "solution": "24"
+  },
+  {
+    "problem": "7^2 =",
+    "solution": "49"
+  },
+  {
+    "problem": "5^2=",
+    "solution": "25"
+  },
+  {
+    "problem": "11\\cdot12",
+    "solution": "132"
+  },
+  {
+    "problem": "2! =",
+    "solution": "2"
+  },
+  {
+    "problem": "|21--43|=",
+    "solution": "64"
+  },
+  {
+    "problem": "\\sqrt{25}=",
+    "solution": "5"
+  },
+  {
+    "problem": "\\frac{1}{6}\\cdot\\frac{10}{3}=",
+    "solution": "\\frac{5}{9}"
+  },
+  {
+    "problem": "19^2=",
+    "solution": "361"
+  },
+  {
+    "problem": "\\frac{8}{7}\\div\\frac{6}{10}=",
+    "solution": "\\frac{40}{21}"
+  },
+  {
+    "problem": "What is the cube root of: \\sqrt[3]{794}= to 2 decimal places?",
+    "solution": "9.26"
+  },
+  {
+    "problem": "12^9 =",
+    "solution": "5159780352"
+  },
+  {
+    "problem": "Is 131 composite?",
+    "solution": "No"
+  },
+  {
+    "problem": "39-2=",
+    "solution": "37"
+  },
+  {
+    "problem": "What is the cube root of: \\sqrt[3]{38}= to 2 decimal places?",
+    "solution": "3.36"
+  },
+  {
+    "problem": "GCD(23943700,332479115)=",
+    "solution": "5"
+  },
+  {
+    "problem": "Is 68 prime?",
+    "solution": "No"
+  },
+  {
+    "problem": "Is 173 composite?",
+    "solution": "No"
+  },
+  {
+    "problem": "0! =",
+    "solution": "1"
+  },
+  {
+    "problem": "Which symbol represents the comparison between \\frac{9}{1} and \\frac{5}{6}?",
+    "solution": ">"
+  },
+  {
+    "problem": "\\sqrt{49}=",
+    "solution": "7"
+  },
+  {
+    "problem": "GCD(526750321,6550522)=",
+    "solution": "1"
+  },
+  {
+    "problem": "\\frac{5}{4}\\div\\frac{5}{8}=",
+    "solution": "\\frac{2}{1}"
+  },
+  {
+    "problem": "2! =",
+    "solution": "2"
+  },
+  {
+    "problem": "Find the percentage error when observed value equals -95 and exact value equals -28.",
+    "solution": "239.29\\%"
+  },
+  {
+    "problem": "16^2=",
+    "solution": "256"
+  },
+  {
+    "problem": "\\frac{8}{10}\\div\\frac{4}{8}=",
+    "solution": "\\frac{8}{5}"
+  },
+  {
+    "problem": "3\\cdot11",
+    "solution": "33"
+  },
+  {
+    "problem": "Which symbol represents the comparison between \\frac{5}{10} and \\frac{3}{8}?",
+    "solution": ">"
+  },
+  {
+    "problem": "|-49--99|=",
+    "solution": "50"
+  },
+  {
+    "problem": "Is 58 prime?",
+    "solution": "No"
+  },
+  {
+    "problem": "11^9 =",
+    "solution": "2357947691"
+  },
+  {
+    "problem": "What is 24% of 23?",
+    "solution": "5.52"
+  },
+  {
+    "problem": "GCD(406033299,356088678)=",
+    "solution": "3"
+  },
+  {
+    "problem": "What is the cube root of: \\sqrt[3]{72}= to 2 decimal places?",
+    "solution": "4.16"
+  },
+  {
+    "problem": "6^1 =",
+    "solution": "6"
+  },
+  {
+    "problem": "\\sqrt{16}=",
+    "solution": "4"
+  },
+  {
+    "problem": "\\frac{3}{5}\\cdot\\frac{9}{8}=",
+    "solution": "\\frac{27}{40}"
+  },
+  {
+    "problem": "\\sqrt{36}=",
+    "solution": "6"
+  },
+  {
+    "problem": "What is the percentage difference between 108 and 95?",
+    "solution": "12.81%"
+  },
+  {
+    "problem": "What is 18% of 99?",
+    "solution": "17.82"
+  },
+  {
+    "problem": "\\sqrt{4}=",
+    "solution": "2"
+  },
+  {
+    "problem": "Is 155 composite?",
+    "solution": "Yes"
+  },
+  {
+    "problem": "12^10 =",
+    "solution": "61917364224"
+  },
+  {
+    "problem": "18^2 =",
+    "solution": "324"
+  },
+  {
+    "problem": "\\frac{9}{5}\\div\\frac{7}{9}=",
+    "solution": "\\frac{81}{35}"
+  },
+  {
+    "problem": "What is the cube root of: \\sqrt[3]{57}= to 2 decimal places?",
+    "solution": "3.85"
+  },
+  {
+    "problem": "Which symbol represents the comparison between \\frac{3}{4} and \\frac{6}{2}?",
+    "solution": "<"
+  },
+  {
+    "problem": "What is the percentage difference between 132 and 119?",
+    "solution": "10.36%"
+  },
+  {
+    "problem": "\\sqrt{144}=",
+    "solution": "12"
+  },
+  {
+    "problem": "0! =",
+    "solution": "1"
+  },
+  {
+    "problem": "0-0=",
+    "solution": "0"
+  },
+  {
+    "problem": "Is 78 prime?",
+    "solution": "No"
+  },
+  {
+    "problem": "2\\cdot11",
+    "solution": "22"
+  },
+  {
+    "problem": "30\\div14=",
+    "solution": "2.14"
+  },
+  {
+    "problem": "8^2=",
+    "solution": "64"
+  },
+  {
+    "problem": "37-35=",
+    "solution": "2"
+  },
+  {
+    "problem": "\\frac{2}{1}\\div\\frac{9}{5}=",
+    "solution": "\\frac{10}{9}"
+  },
+  {
+    "problem": "13^8 =",
+    "solution": "815730721"
+  },
+  {
+    "problem": "What is 49% of 77?",
+    "solution": "37.73"
+  },
+  {
+    "problem": "\\sqrt{100}=",
+    "solution": "10"
+  },
+  {
+    "problem": "Which symbol represents the comparison between \\frac{8}{5} and \\frac{2}{9}?",
+    "solution": ">"
+  },
+  {
+    "problem": "Is 9 prime?",
+    "solution": "No"
+  },
+  {
+    "problem": "Is 210 composite?",
+    "solution": "Yes"
+  },
+  {
+    "problem": "\\frac{2}{5}\\cdot\\frac{3}{7}=",
+    "solution": "\\frac{6}{35}"
+  },
+  {
+    "problem": "\\frac{9}{5}\\cdot\\frac{4}{9}=",
+    "solution": "\\frac{4}{5}"
+  },
+  {
+    "problem": "\\frac{6}{3}\\cdot\\frac{4}{10}=",
+    "solution": "\\frac{4}{5}"
+  },
+  {
+    "problem": "Find the percentage error when observed value equals 11 and exact value equals 6.",
+    "solution": "83.33\\%"
+  },
+  {
+    "problem": "\\sqrt{64}=",
+    "solution": "8"
+  },
+  {
+    "problem": "\\sqrt{16}=",
+    "solution": "4"
+  },
+  {
+    "problem": "Which symbol represents the comparison between \\frac{3}{4} and \\frac{7}{3}?",
+    "solution": "<"
+  },
+  {
+    "problem": "162\\div9=",
+    "solution": "18"
+  },
+  {
+    "problem": "50\\div9=",
+    "solution": "5.56"
+  },
+  {
+    "problem": "Is 56 prime?",
+    "solution": "No"
+  },
+  {
+    "problem": "What is the cube root of: \\sqrt[3]{739}= to 2 decimal places?",
+    "solution": "9.04"
+  },
+  {
+    "problem": "\\frac{8}{4}\\div\\frac{4}{9}=",
+    "solution": "\\frac{9}{2}"
+  },
+  {
+    "problem": "19^2=",
+    "solution": "361"
+  },
+  {
+    "problem": "\\frac{3}{1}\\cdot\\frac{2}{8}=",
+    "solution": "\\frac{3}{4}"
+  },
+  {
+    "problem": "Is 40 prime?",
+    "solution": "No"
+  },
+  {
+    "problem": "|-63--80|=",
+    "solution": "17"
+  },
+  {
+    "problem": "Is 83 prime?",
+    "solution": "Yes"
+  },
+  {
+    "problem": "\\frac{4}{9}\\cdot\\frac{8}{3}=",
+    "solution": "\\frac{32}{27}"
+  },
+  {
+    "problem": "3! =",
+    "solution": "6"
+  },
+  {
+    "problem": "Is 31 prime?",
+    "solution": "Yes"
+  },
+  {
+    "problem": "Find the percentage error when observed value equals -57 and exact value equals -50.",
+    "solution": "14.0\\%"
+  },
+  {
+    "problem": "Find the percentage error when observed value equals 4 and exact value equals 73.",
+    "solution": "94.52\\%"
+  },
+  {
+    "problem": "11^2=",
+    "solution": "121"
+  },
+  {
+    "problem": "15^2=",
+    "solution": "225"
+  },
+  {
+    "problem": "Is 21 composite?",
+    "solution": "Yes"
+  },
+  {
+    "problem": "\\frac{8}{10}\\div\\frac{4}{5}=",
+    "solution": "\\frac{1}{1}"
+  },
+  {
+    "problem": "6\\cdot3",
+    "solution": "18"
+  },
+  {
+    "problem": "19^3 =",
+    "solution": "6859"
+  },
+  {
+    "problem": "|20--39|=",
+    "solution": "59"
+  },
+  {
+    "problem": "Is 102 composite?",
+    "solution": "Yes"
+  },
+  {
+    "problem": "Is 36 prime?",
+    "solution": "No"
+  },
+  {
+    "problem": "4! =",
+    "solution": "24"
+  },
+  {
+    "problem": "12\\cdot7",
+    "solution": "84"
+  },
+  {
+    "problem": "168\\div21=",
+    "solution": "8"
+  },
+  {
+    "problem": "What is 96% of 26?",
+    "solution": "24.96"
+  },
+  {
+    "problem": "\\sqrt{81}=",
+    "solution": "9"
+  },
+  {
+    "problem": "\\frac{5}{4}\\cdot\\frac{1}{8}=",
+    "solution": "\\frac{5}{32}"
+  },
+  {
+    "problem": "Simplify 45^{9^{10}}",
+    "solution": "45^{90}"
+  },
+  {
+    "problem": "Which symbol represents the comparison between \\frac{8}{7} and \\frac{3}{10}?",
+    "solution": ">"
+  },
+  {
+    "problem": "What is the cube root of: \\sqrt[3]{843}= to 2 decimal places?",
+    "solution": "9.45"
+  },
+  {
+    "problem": "10\\cdot1",
+    "solution": "10"
+  },
+  {
+    "problem": "Which symbol represents the comparison between \\frac{9}{1} and \\frac{4}{6}?",
+    "solution": ">"
+  },
+  {
+    "problem": "What is the percentage difference between 159 and 10?",
+    "solution": "176.33%"
+  },
+  {
+    "problem": "Which symbol represents the comparison between \\frac{1}{2} and \\frac{9}{1}?",
+    "solution": "<"
+  },
+  {
+    "problem": "GCD(151110988,954317857)=",
+    "solution": "31"
+  },
+  {
+    "problem": "5^2=",
+    "solution": "25"
+  },
+  {
+    "problem": "1! =",
+    "solution": "1"
+  },
+  {
+    "problem": "Which symbol represents the comparison between \\frac{2}{5} and \\frac{7}{8}?",
+    "solution": "<"
+  },
+  {
+    "problem": "|60-90|=",
+    "solution": "30"
+  },
+  {
+    "problem": "What is the cube root of: \\sqrt[3]{159}= to 2 decimal places?",
+    "solution": "5.42"
+  },
+  {
+    "problem": "\\frac{3}{4}\\cdot\\frac{9}{2}=",
+    "solution": "\\frac{27}{8}"
+  },
+  {
+    "problem": "\\frac{7}{10}\\div\\frac{4}{7}=",
+    "solution": "\\frac{49}{40}"
+  },
+  {
+    "problem": "41\\div57=",
+    "solution": "0.72"
+  },
+  {
+    "problem": "What is the cube root of: \\sqrt[3]{917}= to 2 decimal places?",
+    "solution": "9.72"
+  },
+  {
+    "problem": "Is 152 composite?",
+    "solution": "Yes"
+  },
+  {
+    "problem": "GCD(712572974,306931856)=",
+    "solution": "2"
+  },
+  {
+    "problem": "GCD(686611713,356132127)=",
+    "solution": "3"
+  },
+  {
+    "problem": "\\frac{9}{10}\\cdot\\frac{3}{6}=",
+    "solution": "\\frac{9}{20}"
+  },
+  {
+    "problem": "What is the percentage difference between 108 and 45?",
+    "solution": "82.35%"
+  },
+  {
+    "problem": "6^2=",
+    "solution": "36"
+  },
+  {
+    "problem": "23\\div63=",
+    "solution": "0.37"
+  },
+  {
+    "problem": "19^8 =",
+    "solution": "16983563041"
+  },
+  {
+    "problem": "\\frac{9}{4}\\cdot\\frac{3}{2}=",
+    "solution": "\\frac{27}{8}"
+  },
+  {
+    "problem": "Find the percentage error when observed value equals 21 and exact value equals 95.",
+    "solution": "77.89\\%"
+  },
+  {
+    "problem": "What is the cube root of: \\sqrt[3]{292}= to 2 decimal places?",
+    "solution": "6.63"
+  },
+  {
+    "problem": "53-19=",
+    "solution": "34"
+  },
+  {
+    "problem": "Find the percentage error when observed value equals 10 and exact value equals 75.",
+    "solution": "86.67\\%"
+  },
+  {
+    "problem": "What is the percentage difference between 24 and 7?",
+    "solution": "109.68%"
+  },
+  {
+    "problem": "GCD(248711291,445457158)=",
+    "solution": "1"
+  },
+  {
+    "problem": "\\frac{9}{8}\\div\\frac{6}{3}=",
+    "solution": "\\frac{9}{16}"
+  },
+  {
+    "problem": "2-2=",
+    "solution": "0"
+  },
+  {
+    "problem": "72-7=",
+    "solution": "65"
+  },
+  {
+    "problem": "\\sqrt{9}=",
+    "solution": "3"
+  },
+  {
+    "problem": "7\\cdot4",
+    "solution": "28"
+  },
+  {
+    "problem": "0! =",
+    "solution": "1"
+  },
+  {
+    "problem": "Is 178 composite?",
+    "solution": "Yes"
+  },
+  {
+    "problem": "45\\div93=",
+    "solution": "0.48"
+  },
+  {
+    "problem": "What is the percentage difference between 85 and 102?",
+    "solution": "18.18%"
+  },
+  {
+    "problem": "1! =",
+    "solution": "1"
+  },
+  {
+    "problem": "6\\cdot12",
+    "solution": "72"
+  },
+  {
+    "problem": "Is 21 prime?",
+    "solution": "No"
+  },
+  {
+    "problem": "\\sqrt{9}=",
+    "solution": "3"
+  },
+  {
+    "problem": "11^4 =",
+    "solution": "14641"
+  },
+  {
+    "problem": "20^2=",
+    "solution": "400"
+  },
+  {
+    "problem": "Is 200 composite?",
+    "solution": "Yes"
+  },
+  {
+    "problem": "6! =",
+    "solution": "720"
+  },
+  {
+    "problem": "Find the percentage error when observed value equals 29 and exact value equals 12.",
+    "solution": "141.67\\%"
+  },
+  {
+    "problem": "72\\div52=",
+    "solution": "1.38"
+  },
+  {
+    "problem": "Which symbol represents the comparison between \\frac{1}{5} and \\frac{5}{4}?",
+    "solution": "<"
+  },
+  {
+    "problem": "342\\div18=",
+    "solution": "19"
+  },
+  {
+    "problem": "What is the cube root of: \\sqrt[3]{243}= to 2 decimal places?",
+    "solution": "6.24"
+  },
+  {
+    "problem": "11^2 =",
+    "solution": "121"
+  },
+  {
+    "problem": "Simplify 21^{8^{7}}",
+    "solution": "21^{56}"
+  },
+  {
+    "problem": "10^2=",
+    "solution": "100"
+  },
+  {
+    "problem": "14^2=",
+    "solution": "196"
+  },
+  {
+    "problem": "59-56=",
+    "solution": "3"
+  },
+  {
+    "problem": "125\\div25=",
+    "solution": "5"
+  },
+  {
+    "problem": "|-54-88|=",
+    "solution": "142"
+  },
+  {
+    "problem": "Is 60 composite?",
+    "solution": "Yes"
+  },
+  {
+    "problem": "\\sqrt{9}=",
+    "solution": "3"
+  },
+  {
+    "problem": "506\\div23=",
+    "solution": "22"
+  },
+  {
+    "problem": "6\\cdot1",
+    "solution": "6"
+  },
+  {
+    "problem": "What is the cube root of: \\sqrt[3]{878}= to 2 decimal places?",
+    "solution": "9.58"
+  },
+  {
+    "problem": "|94--58|=",
+    "solution": "152"
+  },
+  {
+    "problem": "Find the percentage error when observed value equals 84 and exact value equals 50.",
+    "solution": "68.0\\%"
+  },
+  {
+    "problem": "GCD(966238959,180024967)=",
+    "solution": "1"
+  },
+  {
+    "problem": "Simplify 41^{8^{2}}",
+    "solution": "41^{16}"
+  },
+  {
+    "problem": "55\\div25=",
+    "solution": "2.2"
+  },
+  {
+    "problem": "\\frac{4}{2}\\div\\frac{10}{9}=",
+    "solution": "\\frac{9}{5}"
+  },
+  {
+    "problem": "3! =",
+    "solution": "6"
+  },
+  {
+    "problem": "Simplify 23^{1^{10}}",
+    "solution": "23^{10}"
+  },
+  {
+    "problem": "|100--13|=",
+    "solution": "113"
+  },
+  {
+    "problem": "\\sqrt{25}=",
+    "solution": "5"
+  },
+  {
+    "problem": "6\\cdot4",
+    "solution": "24"
+  },
+  {
+    "problem": "10^5 =",
+    "solution": "100000"
+  },
+  {
+    "problem": "Find the percentage error when observed value equals 0 and exact value equals -48.",
+    "solution": "100.0\\%"
+  },
+  {
+    "problem": "10^2=",
+    "solution": "100"
+  },
+  {
+    "problem": "288\\div24=",
+    "solution": "12"
+  },
+  {
+    "problem": "What is the cube root of: \\sqrt[3]{76}= to 2 decimal places?",
+    "solution": "4.24"
+  },
+  {
+    "problem": "Which symbol represents the comparison between \\frac{4}{3} and \\frac{1}{4}?",
+    "solution": ">"
+  },
+  {
+    "problem": "Is 20 prime?",
+    "solution": "No"
+  },
+  {
+    "problem": "312\\div24=",
+    "solution": "13"
+  },
+  {
+    "problem": "GCD(951375175,341032387)=",
+    "solution": "1"
+  },
+  {
+    "problem": "Simplify 47^{7^{6}}",
+    "solution": "47^{42}"
+  },
+  {
+    "problem": "51-42=",
+    "solution": "9"
+  },
+  {
+    "problem": "\\sqrt{25}=",
+    "solution": "5"
+  },
+  {
+    "problem": "6^10 =",
+    "solution": "60466176"
+  },
+  {
+    "problem": "84\\div7=",
+    "solution": "12"
+  },
+  {
+    "problem": "\\frac{1}{10}\\cdot\\frac{7}{6}=",
+    "solution": "\\frac{7}{60}"
+  },
+  {
+    "problem": "34-17=",
+    "solution": "17"
+  },
+  {
+    "problem": "7\\cdot0",
+    "solution": "0"
+  }
+]

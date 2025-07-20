@@ -1,0 +1,2002 @@
+[
+  {
+    "problem": "The perimeter of a 5 sided polygon with lengths of 71, 29, 7, 90, 86cm is: ",
+    "solution": "283"
+  },
+  {
+    "problem": "Surface area of cuboid with sides of lengths: 19m, 7m, 12m is",
+    "solution": "890 m^2"
+  },
+  {
+    "problem": "What is the sum of interior angles of a polygon with 10 sides?",
+    "solution": "1440"
+  },
+  {
+    "problem": "Does triangle with sides 26, 1 and 45 exist?",
+    "solution": "No"
+  },
+  {
+    "problem": "What is the equation of the line between points (-11,7) and (6,-10) in slope-intercept form?",
+    "solution": "y = -x -4"
+  },
+  {
+    "problem": "Area of circle with radius 31=",
+    "solution": "3019.07"
+  },
+  {
+    "problem": "Fourth angle of quadrilateral with angles 179 , 17, 76 =",
+    "solution": "88"
+  },
+  {
+    "problem": "Volume of cube with a side length of 19m is",
+    "solution": "6859 m^3"
+  },
+  {
+    "problem": "Volume of cone with height = 20m and radius = 8m is",
+    "solution": "1340 m^3"
+  },
+  {
+    "problem": "\\tan(0) = ",
+    "solution": "0"
+  },
+  {
+    "problem": "Area of circle with radius 12=",
+    "solution": "452.39"
+  },
+  {
+    "problem": "Fourth angle of quadrilateral with angles 61 , 164, 49 =",
+    "solution": "86"
+  },
+  {
+    "problem": "What is the sum of interior angles of a polygon with 5 sides?",
+    "solution": "540"
+  },
+  {
+    "problem": "Volume of cylinder with height = 9m and radius = 17m is",
+    "solution": "8171 m^3"
+  },
+  {
+    "problem": "What is the equation of the line between points (-19,6) and (-17,-16) in slope-intercept form?",
+    "solution": "y = -11x -203"
+  },
+  {
+    "problem": "Given radius, 34 and angle, 293. Find the arc length of the angle.",
+    "solution": "Arc length of the angle = 173.86970"
+  },
+  {
+    "problem": "Volume of cuboid with sides = 15m, 13m, 17m is",
+    "solution": "3315 m^3"
+  },
+  {
+    "problem": "Surface area of Sphere with radius = 6m is",
+    "solution": "452.3893421169302 m^2"
+  },
+  {
+    "problem": "What is the hypotenuse of a right triangle given the other two sides have lengths 5 and 16?",
+    "solution": "16.76"
+  },
+  {
+    "problem": "Surface area of cone with height = 6m and radius = 20m is",
+    "solution": "2568 m^2"
+  },
+  {
+    "problem": "Volume of cuboid with sides = 6m, 3m, 5m is",
+    "solution": "90 m^3"
+  },
+  {
+    "problem": "Volume of frustum with height = 23m and r1 = 11m is and r2 = 11m is ",
+    "solution": "3925.0 m^3"
+  },
+  {
+    "problem": "What is the sum of interior angles of a polygon with 11 sides?",
+    "solution": "1620"
+  },
+  {
+    "problem": "What is the equation of the line between points (-10,-18) and (16,-7) in slope-intercept form?",
+    "solution": "26y = 11x -358"
+  },
+  {
+    "problem": "Does triangle with sides 20, 18 and 23 exist?",
+    "solution": "Yes"
+  },
+  {
+    "problem": "What is the equation of the line between points (13,4) and (-14,-15) in slope-intercept form?",
+    "solution": "27y = 19x -139"
+  },
+  {
+    "problem": "The perimeter of a 5 sided polygon with lengths of 66, 67, 105, 112, 49cm is: ",
+    "solution": "399"
+  },
+  {
+    "problem": "Surface area of cube with side = 5m is",
+    "solution": "150 m^2"
+  },
+  {
+    "problem": "Volume of cone with height = 31m and radius = 11m is",
+    "solution": "3928 m^3"
+  },
+  {
+    "problem": "Volume of cube with a side length of 16m is",
+    "solution": "4096 m^3"
+  },
+  {
+    "problem": "Surface area of cylinder with height = 43m and radius = 1m is",
+    "solution": "276 m^2"
+  },
+  {
+    "problem": "Volume of cylinder with height = 3m and radius = 6m is",
+    "solution": "339 m^3"
+  },
+  {
+    "problem": "Surface area of cuboid with sides of lengths: 2m, 4m, 2m is",
+    "solution": "40 m^2"
+  },
+  {
+    "problem": "Angle 4.24 radians in degrees is: ",
+    "solution": "242.93"
+  },
+  {
+    "problem": "Volume of frustum with height = 2m and r1 = 19m is and r2 = 19m is ",
+    "solution": "1447.0 m^3"
+  },
+  {
+    "problem": "angle between the vectors [126.4, 240.71, 732.81, 459.37, 204.08, 493.07, 863.3, 174.56, 103.6, 384.25, 785.28, 242.26] and [552.34, 671.66, 237.76, 724.41, 365.58, 81.21, 610.54, 363.21, 448.4, 444.58, 411.51, 935.22] is:",
+    "solution": "0.76 radians"
+  },
+  {
+    "problem": "Surface area of cone with height = 17m and radius = 15m is",
+    "solution": "1775 m^2"
+  },
+  {
+    "problem": "Surface area of cone with height = 30m and radius = 7m is",
+    "solution": "831 m^2"
+  },
+  {
+    "problem": "Volume of cylinder with height = 44m and radius = 8m is",
+    "solution": "8846 m^3"
+  },
+  {
+    "problem": "The perimeter of a 5 sided polygon with lengths of 90, 86, 48, 31, 44cm is: ",
+    "solution": "299"
+  },
+  {
+    "problem": "What is the hypotenuse of a right triangle given the other two sides have lengths 18 and 11?",
+    "solution": "21.1"
+  },
+  {
+    "problem": "Fourth angle of quadrilateral with angles 83 , 120, 56 =",
+    "solution": "101"
+  },
+  {
+    "problem": "angle between the vectors [230.17, 301.85, 273.81, 817.94, 548.27] and [58.58, 965.9, 381.96, 143.32, 920.68] is:",
+    "solution": "0.83 radians"
+  },
+  {
+    "problem": "Find the angle of a regular polygon with 15 sides",
+    "solution": "156.0"
+  },
+  {
+    "problem": "Surface area of cuboid with sides of lengths: 20m, 9m, 11m is",
+    "solution": "998 m^2"
+  },
+  {
+    "problem": "What is the curved surface area of a cylinder of radius, 37 and height, 67?",
+    "solution": "15576.02"
+  },
+  {
+    "problem": "Volume of cylinder with height = 1m and radius = 4m is",
+    "solution": "50 m^3"
+  },
+  {
+    "problem": "Find the angle of a regular polygon with 14 sides",
+    "solution": "154.29"
+  },
+  {
+    "problem": "Surface area of pyramid with base length = 50m, base width = 50m, and height = 7m is",
+    "solution": "4900 m^2"
+  },
+  {
+    "problem": "Surface area of cube with side = 4m is",
+    "solution": "96 m^2"
+  },
+  {
+    "problem": "Volume of cylinder with height = 10m and radius = 15m is",
+    "solution": "7068 m^3"
+  },
+  {
+    "problem": "Does triangle with sides 35, 25 and 21 exist?",
+    "solution": "Yes"
+  },
+  {
+    "problem": "Volume of sphere with radius 14 m = ",
+    "solution": "11494.040321933855 m^3"
+  },
+  {
+    "problem": "The perimeter of a 7 sided polygon with lengths of 73, 32, 67, 41, 38, 43, 22cm is: ",
+    "solution": "316"
+  },
+  {
+    "problem": "Surface area of pyramid with base length = 12m, base width = 52m, and height = 10m is",
+    "solution": "1968 m^2"
+  },
+  {
+    "problem": "Circumference of circle with radius 5 = ",
+    "solution": "31.42"
+  },
+  {
+    "problem": "Area of circle with radius 95=",
+    "solution": "28352.87"
+  },
+  {
+    "problem": "Angle 0.48 radians in degrees is: ",
+    "solution": "27.5"
+  },
+  {
+    "problem": "Fourth angle of quadrilateral with angles 99 , 101, 36 =",
+    "solution": "124"
+  },
+  {
+    "problem": "What is the equation of the line between points (-3,12) and (6,-8) in slope-intercept form?",
+    "solution": "9y = -20x + 48"
+  },
+  {
+    "problem": "The perimeter of a 7 sided polygon with lengths of 30, 24, 61, 89, 37, 86, 62cm is: ",
+    "solution": "389"
+  },
+  {
+    "problem": "Find the angle of a regular polygon with 7 sides",
+    "solution": "128.57"
+  },
+  {
+    "problem": "Volume of cylinder with height = 49m and radius = 16m is",
+    "solution": "39408 m^3"
+  },
+  {
+    "problem": "Find the angle of a regular polygon with 20 sides",
+    "solution": "162.0"
+  },
+  {
+    "problem": "angle between the vectors [521.46, 232.77, 224.31] and [96.22, 72.25, 192.85] is:",
+    "solution": "0.66 radians"
+  },
+  {
+    "problem": "Volume of cone with height = 43m and radius = 16m is",
+    "solution": "11527 m^3"
+  },
+  {
+    "problem": "\\cos(45) = ",
+    "solution": "\\frac{1}{\\sqrt{2}}"
+  },
+  {
+    "problem": "Angle 3.83 radians in degrees is: ",
+    "solution": "219.44"
+  },
+  {
+    "problem": "Given radius, 45 and angle, 272. Find the arc length of the angle.",
+    "solution": "Arc length of the angle = 213.62830"
+  },
+  {
+    "problem": "What is the hypotenuse of a right triangle given the other two sides have lengths 9 and 11?",
+    "solution": "14.21"
+  },
+  {
+    "problem": "What is the hypotenuse of a right triangle given the other two sides have lengths 6 and 3?",
+    "solution": "6.71"
+  },
+  {
+    "problem": "Fourth angle of quadrilateral with angles 99 , 79, 54 =",
+    "solution": "128"
+  },
+  {
+    "problem": "Fourth angle of quadrilateral with angles 45 , 16, 19 =",
+    "solution": "280"
+  },
+  {
+    "problem": "The complementary angle of 25 =",
+    "solution": 65
+  },
+  {
+    "problem": "What is the curved surface area of a cylinder of radius, 8 and height, 46?",
+    "solution": "2312.21"
+  },
+  {
+    "problem": "Surface area of Sphere with radius = 12m is",
+    "solution": "1809.5573684677208 m^2"
+  },
+  {
+    "problem": "Volume of sphere with radius 82 m = ",
+    "solution": "2309564.8776326627 m^3"
+  },
+  {
+    "problem": "Surface area of cube with side = 19m is",
+    "solution": "2166 m^2"
+  },
+  {
+    "problem": "\\cos(0) = ",
+    "solution": "1"
+  },
+  {
+    "problem": "The perimeter of a 5 sided polygon with lengths of 67, 10, 97, 3, 45cm is: ",
+    "solution": "222"
+  },
+  {
+    "problem": "Area of circle with radius 61=",
+    "solution": "11689.87"
+  },
+  {
+    "problem": "Circumference of circle with radius 60 = ",
+    "solution": "376.99"
+  },
+  {
+    "problem": "Volume of cuboid with sides = 16m, 7m, 6m is",
+    "solution": "672 m^3"
+  },
+  {
+    "problem": "What is the sum of interior angles of a polygon with 10 sides?",
+    "solution": "1440"
+  },
+  {
+    "problem": "Given radius, 32 and angle, 133. Find the arc length of the angle.",
+    "solution": "Arc length of the angle = 74.28121"
+  },
+  {
+    "problem": "Surface area of cone with height = 35m and radius = 13m is",
+    "solution": "2055 m^2"
+  },
+  {
+    "problem": "Find the angle of a regular polygon with 20 sides",
+    "solution": "162.0"
+  },
+  {
+    "problem": "Does triangle with sides 47, 8 and 49 exist?",
+    "solution": "Yes"
+  },
+  {
+    "problem": "The perimeter of a 11 sided polygon with lengths of 32, 74, 54, 32, 98, 34, 51, 93, 120, 116, 25cm is: ",
+    "solution": "729"
+  },
+  {
+    "problem": "What is the area of a sector with radius 37 and angle 277 degrees?",
+    "solution": "3309.26"
+  },
+  {
+    "problem": "Volume of cube with a side length of 19m is",
+    "solution": "6859 m^3"
+  },
+  {
+    "problem": "Volume of hemisphere with radius 77 m = ",
+    "solution": "956160.479 m^3"
+  },
+  {
+    "problem": "Fourth angle of quadrilateral with angles 78 , 151, 98 =",
+    "solution": "33"
+  },
+  {
+    "problem": "Fourth angle of quadrilateral with angles 121 , 31, 66 =",
+    "solution": "142"
+  },
+  {
+    "problem": "Surface area of Sphere with radius = 1m is",
+    "solution": "12.566370614359172 m^2"
+  },
+  {
+    "problem": "What is the hypotenuse of a right triangle given the other two sides have lengths 3 and 3?",
+    "solution": "4.24"
+  },
+  {
+    "problem": "Surface area of cylinder with height = 36m and radius = 19m is",
+    "solution": "6565 m^2"
+  },
+  {
+    "problem": "Fourth angle of quadrilateral with angles 156 , 8, 154 =",
+    "solution": "42"
+  },
+  {
+    "problem": "The perimeter of a 8 sided polygon with lengths of 76, 67, 20, 102, 109, 65, 115, 31cm is: ",
+    "solution": "585"
+  },
+  {
+    "problem": "Surface area of cone with height = 29m and radius = 14m is",
+    "solution": "2032 m^2"
+  },
+  {
+    "problem": "Volume of sphere with radius 95 m = ",
+    "solution": "3591364.0018287315 m^3"
+  },
+  {
+    "problem": "Volume of cone with height = 4m and radius = 16m is",
+    "solution": "1072 m^3"
+  },
+  {
+    "problem": "The complementary angle of 19 =",
+    "solution": 71
+  },
+  {
+    "problem": "Volume of cuboid with sides = 2m, 3m, 3m is",
+    "solution": "18 m^3"
+  },
+  {
+    "problem": "What is the equation of the line between points (11,-3) and (13,15) in slope-intercept form?",
+    "solution": "y = 9x -102"
+  },
+  {
+    "problem": "Third angle of triangle with angles 18 and 15 = ",
+    "solution": "147"
+  },
+  {
+    "problem": "Volume of sphere with radius 63 m = ",
+    "solution": "1047394.4243362226 m^3"
+  },
+  {
+    "problem": "What is the sum of interior angles of a polygon with 11 sides?",
+    "solution": "1620"
+  },
+  {
+    "problem": "Surface area of cuboid with sides of lengths: 13m, 15m, 7m is",
+    "solution": "782 m^2"
+  },
+  {
+    "problem": "What is the area of a sector with radius 28 and angle 181 degrees?",
+    "solution": "1238.35"
+  },
+  {
+    "problem": "Surface area of Sphere with radius = 11m is",
+    "solution": "1520.5308443374597 m^2"
+  },
+  {
+    "problem": "Volume of pyramid with base length = 8 m, base width = 7 m and height = 12 m is",
+    "solution": "224.0 m^3"
+  },
+  {
+    "problem": "What is the sum of interior angles of a polygon with 3 sides?",
+    "solution": "180"
+  },
+  {
+    "problem": "What is the sum of interior angles of a polygon with 3 sides?",
+    "solution": "180"
+  },
+  {
+    "problem": "Surface area of Sphere with radius = 5m is",
+    "solution": "314.1592653589793 m^2"
+  },
+  {
+    "problem": "Volume of cube with a side length of 3m is",
+    "solution": "27 m^3"
+  },
+  {
+    "problem": "angle between the vectors [351.74, 443.99, 672.64, 540.77, 407.57] and [107.31, 803.79, 547.62, 134.62, 320.53] is:",
+    "solution": "0.58 radians"
+  },
+  {
+    "problem": "Volume of cuboid with sides = 14m, 11m, 10m is",
+    "solution": "1540 m^3"
+  },
+  {
+    "problem": "Fourth angle of quadrilateral with angles 51 , 134, 90 =",
+    "solution": "85"
+  },
+  {
+    "problem": "Circumference of circle with radius 57 = ",
+    "solution": "358.14"
+  },
+  {
+    "problem": "Volume of cuboid with sides = 2m, 15m, 12m is",
+    "solution": "360 m^3"
+  },
+  {
+    "problem": "The complementary angle of 72 =",
+    "solution": 18
+  },
+  {
+    "problem": "Fourth angle of quadrilateral with angles 87 , 2, 217 =",
+    "solution": "54"
+  },
+  {
+    "problem": "What is the equation of the line between points (14,-20) and (-17,10) in slope-intercept form?",
+    "solution": "31y = -30x -200"
+  },
+  {
+    "problem": "Area of circle with center (10,6) and passing through (16.0, 6.0) is",
+    "solution": "113.1"
+  },
+  {
+    "problem": "Surface area of cylinder with height = 22m and radius = 1m is",
+    "solution": "144 m^2"
+  },
+  {
+    "problem": "Surface area of cone with height = 29m and radius = 1m is",
+    "solution": "94 m^2"
+  },
+  {
+    "problem": "Area of circle with radius 88=",
+    "solution": "24328.49"
+  },
+  {
+    "problem": "Surface area of cuboid with sides of lengths: 1m, 5m, 16m is",
+    "solution": "202 m^2"
+  },
+  {
+    "problem": "Volume of cone with height = 50m and radius = 16m is",
+    "solution": "13404 m^3"
+  },
+  {
+    "problem": "Volume of sphere with radius 53 m = ",
+    "solution": "623614.5193179834 m^3"
+  },
+  {
+    "problem": "The perimeter of a 8 sided polygon with lengths of 57, 24, 116, 9, 115, 32, 109, 59cm is: ",
+    "solution": "521"
+  },
+  {
+    "problem": "Surface area of pyramid with base length = 26m, base width = 30m, and height = 12m is",
+    "solution": "1180 m^2"
+  },
+  {
+    "problem": "Surface area of cylinder with height = 26m and radius = 1m is",
+    "solution": "169 m^2"
+  },
+  {
+    "problem": "Given radius, 27 and angle, 23. Find the arc length of the angle.",
+    "solution": "Arc length of the angle = 10.83849"
+  },
+  {
+    "problem": "The perimeter of a 4 sided polygon with lengths of 60, 84, 83, 81cm is: ",
+    "solution": "308"
+  },
+  {
+    "problem": "Surface area of Sphere with radius = 2m is",
+    "solution": "50.26548245743669 m^2"
+  },
+  {
+    "problem": "Surface area of Sphere with radius = 14m is",
+    "solution": "2463.0086404143976 m^2"
+  },
+  {
+    "problem": "Surface area of cone with height = 13m and radius = 1m is",
+    "solution": "44 m^2"
+  },
+  {
+    "problem": "Surface area of pyramid with base length = 14m, base width = 52m, and height = 24m is",
+    "solution": "1598 m^2"
+  },
+  {
+    "problem": "What is the equation of the line between points (-3,18) and (8,15) in slope-intercept form?",
+    "solution": "11y = -3x + 189"
+  },
+  {
+    "problem": "Surface area of cuboid with sides of lengths: 19m, 16m, 16m is",
+    "solution": "1728 m^2"
+  },
+  {
+    "problem": "Volume of sphere with radius 39 m = ",
+    "solution": "248474.8461577239 m^3"
+  },
+  {
+    "problem": "Surface area of pyramid with base length = 48m, base width = 48m, and height = 7m is",
+    "solution": "4704 m^2"
+  },
+  {
+    "problem": "Given radius, 38 and angle, 298. Find the arc length of the angle.",
+    "solution": "Arc length of the angle = 197.64108"
+  },
+  {
+    "problem": "Volume of cube with a side length of 4m is",
+    "solution": "64 m^3"
+  },
+  {
+    "problem": "Volume of cone with height = 13m and radius = 12m is",
+    "solution": "1960 m^3"
+  },
+  {
+    "problem": "Volume of cube with a side length of 6m is",
+    "solution": "216 m^3"
+  },
+  {
+    "problem": "Does triangle with sides 5, 19 and 43 exist?",
+    "solution": "No"
+  },
+  {
+    "problem": "Fourth angle of quadrilateral with angles 126 , 46, 56 =",
+    "solution": "132"
+  },
+  {
+    "problem": "Volume of cone with height = 22m and radius = 15m is",
+    "solution": "5183 m^3"
+  },
+  {
+    "problem": "The supplementary angle of 54 =",
+    "solution": 126
+  },
+  {
+    "problem": "Surface area of cuboid with sides of lengths: 10m, 8m, 4m is",
+    "solution": "304 m^2"
+  },
+  {
+    "problem": "Third angle of triangle with angles 67 and 81 = ",
+    "solution": "32"
+  },
+  {
+    "problem": "Volume of cylinder with height = 49m and radius = 4m is",
+    "solution": "2463 m^3"
+  },
+  {
+    "problem": "Circumference of circle with radius 6 = ",
+    "solution": "37.7"
+  },
+  {
+    "problem": "Volume of sphere with radius 11 m = ",
+    "solution": "5575.279762570686 m^3"
+  },
+  {
+    "problem": "Angle 60 degrees in radians is: ",
+    "solution": "1.05"
+  },
+  {
+    "problem": "Surface area of cylinder with height = 45m and radius = 1m is",
+    "solution": "289 m^2"
+  },
+  {
+    "problem": "Given radius, 39 and angle, 355. Find the arc length of the angle.",
+    "solution": "Arc length of the angle = 241.64083"
+  },
+  {
+    "problem": "Volume of cube with a side length of 8m is",
+    "solution": "512 m^3"
+  },
+  {
+    "problem": "angle between the vectors [518.48, 537.13, 224.86, 516.88, 849.65, 785.82, 239.58, 233.78, 354.08, 185.2, 265.72, 727.6, 410.39, 707.95, 390.27, 53.96, 787.7, 223.06, 296.72] and [358.01, 383.43, 387.67, 789.12, 709.36, 973.9, 805.4, 450.25, 50.05, 861.74, 64.97, 534.1, 414.8, 979.45, 555.44, 196.77, 689.85, 179.06, 657.19] is:",
+    "solution": "0.48 radians"
+  },
+  {
+    "problem": "Volume of cube with a side length of 6m is",
+    "solution": "216 m^3"
+  },
+  {
+    "problem": "What is the sum of interior angles of a polygon with 7 sides?",
+    "solution": "900"
+  },
+  {
+    "problem": "Volume of cylinder with height = 50m and radius = 16m is",
+    "solution": "40212 m^3"
+  },
+  {
+    "problem": "Surface area of cuboid with sides of lengths: 6m, 6m, 14m is",
+    "solution": "408 m^2"
+  },
+  {
+    "problem": "Fourth angle of quadrilateral with angles 2 , 100, 181 =",
+    "solution": "77"
+  },
+  {
+    "problem": "Third angle of triangle with angles 74 and 38 = ",
+    "solution": "68"
+  },
+  {
+    "problem": "\\sin(60) = ",
+    "solution": "\\frac{\\sqrt{3}}{2}"
+  },
+  {
+    "problem": "Area of circle with center (4,1) and passing through (12.0, 1.0) is",
+    "solution": "201.06"
+  },
+  {
+    "problem": "Volume of cylinder with height = 45m and radius = 5m is",
+    "solution": "3534 m^3"
+  },
+  {
+    "problem": "Third angle of triangle with angles 21 and 53 = ",
+    "solution": "106"
+  },
+  {
+    "problem": "Angle 39 degrees in radians is: ",
+    "solution": "0.68"
+  },
+  {
+    "problem": "Angle 5.93 radians in degrees is: ",
+    "solution": "339.76"
+  },
+  {
+    "problem": "Volume of cube with a side length of 13m is",
+    "solution": "2197 m^3"
+  },
+  {
+    "problem": "Area of circle with radius 12=",
+    "solution": "452.39"
+  },
+  {
+    "problem": "Volume of cylinder with height = 2m and radius = 16m is",
+    "solution": "1608 m^3"
+  },
+  {
+    "problem": "Fourth angle of quadrilateral with angles 119 , 85, 109 =",
+    "solution": "47"
+  },
+  {
+    "problem": "Volume of cube with a side length of 2m is",
+    "solution": "8 m^3"
+  },
+  {
+    "problem": "Volume of cone with height = 28m and radius = 12m is",
+    "solution": "4222 m^3"
+  },
+  {
+    "problem": "Surface area of pyramid with base length = 6m, base width = 26m, and height = 5m is",
+    "solution": "492 m^2"
+  },
+  {
+    "problem": "Given radius, 44 and angle, 232. Find the arc length of the angle.",
+    "solution": "Arc length of the angle = 178.16321"
+  },
+  {
+    "problem": "What is the sum of interior angles of a polygon with 4 sides?",
+    "solution": "360"
+  },
+  {
+    "problem": "Area of circle with radius 41=",
+    "solution": "5281.02"
+  },
+  {
+    "problem": "Angle 37 degrees in radians is: ",
+    "solution": "0.65"
+  },
+  {
+    "problem": "Given radius, 25 and angle, 210. Find the arc length of the angle.",
+    "solution": "Arc length of the angle = 91.62979"
+  },
+  {
+    "problem": "What is the curved surface area of a cylinder of radius, 36 and height, 25?",
+    "solution": "5654.87"
+  },
+  {
+    "problem": "Does triangle with sides 4, 23 and 15 exist?",
+    "solution": "No"
+  },
+  {
+    "problem": "What is the curved surface area of a cylinder of radius, 28 and height, 89?",
+    "solution": "15657.7"
+  },
+  {
+    "problem": "Surface area of cone with height = 4m and radius = 20m is",
+    "solution": "2538 m^2"
+  },
+  {
+    "problem": "\\tan(0) = ",
+    "solution": "0"
+  },
+  {
+    "problem": "Surface area of cuboid with sides of lengths: 6m, 1m, 13m is",
+    "solution": "194 m^2"
+  },
+  {
+    "problem": "What is the sum of interior angles of a polygon with 10 sides?",
+    "solution": "1440"
+  },
+  {
+    "problem": "Volume of cylinder with height = 34m and radius = 3m is",
+    "solution": "961 m^3"
+  },
+  {
+    "problem": "Surface area of Sphere with radius = 19m is",
+    "solution": "4536.459791783661 m^2"
+  },
+  {
+    "problem": "Volume of sphere with radius 38 m = ",
+    "solution": "229847.29611703882 m^3"
+  },
+  {
+    "problem": "Surface area of cone with height = 33m and radius = 18m is",
+    "solution": "3143 m^2"
+  },
+  {
+    "problem": "Volume of pyramid with base length = 18 m, base width = 10 m and height = 30 m is",
+    "solution": "1800.0 m^3"
+  },
+  {
+    "problem": "Surface area of cone with height = 10m and radius = 5m is",
+    "solution": "254 m^2"
+  },
+  {
+    "problem": "Volume of frustum with height = 29m and r1 = 3m is and r2 = 3m is ",
+    "solution": "7501.0 m^3"
+  },
+  {
+    "problem": "Volume of frustum with height = 18m and r1 = 16m is and r2 = 16m is ",
+    "solution": "7313.0 m^3"
+  },
+  {
+    "problem": "What is the hypotenuse of a right triangle given the other two sides have lengths 10 and 1?",
+    "solution": "10.05"
+  },
+  {
+    "problem": "Volume of cone with height = 7m and radius = 7m is",
+    "solution": "359 m^3"
+  },
+  {
+    "problem": "Does triangle with sides 11, 28 and 26 exist?",
+    "solution": "Yes"
+  },
+  {
+    "problem": "Third angle of triangle with angles 20 and 27 = ",
+    "solution": "133"
+  },
+  {
+    "problem": "Surface area of cylinder with height = 43m and radius = 4m is",
+    "solution": "1181 m^2"
+  },
+  {
+    "problem": "Volume of cone with height = 34m and radius = 3m is",
+    "solution": "320 m^3"
+  },
+  {
+    "problem": "Volume of cuboid with sides = 1m, 2m, 20m is",
+    "solution": "40 m^3"
+  },
+  {
+    "problem": "Circumference of circle with radius 1 = ",
+    "solution": "6.28"
+  },
+  {
+    "problem": "Surface area of cylinder with height = 5m and radius = 19m is",
+    "solution": "2865 m^2"
+  },
+  {
+    "problem": "What is the area of a sector with radius 45 and angle 49 degrees?",
+    "solution": "865.9"
+  },
+  {
+    "problem": "The perimeter of a 8 sided polygon with lengths of 51, 65, 7, 63, 102, 87, 114, 34cm is: ",
+    "solution": "523"
+  },
+  {
+    "problem": "Angle 68 degrees in radians is: ",
+    "solution": "1.19"
+  },
+  {
+    "problem": "What is the curved surface area of a cylinder of radius, 15 and height, 15?",
+    "solution": "1413.72"
+  },
+  {
+    "problem": "\\sin(90) = ",
+    "solution": "1"
+  },
+  {
+    "problem": "Does triangle with sides 49, 15 and 19 exist?",
+    "solution": "No"
+  },
+  {
+    "problem": "Volume of pyramid with base length = 11 m, base width = 11 m and height = 42 m is",
+    "solution": "1694.0 m^3"
+  },
+  {
+    "problem": "What is the hypotenuse of a right triangle given the other two sides have lengths 12 and 15?",
+    "solution": "19.21"
+  },
+  {
+    "problem": "The perimeter of a 4 sided polygon with lengths of 48, 44, 96, 25cm is: ",
+    "solution": "213"
+  },
+  {
+    "problem": "Surface area of Sphere with radius = 20m is",
+    "solution": "5026.548245743669 m^2"
+  },
+  {
+    "problem": "angle between the vectors [943.46, 833.61, 857.04] and [967.58, 552.32, 266.66] is:",
+    "solution": "0.41 radians"
+  },
+  {
+    "problem": "Angle 31 degrees in radians is: ",
+    "solution": "0.54"
+  },
+  {
+    "problem": "What is the area of a sector with radius 22 and angle 175 degrees?",
+    "solution": "739.15"
+  },
+  {
+    "problem": "Surface area of cone with height = 26m and radius = 14m is",
+    "solution": "1914 m^2"
+  },
+  {
+    "problem": "The perimeter of a 5 sided polygon with lengths of 73, 86, 113, 79, 50cm is: ",
+    "solution": "401"
+  },
+  {
+    "problem": "What is the curved surface area of a cylinder of radius, 6 and height, 79?",
+    "solution": "2978.23"
+  },
+  {
+    "problem": "Third angle of triangle with angles 55 and 74 = ",
+    "solution": "51"
+  },
+  {
+    "problem": "Area of circle with center (-1,2) and passing through (-1.0, 2.0) is",
+    "solution": "0.0"
+  },
+  {
+    "problem": "Volume of cube with a side length of 20m is",
+    "solution": "8000 m^3"
+  },
+  {
+    "problem": "Surface area of Sphere with radius = 15m is",
+    "solution": "2827.4333882308138 m^2"
+  },
+  {
+    "problem": "Circumference of circle with radius 18 = ",
+    "solution": "113.1"
+  },
+  {
+    "problem": "Volume of frustum with height = 5m and r1 = 4m is and r2 = 4m is ",
+    "solution": "947.0 m^3"
+  },
+  {
+    "problem": "What is the area of a sector with radius 41 and angle 61 degrees?",
+    "solution": "894.84"
+  },
+  {
+    "problem": "Angle 347 degrees in radians is: ",
+    "solution": "6.06"
+  },
+  {
+    "problem": "Area of circle with radius 15=",
+    "solution": "706.86"
+  },
+  {
+    "problem": "Volume of frustum with height = 39m and r1 = 13m is and r2 = 13m is ",
+    "solution": "14988.0 m^3"
+  },
+  {
+    "problem": "Given radius, 3 and angle, 5. Find the arc length of the angle.",
+    "solution": "Arc length of the angle = 0.26180"
+  },
+  {
+    "problem": "Area of circle with radius 93=",
+    "solution": "27171.63"
+  },
+  {
+    "problem": "Volume of cylinder with height = 27m and radius = 20m is",
+    "solution": "33929 m^3"
+  },
+  {
+    "problem": "Volume of cube with a side length of 1m is",
+    "solution": "1 m^3"
+  },
+  {
+    "problem": "Area of circle with radius 34=",
+    "solution": "3631.68"
+  },
+  {
+    "problem": "The supplementary angle of 7 =",
+    "solution": 173
+  },
+  {
+    "problem": "Angle 78 degrees in radians is: ",
+    "solution": "1.36"
+  },
+  {
+    "problem": "Angle 187 degrees in radians is: ",
+    "solution": "3.26"
+  },
+  {
+    "problem": "\\tan(0) = ",
+    "solution": "0"
+  },
+  {
+    "problem": "What is the equation of the line between points (9,7) and (3,-2) in slope-intercept form?",
+    "solution": "2y = 3x -13"
+  },
+  {
+    "problem": "Angle 5.77 radians in degrees is: ",
+    "solution": "330.6"
+  },
+  {
+    "problem": "What is the curved surface area of a cylinder of radius, 10 and height, 41?",
+    "solution": "2576.11"
+  },
+  {
+    "problem": "Does triangle with sides 24, 20 and 32 exist?",
+    "solution": "Yes"
+  },
+  {
+    "problem": "Surface area of cuboid with sides of lengths: 18m, 7m, 2m is",
+    "solution": "352 m^2"
+  },
+  {
+    "problem": "Surface area of cuboid with sides of lengths: 5m, 19m, 17m is",
+    "solution": "1006 m^2"
+  },
+  {
+    "problem": "The perimeter of a 3 sided polygon with lengths of 69, 76, 95cm is: ",
+    "solution": "240"
+  },
+  {
+    "problem": "Third angle of triangle with angles 28 and 36 = ",
+    "solution": "116"
+  },
+  {
+    "problem": "angle between the vectors [943.28, 762.31, 388.15] and [828.9, 342.11, 597.08] is:",
+    "solution": "0.38 radians"
+  },
+  {
+    "problem": "Area of circle with center (1,8) and passing through (3.0, 8.0) is",
+    "solution": "12.57"
+  },
+  {
+    "problem": "Area of circle with radius 61=",
+    "solution": "11689.87"
+  },
+  {
+    "problem": "What is the curved surface area of a cylinder of radius, 19 and height, 83?",
+    "solution": "9908.58"
+  },
+  {
+    "problem": "Angle 172 degrees in radians is: ",
+    "solution": "3.0"
+  },
+  {
+    "problem": "Circumference of circle with radius 46 = ",
+    "solution": "289.03"
+  },
+  {
+    "problem": "What is the curved surface area of a cylinder of radius, 42 and height, 50?",
+    "solution": "13194.69"
+  },
+  {
+    "problem": "Volume of cube with a side length of 17m is",
+    "solution": "4913 m^3"
+  },
+  {
+    "problem": "Does triangle with sides 25, 19 and 45 exist?",
+    "solution": "No"
+  },
+  {
+    "problem": "Angle 1.49 radians in degrees is: ",
+    "solution": "85.37"
+  },
+  {
+    "problem": "Area of circle with center (-5,-8) and passing through (3.0, -8.0) is",
+    "solution": "201.06"
+  },
+  {
+    "problem": "What is the curved surface area of a cylinder of radius, 14 and height, 27?",
+    "solution": "2375.04"
+  },
+  {
+    "problem": "Volume of cylinder with height = 13m and radius = 14m is",
+    "solution": "8004 m^3"
+  },
+  {
+    "problem": "Circumference of circle with radius 0 = ",
+    "solution": "0.0"
+  },
+  {
+    "problem": "Volume of sphere with radius 37 m = ",
+    "solution": "212174.79024304505 m^3"
+  },
+  {
+    "problem": "Volume of sphere with radius 2 m = ",
+    "solution": "33.510321638291124 m^3"
+  },
+  {
+    "problem": "What is the area of a sector with radius 14 and angle 272 degrees?",
+    "solution": "465.23"
+  },
+  {
+    "problem": "What is the area of a sector with radius 13 and angle 117 degrees?",
+    "solution": "172.55"
+  },
+  {
+    "problem": "What is the equation of the line between points (8,-15) and (14,-2) in slope-intercept form?",
+    "solution": "6y = 13x -194"
+  },
+  {
+    "problem": "What is the area of a sector with radius 33 and angle 356 degrees?",
+    "solution": "3383.18"
+  },
+  {
+    "problem": "What is the hypotenuse of a right triangle given the other two sides have lengths 3 and 12?",
+    "solution": "12.37"
+  },
+  {
+    "problem": "The perimeter of a 7 sided polygon with lengths of 99, 70, 119, 15, 9, 102, 117cm is: ",
+    "solution": "531"
+  },
+  {
+    "problem": "Volume of cone with height = 2m and radius = 6m is",
+    "solution": "75 m^3"
+  },
+  {
+    "problem": "Surface area of pyramid with base length = 10m, base width = 6m, and height = 4m is",
+    "solution": "120 m^2"
+  },
+  {
+    "problem": "Angle 0.49 radians in degrees is: ",
+    "solution": "28.07"
+  },
+  {
+    "problem": "Volume of pyramid with base length = 11 m, base width = 14 m and height = 13 m is",
+    "solution": "667.3333333333334 m^3"
+  },
+  {
+    "problem": "What is the area of a sector with radius 27 and angle 103 degrees?",
+    "solution": "655.26"
+  },
+  {
+    "problem": "What is the area of a sector with radius 10 and angle 261 degrees?",
+    "solution": "227.77"
+  },
+  {
+    "problem": "Surface area of cone with height = 18m and radius = 2m is",
+    "solution": "126 m^2"
+  },
+  {
+    "problem": "Volume of cone with height = 19m and radius = 9m is",
+    "solution": "1611 m^3"
+  },
+  {
+    "problem": "What is the curved surface area of a cylinder of radius, 11 and height, 51?",
+    "solution": "3524.87"
+  },
+  {
+    "problem": "Given radius, 40 and angle, 53. Find the arc length of the angle.",
+    "solution": "Arc length of the angle = 37.00098"
+  },
+  {
+    "problem": "Volume of cylinder with height = 1m and radius = 12m is",
+    "solution": "452 m^3"
+  },
+  {
+    "problem": "Surface area of cube with side = 13m is",
+    "solution": "1014 m^2"
+  },
+  {
+    "problem": "angle between the vectors [993.17, 716.59, 630.8, 474.93, 620.48, 477.86, 108.86, 941.21, 839.79, 922.38, 167.17, 325.79, 430.54, 984.72, 411.89] and [656.15, 477.75, 849.31, 338.62, 644.77, 222.07, 43.7, 357.2, 631.23, 178.82, 571.13, 634.36, 524.22, 670.73, 467.3] is:",
+    "solution": "0.51 radians"
+  },
+  {
+    "problem": "angle between the vectors [784.64, 915.5, 256.06, 804.07, 319.01, 528.27, 48.45, 930.74, 789.08, 68.28, 863.48, 627.92, 743.22, 316.77] and [729.71, 329.36, 87.59, 5.18, 498.28, 201.96, 434.95, 730.6, 526.25, 928.59, 951.45, 811.28, 999.46, 182.79] is:",
+    "solution": "0.65 radians"
+  },
+  {
+    "problem": "The perimeter of a 12 sided polygon with lengths of 77, 108, 115, 4, 76, 50, 41, 34, 92, 25, 34, 86cm is: ",
+    "solution": "742"
+  },
+  {
+    "problem": "Fourth angle of quadrilateral with angles 36 , 190, 56 =",
+    "solution": "78"
+  },
+  {
+    "problem": "Angle 287 degrees in radians is: ",
+    "solution": "5.01"
+  },
+  {
+    "problem": "Surface area of cylinder with height = 47m and radius = 13m is",
+    "solution": "4900 m^2"
+  },
+  {
+    "problem": "Volume of cone with height = 42m and radius = 6m is",
+    "solution": "1583 m^3"
+  },
+  {
+    "problem": "Fourth angle of quadrilateral with angles 101 , 94, 127 =",
+    "solution": "38"
+  },
+  {
+    "problem": "angle between the vectors [884.77, 241.44, 245.62, 332.64, 813.63, 738.84] and [463.85, 771.01, 133.79, 46.45, 782.15, 491.02] is:",
+    "solution": "0.55 radians"
+  },
+  {
+    "problem": "Volume of cylinder with height = 8m and radius = 2m is",
+    "solution": "100 m^3"
+  },
+  {
+    "problem": "angle between the vectors [881.14, 587.54, 472.59, 392.26, 147.58, 760.19, 633.53, 952.91, 658.81, 415.43, 503.3, 480.14] and [554.22, 985.95, 864.77, 611.85, 88.22, 226.04, 622.43, 712.88, 652.57, 345.43, 641.44, 247.91] is:",
+    "solution": "0.45 radians"
+  },
+  {
+    "problem": "Surface area of Sphere with radius = 6m is",
+    "solution": "452.3893421169302 m^2"
+  },
+  {
+    "problem": "What is the curved surface area of a cylinder of radius, 17 and height, 53?",
+    "solution": "5661.15"
+  },
+  {
+    "problem": "Area of circle with radius 49=",
+    "solution": "7542.96"
+  },
+  {
+    "problem": "Volume of cube with a side length of 3m is",
+    "solution": "27 m^3"
+  },
+  {
+    "problem": "Given radius, 5 and angle, 101. Find the arc length of the angle.",
+    "solution": "Arc length of the angle = 8.81391"
+  },
+  {
+    "problem": "Surface area of cube with side = 14m is",
+    "solution": "1176 m^2"
+  },
+  {
+    "problem": "Third angle of triangle with angles 46 and 14 = ",
+    "solution": "120"
+  },
+  {
+    "problem": "Area of circle with radius 59=",
+    "solution": "10935.88"
+  },
+  {
+    "problem": "What is the equation of the line between points (14,7) and (19,-9) in slope-intercept form?",
+    "solution": "5y = -16x + 259"
+  },
+  {
+    "problem": "Area of circle with radius 34=",
+    "solution": "3631.68"
+  },
+  {
+    "problem": "What is the curved surface area of a cylinder of radius, 24 and height, 86?",
+    "solution": "12968.49"
+  },
+  {
+    "problem": "Surface area of Sphere with radius = 8m is",
+    "solution": "804.247719318987 m^2"
+  },
+  {
+    "problem": "Fourth angle of quadrilateral with angles 2 , 151, 87 =",
+    "solution": "120"
+  },
+  {
+    "problem": "Volume of pyramid with base length = 14 m, base width = 3 m and height = 14 m is",
+    "solution": "196.0 m^3"
+  },
+  {
+    "problem": "The complementary angle of 8 =",
+    "solution": 82
+  },
+  {
+    "problem": "Angle 248 degrees in radians is: ",
+    "solution": "4.33"
+  },
+  {
+    "problem": "What is the hypotenuse of a right triangle given the other two sides have lengths 19 and 17?",
+    "solution": "25.5"
+  },
+  {
+    "problem": "Volume of pyramid with base length = 14 m, base width = 13 m and height = 14 m is",
+    "solution": "849.3333333333334 m^3"
+  },
+  {
+    "problem": "The complementary angle of 83 =",
+    "solution": 7
+  },
+  {
+    "problem": "Surface area of Sphere with radius = 5m is",
+    "solution": "314.1592653589793 m^2"
+  },
+  {
+    "problem": "Surface area of cube with side = 19m is",
+    "solution": "2166 m^2"
+  },
+  {
+    "problem": "Surface area of cone with height = 1m and radius = 5m is",
+    "solution": "158 m^2"
+  },
+  {
+    "problem": "Volume of cube with a side length of 15m is",
+    "solution": "3375 m^3"
+  },
+  {
+    "problem": "Surface area of cuboid with sides of lengths: 3m, 9m, 2m is",
+    "solution": "102 m^2"
+  },
+  {
+    "problem": "Circumference of circle with radius 24 = ",
+    "solution": "150.8"
+  },
+  {
+    "problem": "Does triangle with sides 50, 10 and 41 exist?",
+    "solution": "Yes"
+  },
+  {
+    "problem": "Surface area of cylinder with height = 10m and radius = 9m is",
+    "solution": "1074 m^2"
+  },
+  {
+    "problem": "Volume of sphere with radius 69 m = ",
+    "solution": "1376055.2813841724 m^3"
+  },
+  {
+    "problem": "Third angle of triangle with angles 26 and 71 = ",
+    "solution": "83"
+  },
+  {
+    "problem": "Volume of hemisphere with radius 86 m = ",
+    "solution": "1332152.571 m^3"
+  },
+  {
+    "problem": "Surface area of cone with height = 25m and radius = 9m is",
+    "solution": "1005 m^2"
+  },
+  {
+    "problem": "Volume of cube with a side length of 15m is",
+    "solution": "3375 m^3"
+  },
+  {
+    "problem": "\\cos(90) = ",
+    "solution": "0"
+  },
+  {
+    "problem": "The complementary angle of 36 =",
+    "solution": 54
+  },
+  {
+    "problem": "Volume of frustum with height = 38m and r1 = 11m is and r2 = 11m is ",
+    "solution": "6486.0 m^3"
+  },
+  {
+    "problem": "Volume of hemisphere with radius 12 m = ",
+    "solution": "3619.115 m^3"
+  },
+  {
+    "problem": "Volume of sphere with radius 92 m = ",
+    "solution": "3261760.666984705 m^3"
+  },
+  {
+    "problem": "The supplementary angle of 27 =",
+    "solution": 153
+  },
+  {
+    "problem": "Volume of cylinder with height = 24m and radius = 6m is",
+    "solution": "2714 m^3"
+  },
+  {
+    "problem": "Area of circle with center (3,4) and passing through (5.16, 7.37) is",
+    "solution": "50.27"
+  },
+  {
+    "problem": "What is the equation of the line between points (12,11) and (-16,-7) in slope-intercept form?",
+    "solution": "14y = 9x + 46"
+  },
+  {
+    "problem": "angle between the vectors [653.13, 720.78, 792.28, 704.89, 375.71, 609.02, 105.54, 533.77, 633.06, 230.41, 903.58, 265.91, 16.59, 611.21, 853.59] and [942.55, 220.07, 366.9, 195.16, 676.32, 743.67, 170.0, 197.62, 679.16, 797.54, 332.81, 264.98, 288.92, 175.73, 988.69] is:",
+    "solution": "0.63 radians"
+  },
+  {
+    "problem": "Given radius, 26 and angle, 83. Find the arc length of the angle.",
+    "solution": "Arc length of the angle = 37.66421"
+  },
+  {
+    "problem": "Surface area of cone with height = 32m and radius = 20m is",
+    "solution": "3627 m^2"
+  },
+  {
+    "problem": "angle between the vectors [324.82, 512.6, 469.01, 459.91, 856.72, 501.35, 927.03, 107.93, 111.63, 945.58, 996.76, 481.32, 796.54, 453.35, 481.88, 617.65, 666.3, 448.67] and [607.64, 984.12, 58.37, 413.88, 169.81, 29.29, 514.66, 110.32, 305.2, 631.76, 401.08, 128.41, 850.93, 558.02, 908.97, 200.74, 69.01, 957.37] is:",
+    "solution": "0.7 radians"
+  },
+  {
+    "problem": "Volume of frustum with height = 49m and r1 = 1m is and r2 = 1m is ",
+    "solution": "5695.0 m^3"
+  },
+  {
+    "problem": "Volume of cube with a side length of 10m is",
+    "solution": "1000 m^3"
+  },
+  {
+    "problem": "Volume of cone with height = 44m and radius = 8m is",
+    "solution": "2948 m^3"
+  },
+  {
+    "problem": "What is the hypotenuse of a right triangle given the other two sides have lengths 2 and 8?",
+    "solution": "8.25"
+  },
+  {
+    "problem": "Volume of cuboid with sides = 16m, 18m, 11m is",
+    "solution": "3168 m^3"
+  },
+  {
+    "problem": "Surface area of cone with height = 34m and radius = 17m is",
+    "solution": "2938 m^2"
+  },
+  {
+    "problem": "Angle 208 degrees in radians is: ",
+    "solution": "3.63"
+  },
+  {
+    "problem": "Surface area of Sphere with radius = 14m is",
+    "solution": "2463.0086404143976 m^2"
+  },
+  {
+    "problem": "The perimeter of a 8 sided polygon with lengths of 94, 42, 19, 9, 120, 72, 19, 91cm is: ",
+    "solution": "466"
+  },
+  {
+    "problem": "Surface area of cylinder with height = 8m and radius = 17m is",
+    "solution": "2670 m^2"
+  },
+  {
+    "problem": "The supplementary angle of 78 =",
+    "solution": 102
+  },
+  {
+    "problem": "Given radius, 4 and angle, 95. Find the arc length of the angle.",
+    "solution": "Arc length of the angle = 6.63225"
+  },
+  {
+    "problem": "What is the hypotenuse of a right triangle given the other two sides have lengths 9 and 9?",
+    "solution": "12.73"
+  },
+  {
+    "problem": "Surface area of cuboid with sides of lengths: 8m, 14m, 16m is",
+    "solution": "928 m^2"
+  },
+  {
+    "problem": "What is the equation of the line between points (-11,5) and (-20,-4) in slope-intercept form?",
+    "solution": "y = x + 16"
+  },
+  {
+    "problem": "Surface area of cylinder with height = 50m and radius = 7m is",
+    "solution": "2506 m^2"
+  },
+  {
+    "problem": "The perimeter of a 8 sided polygon with lengths of 118, 107, 59, 95, 117, 102, 100, 84cm is: ",
+    "solution": "782"
+  },
+  {
+    "problem": "Surface area of cone with height = 4m and radius = 1m is",
+    "solution": "16 m^2"
+  },
+  {
+    "problem": "angle between the vectors [218.6, 313.27, 270.37, 669.92, 654.31, 790.33, 573.79, 613.42, 138.52] and [529.34, 177.96, 733.26, 329.22, 646.46, 871.59, 663.09, 578.66, 904.65] is:",
+    "solution": "0.56 radians"
+  },
+  {
+    "problem": "Surface area of cone with height = 20m and radius = 3m is",
+    "solution": "218 m^2"
+  },
+  {
+    "problem": "Surface area of pyramid with base length = 10m, base width = 6m, and height = 4m is",
+    "solution": "120 m^2"
+  },
+  {
+    "problem": "Area of circle with center (-3,0) and passing through (2.4000000000000004, 8.41) is",
+    "solution": "314.16"
+  },
+  {
+    "problem": "angle between the vectors [97.59, 383.82, 630.24, 426.62, 121.77, 109.09, 110.77, 900.58] and [752.27, 260.56, 760.75, 908.8, 554.05, 278.45, 773.26, 16.73] is:",
+    "solution": "0.97 radians"
+  },
+  {
+    "problem": "The complementary angle of 4 =",
+    "solution": 86
+  },
+  {
+    "problem": "Surface area of cone with height = 39m and radius = 12m is",
+    "solution": "1990 m^2"
+  },
+  {
+    "problem": "What is the area of a sector with radius 32 and angle 49 degrees?",
+    "solution": "437.87"
+  },
+  {
+    "problem": "Volume of sphere with radius 13 m = ",
+    "solution": "9202.7720799157 m^3"
+  },
+  {
+    "problem": "The complementary angle of 62 =",
+    "solution": 28
+  },
+  {
+    "problem": "Area of circle with center (1,-9) and passing through (2.62, -6.48) is",
+    "solution": "28.27"
+  },
+  {
+    "problem": "Fourth angle of quadrilateral with angles 160 , 3, 68 =",
+    "solution": "129"
+  },
+  {
+    "problem": "Volume of sphere with radius 51 m = ",
+    "solution": "555647.2094551194 m^3"
+  },
+  {
+    "problem": "What is the equation of the line between points (-10,-13) and (5,-10) in slope-intercept form?",
+    "solution": "5y = x -55"
+  },
+  {
+    "problem": "The complementary angle of 56 =",
+    "solution": 34
+  },
+  {
+    "problem": "angle between the vectors [164.4, 29.35, 100.14, 591.02] and [668.25, 126.44, 117.55, 274.92] is:",
+    "solution": "0.9 radians"
+  },
+  {
+    "problem": "What is the sum of interior angles of a polygon with 4 sides?",
+    "solution": "360"
+  },
+  {
+    "problem": "What is the curved surface area of a cylinder of radius, 36 and height, 58?",
+    "solution": "13119.29"
+  },
+  {
+    "problem": "Does triangle with sides 6, 40 and 41 exist?",
+    "solution": "Yes"
+  },
+  {
+    "problem": "Area of circle with center (-4,-10) and passing through (-13.0, -10.0) is",
+    "solution": "254.47"
+  },
+  {
+    "problem": "angle between the vectors [821.57, 11.99, 444.01] and [778.72, 791.82, 847.4] is:",
+    "solution": "0.67 radians"
+  },
+  {
+    "problem": "Surface area of Sphere with radius = 5m is",
+    "solution": "314.1592653589793 m^2"
+  },
+  {
+    "problem": "angle between the vectors [356.88, 624.82, 973.3, 329.52, 604.64, 865.35, 73.03, 626.43, 413.5] and [484.29, 485.1, 442.79, 47.19, 162.16, 245.89, 934.95, 788.34, 874.54] is:",
+    "solution": "0.81 radians"
+  },
+  {
+    "problem": "Angle 356 degrees in radians is: ",
+    "solution": "6.21"
+  },
+  {
+    "problem": "Volume of hemisphere with radius 22 m = ",
+    "solution": "22301.119 m^3"
+  },
+  {
+    "problem": "What is the equation of the line between points (-7,16) and (-16,-8) in slope-intercept form?",
+    "solution": "3y = 8x + 104"
+  },
+  {
+    "problem": "Volume of hemisphere with radius 27 m = ",
+    "solution": "41223.979 m^3"
+  },
+  {
+    "problem": "Area of circle with radius 85=",
+    "solution": "22698.01"
+  },
+  {
+    "problem": "The perimeter of a 12 sided polygon with lengths of 82, 43, 120, 64, 8, 1, 71, 88, 85, 36, 112, 113cm is: ",
+    "solution": "823"
+  },
+  {
+    "problem": "Find the angle of a regular polygon with 7 sides",
+    "solution": "128.57"
+  },
+  {
+    "problem": "Area of circle with radius 11=",
+    "solution": "380.13"
+  },
+  {
+    "problem": "Volume of frustum with height = 27m and r1 = 9m is and r2 = 9m is ",
+    "solution": "5456.0 m^3"
+  },
+  {
+    "problem": "The supplementary angle of 76 =",
+    "solution": 104
+  },
+  {
+    "problem": "What is the curved surface area of a cylinder of radius, 9 and height, 98?",
+    "solution": "5541.77"
+  },
+  {
+    "problem": "Surface area of cube with side = 11m is",
+    "solution": "726 m^2"
+  },
+  {
+    "problem": "What is the equation of the line between points (-13,12) and (-6,-10) in slope-intercept form?",
+    "solution": "7y = -22x -202"
+  },
+  {
+    "problem": "Volume of hemisphere with radius 86 m = ",
+    "solution": "1332152.571 m^3"
+  },
+  {
+    "problem": "Find the angle of a regular polygon with 19 sides",
+    "solution": "161.05"
+  },
+  {
+    "problem": "Volume of pyramid with base length = 16 m, base width = 11 m and height = 15 m is",
+    "solution": "880.0 m^3"
+  },
+  {
+    "problem": "Does triangle with sides 47, 35 and 4 exist?",
+    "solution": "No"
+  },
+  {
+    "problem": "What is the hypotenuse of a right triangle given the other two sides have lengths 1 and 20?",
+    "solution": "20.02"
+  },
+  {
+    "problem": "The complementary angle of 67 =",
+    "solution": 23
+  },
+  {
+    "problem": "Given radius, 41 and angle, 187. Find the arc length of the angle.",
+    "solution": "Arc length of the angle = 133.81439"
+  },
+  {
+    "problem": "Surface area of cylinder with height = 14m and radius = 19m is",
+    "solution": "3939 m^2"
+  },
+  {
+    "problem": "What is the area of a sector with radius 45 and angle 49 degrees?",
+    "solution": "865.9"
+  },
+  {
+    "problem": "\\cos(30) = ",
+    "solution": "\\frac{\\sqrt{3}}{2}"
+  },
+  {
+    "problem": "Third angle of triangle with angles 80 and 29 = ",
+    "solution": "71"
+  },
+  {
+    "problem": "Does triangle with sides 19, 38 and 45 exist?",
+    "solution": "Yes"
+  },
+  {
+    "problem": "Volume of cuboid with sides = 6m, 15m, 11m is",
+    "solution": "990 m^3"
+  },
+  {
+    "problem": "Volume of pyramid with base length = 6 m, base width = 5 m and height = 26 m is",
+    "solution": "260.0 m^3"
+  },
+  {
+    "problem": "Surface area of pyramid with base length = 16m, base width = 16m, and height = 6m is",
+    "solution": "576 m^2"
+  },
+  {
+    "problem": "Area of circle with radius 84=",
+    "solution": "22167.08"
+  },
+  {
+    "problem": "Volume of cylinder with height = 3m and radius = 17m is",
+    "solution": "2723 m^3"
+  },
+  {
+    "problem": "What is the hypotenuse of a right triangle given the other two sides have lengths 12 and 20?",
+    "solution": "23.32"
+  },
+  {
+    "problem": "What is the equation of the line between points (-3,19) and (8,8) in slope-intercept form?",
+    "solution": "y = -x + 16"
+  },
+  {
+    "problem": "Find the angle of a regular polygon with 18 sides",
+    "solution": "160.0"
+  },
+  {
+    "problem": "What is the area of a sector with radius 3 and angle 31 degrees?",
+    "solution": "2.43"
+  },
+  {
+    "problem": "Angle 2.55 radians in degrees is: ",
+    "solution": "146.1"
+  },
+  {
+    "problem": "Does triangle with sides 27, 3 and 45 exist?",
+    "solution": "No"
+  },
+  {
+    "problem": "Area of circle with radius 65=",
+    "solution": "13273.23"
+  },
+  {
+    "problem": "What is the hypotenuse of a right triangle given the other two sides have lengths 9 and 16?",
+    "solution": "18.36"
+  },
+  {
+    "problem": "Volume of sphere with radius 80 m = ",
+    "solution": "2144660.584850632 m^3"
+  },
+  {
+    "problem": "Volume of sphere with radius 51 m = ",
+    "solution": "555647.2094551194 m^3"
+  },
+  {
+    "problem": "Volume of pyramid with base length = 17 m, base width = 17 m and height = 49 m is",
+    "solution": "4720.333333333333 m^3"
+  },
+  {
+    "problem": "Angle 1.21 radians in degrees is: ",
+    "solution": "69.33"
+  },
+  {
+    "problem": "Area of circle with radius 98=",
+    "solution": "30171.86"
+  },
+  {
+    "problem": "The perimeter of a 11 sided polygon with lengths of 51, 120, 9, 90, 108, 23, 11, 39, 95, 35, 13cm is: ",
+    "solution": "594"
+  },
+  {
+    "problem": "Surface area of Sphere with radius = 10m is",
+    "solution": "1256.6370614359173 m^2"
+  },
+  {
+    "problem": "Surface area of pyramid with base length = 18m, base width = 32m, and height = 12m is",
+    "solution": "1486 m^2"
+  },
+  {
+    "problem": "Volume of sphere with radius 96 m = ",
+    "solution": "3705973.490621892 m^3"
+  },
+  {
+    "problem": "What is the equation of the line between points (15,14) and (-8,1) in slope-intercept form?",
+    "solution": "23y = 13x + 127"
+  },
+  {
+    "problem": "Area of circle with radius 96=",
+    "solution": "28952.92"
+  },
+  {
+    "problem": "Area of circle with radius 51=",
+    "solution": "8171.28"
+  },
+  {
+    "problem": "Volume of cube with a side length of 15m is",
+    "solution": "3375 m^3"
+  },
+  {
+    "problem": "Area of circle with radius 10=",
+    "solution": "314.16"
+  },
+  {
+    "problem": "Volume of sphere with radius 99 m = ",
+    "solution": "4064378.94691403 m^3"
+  },
+  {
+    "problem": "Angle 190 degrees in radians is: ",
+    "solution": "3.32"
+  },
+  {
+    "problem": "Find the angle of a regular polygon with 8 sides",
+    "solution": "135.0"
+  },
+  {
+    "problem": "angle between the vectors [430.1, 298.65, 687.85, 270.61, 794.71, 869.26, 856.93, 439.67, 677.57] and [688.32, 947.0, 862.2, 601.39, 532.03, 794.91, 575.27, 836.76, 625.16] is:",
+    "solution": "0.46 radians"
+  },
+  {
+    "problem": "Angle 193 degrees in radians is: ",
+    "solution": "3.37"
+  },
+  {
+    "problem": "Surface area of pyramid with base length = 50m, base width = 50m, and height = 7m is",
+    "solution": "4900 m^2"
+  },
+  {
+    "problem": "What is the sum of interior angles of a polygon with 6 sides?",
+    "solution": "720"
+  },
+  {
+    "problem": "Surface area of cylinder with height = 22m and radius = 9m is",
+    "solution": "1753 m^2"
+  },
+  {
+    "problem": "Find the angle of a regular polygon with 8 sides",
+    "solution": "135.0"
+  },
+  {
+    "problem": "Surface area of cylinder with height = 37m and radius = 3m is",
+    "solution": "753 m^2"
+  },
+  {
+    "problem": "Volume of frustum with height = 24m and r1 = 16m is and r2 = 16m is ",
+    "solution": "7338.0 m^3"
+  },
+  {
+    "problem": "What is the hypotenuse of a right triangle given the other two sides have lengths 7 and 17?",
+    "solution": "18.38"
+  },
+  {
+    "problem": "Angle 6 degrees in radians is: ",
+    "solution": "0.1"
+  },
+  {
+    "problem": "Find the angle of a regular polygon with 8 sides",
+    "solution": "135.0"
+  },
+  {
+    "problem": "Angle 190 degrees in radians is: ",
+    "solution": "3.32"
+  },
+  {
+    "problem": "Angle 5.13 radians in degrees is: ",
+    "solution": "293.93"
+  },
+  {
+    "problem": "\\cos(45) = ",
+    "solution": "\\frac{1}{\\sqrt{2}}"
+  },
+  {
+    "problem": "Circumference of circle with radius 54 = ",
+    "solution": "339.29"
+  },
+  {
+    "problem": "Surface area of Sphere with radius = 8m is",
+    "solution": "804.247719318987 m^2"
+  },
+  {
+    "problem": "What is the hypotenuse of a right triangle given the other two sides have lengths 3 and 11?",
+    "solution": "11.4"
+  },
+  {
+    "problem": "Surface area of Sphere with radius = 1m is",
+    "solution": "12.566370614359172 m^2"
+  },
+  {
+    "problem": "\\cos(30) = ",
+    "solution": "\\frac{\\sqrt{3}}{2}"
+  },
+  {
+    "problem": "Volume of sphere with radius 15 m = ",
+    "solution": "14137.166941154068 m^3"
+  },
+  {
+    "problem": "Volume of frustum with height = 23m and r1 = 16m is and r2 = 16m is ",
+    "solution": "10790.0 m^3"
+  },
+  {
+    "problem": "Area of circle with radius 90=",
+    "solution": "25446.9"
+  },
+  {
+    "problem": "\\tan(60) = ",
+    "solution": "\\sqrt{3}"
+  },
+  {
+    "problem": "Third angle of triangle with angles 14 and 55 = ",
+    "solution": "111"
+  },
+  {
+    "problem": "Angle 1.98 radians in degrees is: ",
+    "solution": "113.45"
+  },
+  {
+    "problem": "Volume of cube with a side length of 12m is",
+    "solution": "1728 m^3"
+  },
+  {
+    "problem": "What is the curved surface area of a cylinder of radius, 4 and height, 12?",
+    "solution": "301.59"
+  },
+  {
+    "problem": "Fourth angle of quadrilateral with angles 12 , 119, 167 =",
+    "solution": "62"
+  },
+  {
+    "problem": "Surface area of cylinder with height = 42m and radius = 19m is",
+    "solution": "7282 m^2"
+  },
+  {
+    "problem": "The perimeter of a 10 sided polygon with lengths of 60, 14, 65, 49, 2, 119, 62, 100, 32, 15cm is: ",
+    "solution": "518"
+  },
+  {
+    "problem": "Surface area of cone with height = 32m and radius = 4m is",
+    "solution": "455 m^2"
+  },
+  {
+    "problem": "Given radius, 17 and angle, 231. Find the arc length of the angle.",
+    "solution": "Arc length of the angle = 68.53908"
+  },
+  {
+    "problem": "What is the area of a sector with radius 16 and angle 343 degrees?",
+    "solution": "766.27"
+  },
+  {
+    "problem": "Surface area of cylinder with height = 5m and radius = 15m is",
+    "solution": "1884 m^2"
+  },
+  {
+    "problem": "Given radius, 17 and angle, 28. Find the arc length of the angle.",
+    "solution": "Arc length of the angle = 8.30777"
+  },
+  {
+    "problem": "Given radius, 22 and angle, 180. Find the arc length of the angle.",
+    "solution": "Arc length of the angle = 69.11504"
+  },
+  {
+    "problem": "Area of circle with center (-6,2) and passing through (-6.0, 2.0) is",
+    "solution": "0.0"
+  },
+  {
+    "problem": "Fourth angle of quadrilateral with angles 52 , 166, 51 =",
+    "solution": "91"
+  },
+  {
+    "problem": "Angle 6.06 radians in degrees is: ",
+    "solution": "347.21"
+  },
+  {
+    "problem": "Surface area of cube with side = 9m is",
+    "solution": "486 m^2"
+  },
+  {
+    "problem": "What is the area of a sector with radius 40 and angle 47 degrees?",
+    "solution": "656.24"
+  },
+  {
+    "problem": "Angle 5.69 radians in degrees is: ",
+    "solution": "326.01"
+  },
+  {
+    "problem": "Surface area of cylinder with height = 21m and radius = 7m is",
+    "solution": "1231 m^2"
+  },
+  {
+    "problem": "What is the area of a sector with radius 15 and angle 9 degrees?",
+    "solution": "17.67"
+  },
+  {
+    "problem": "Volume of frustum with height = 43m and r1 = 19m is and r2 = 19m is ",
+    "solution": "18146.0 m^3"
+  },
+  {
+    "problem": "Third angle of triangle with angles 43 and 68 = ",
+    "solution": "69"
+  },
+  {
+    "problem": "Does triangle with sides 10, 19 and 12 exist?",
+    "solution": "Yes"
+  },
+  {
+    "problem": "Volume of sphere with radius 86 m = ",
+    "solution": "2664305.1424956126 m^3"
+  },
+  {
+    "problem": "Volume of sphere with radius 10 m = ",
+    "solution": "4188.790204786391 m^3"
+  },
+  {
+    "problem": "Angle 5.95 radians in degrees is: ",
+    "solution": "340.91"
+  },
+  {
+    "problem": "Volume of cone with height = 46m and radius = 17m is",
+    "solution": "13921 m^3"
+  },
+  {
+    "problem": "Volume of cube with a side length of 2m is",
+    "solution": "8 m^3"
+  },
+  {
+    "problem": "What is the equation of the line between points (17,17) and (-5,-17) in slope-intercept form?",
+    "solution": "11y = 17x -102"
+  },
+  {
+    "problem": "Volume of pyramid with base length = 9 m, base width = 15 m and height = 15 m is",
+    "solution": "675.0 m^3"
+  },
+  {
+    "problem": "Volume of cuboid with sides = 19m, 7m, 18m is",
+    "solution": "2394 m^3"
+  },
+  {
+    "problem": "What is the hypotenuse of a right triangle given the other two sides have lengths 17 and 18?",
+    "solution": "24.76"
+  },
+  {
+    "problem": "Volume of sphere with radius 48 m = ",
+    "solution": "463246.6863277365 m^3"
+  },
+  {
+    "problem": "Volume of frustum with height = 20m and r1 = 2m is and r2 = 2m is ",
+    "solution": "3078.0 m^3"
+  },
+  {
+    "problem": "Find the angle of a regular polygon with 13 sides",
+    "solution": "152.31"
+  },
+  {
+    "problem": "Given radius, 6 and angle, 328. Find the arc length of the angle.",
+    "solution": "Arc length of the angle = 34.34808"
+  },
+  {
+    "problem": "Volume of cylinder with height = 33m and radius = 15m is",
+    "solution": "23326 m^3"
+  }
+]

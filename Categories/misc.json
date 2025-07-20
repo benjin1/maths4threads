@@ -1,0 +1,2002 @@
+[
+  {
+    "problem": "Is 2014 a leap year?",
+    "solution": "2014 is not a leap year"
+  },
+  {
+    "problem": "Euclidian norm or L2 norm of the vector [321.79847242308676, 362.2284363509049, 306.2796301917873, 218.00720187088606, 949.7570714275652, 290.32859181714434, 303.2452917522266, 512.8671674958636] is:",
+    "solution": "1310.5"
+  },
+  {
+    "problem": "The Quotient of 39^{3} and 39^{5} = 39^{3-5} = 39^{-2}",
+    "solution": "0.0006574621959237344"
+  },
+  {
+    "problem": "Convert 942 from base 10 to base 16.",
+    "solution": "3AE"
+  },
+  {
+    "problem": "Find term number 42 of the AP series: -35, 39, 113 ... ",
+    "solution": "2999"
+  },
+  {
+    "problem": "Harmonic mean of 2 numbers 40, 64 = ",
+    "solution": "1575.3846153846152"
+  },
+  {
+    "problem": "The Quotient of 18^{4} and 18^{2} = 18^{4-2} = 18^{2}",
+    "solution": "324"
+  },
+  {
+    "problem": "For the given GP [10, 40, 160, 640, 2560, 10240]. Find the value of a common ratio, 6th term value, sum upto 7th term",
+    "solution": "The value of a is 10, common ratio is 4 , 6th term is 10240, sum upto 7th term is 54610.0"
+  },
+  {
+    "problem": "Fill in the blanks 97^{\\frac{1}{6}} _ 25^{\\frac{1}{7}}",
+    "solution": ">"
+  },
+  {
+    "problem": "Find the sum of first 17 terms of the AP series: -20, -30, -40 ... ",
+    "solution": "-1700.0"
+  },
+  {
+    "problem": "Convert 30030333 from base 4 to base 13.",
+    "solution": "1999B"
+  },
+  {
+    "problem": "Is 1911 a leap year?",
+    "solution": "1911 is not a leap year"
+  },
+  {
+    "problem": "Convert 465 minutes to hours & minutes",
+    "solution": "7 hours and 45 minutes"
+  },
+  {
+    "problem": "Factors of 777 = ",
+    "solution": "[1, 3, 7, 21, 37, 111, 259, 777]"
+  },
+  {
+    "problem": "Fill in the blanks 39^{\\frac{1}{8}} _ 99^{\\frac{1}{1}}",
+    "solution": "<"
+  },
+  {
+    "problem": "Given the two sets a={3, 6, 7}, b={9, 5, 1}. Find the Union, intersection, a-b, b-a, and symmetric difference",
+    "solution": "Union is {1, 3, 5, 6, 7, 9}. Intersection is set(), a-b is {3, 6, 7}, b-a is {9, 5, 1}. Symmetric difference is {1, 3, 5, 6, 7, 9}."
+  },
+  {
+    "problem": "Convert 995 minutes to hours & minutes",
+    "solution": "16 hours and 35 minutes"
+  },
+  {
+    "problem": "The Quotient of 24^{10} and 15^{10} = (24/15)^10 = 1.6^{10}",
+    "solution": "109.95116277760006"
+  },
+  {
+    "problem": "Product of scientific notations 8.36 \\times 10^{-43} and 5.43 \\times 10^{-86} = ",
+    "solution": "4.54 \\times 10^{-128}"
+  },
+  {
+    "problem": "Harmonic mean of 4 numbers 41, 25, 10, 93 = ",
+    "solution": "530.994878859573"
+  },
+  {
+    "problem": "Find prime factors of 140",
+    "solution": "2, 2, 5, 7"
+  },
+  {
+    "problem": "Profit percent when CP = 504 and SP = 748 is: ",
+    "solution": "48.41"
+  },
+  {
+    "problem": "HCF of 20 and 14 = ",
+    "solution": "2"
+  },
+  {
+    "problem": "16.03(1.0\\theta + i-16.0\\theta)",
+    "solution": "-1.51"
+  },
+  {
+    "problem": "Euclidian norm or L2 norm of the vector [302.4302426019809, 73.42852704118496, 985.1199130035488, 474.9580426265634, 753.3877400796879, 373.26811099299874, 796.005978261924, 722.9613613119219, 548.1730209226238, 312.4835890461554, 835.21365291946, 714.1316400458072, 345.4249353792419, 370.0368409335696, 422.8391887669025, 704.712421175033, 457.01178647910035] is:",
+    "solution": "2429.47"
+  },
+  {
+    "problem": "Convert 19726 from base 10 to base 2.",
+    "solution": "100110100001110"
+  },
+  {
+    "problem": "Euclidian norm or L2 norm of the vector [263.13539688633523, 867.7816486361927, 84.91562957472077, 569.5586960590058, 650.8591258553456, 801.706497804277] is:",
+    "solution": "1490.05"
+  },
+  {
+    "problem": "Common Factors of 5 and 69 = ",
+    "solution": "[1]"
+  },
+  {
+    "problem": "The number 0 in Roman Numerals is: ",
+    "solution": "MCCLXXVII"
+  },
+  {
+    "problem": "GCD of 10 and 12 = ",
+    "solution": "2"
+  },
+  {
+    "problem": "Product of scientific notations 6.31 \\times 10^{31} and 8.31 \\times 10^{52} = ",
+    "solution": "5.24 \\times 10^{84}"
+  },
+  {
+    "problem": "The number 0 in Roman Numerals is: ",
+    "solution": "MMMCCCXLIX"
+  },
+  {
+    "problem": "For the given GP [3, 6, 12, 24, 48, 96]. Find the value of a common ratio, 9th term value, sum upto 6th term",
+    "solution": "The value of a is 3, common ratio is 2 , 9th term is 768, sum upto 6th term is 189.0"
+  },
+  {
+    "problem": "Find term number 58 of the AP series: -49, -25, -1 ... ",
+    "solution": "1319"
+  },
+  {
+    "problem": "Given the two sets a={1, 6, 7}, b={10, 6, 7}. Find the Union, intersection, a-b, b-a, and symmetric difference",
+    "solution": "Union is {1, 6, 7, 10}. Intersection is {6, 7}, a-b is {1}, b-a is {10}. Symmetric difference is {1, 10}."
+  },
+  {
+    "problem": "Convert 71 degrees Celsius to degrees Fahrenheit",
+    "solution": "159.8"
+  },
+  {
+    "problem": "For the given GP [9, 18, 36, 72, 144, 288]. Find the value of a common ratio, 8th term value, sum upto 6th term",
+    "solution": "The value of a is 9, common ratio is 2 , 8th term is 1152, sum upto 6th term is 567.0"
+  },
+  {
+    "problem": "Find prime factors of 39",
+    "solution": "3, 13"
+  },
+  {
+    "problem": "Find prime factors of 28",
+    "solution": "2, 2, 7"
+  },
+  {
+    "problem": "Harmonic mean of 2 numbers 93, 28 = ",
+    "solution": "602.5785123966942"
+  },
+  {
+    "problem": "Factors of 351 = ",
+    "solution": "[1, 3, 9, 13, 27, 39, 117, 351]"
+  },
+  {
+    "problem": "signum of 976 is =",
+    "solution": "1"
+  },
+  {
+    "problem": "Given the two sets a={1, 5, 6, 8, 9}, b={1, 3, 4, 9}. Find the Union, intersection, a-b, b-a, and symmetric difference",
+    "solution": "Union is {1, 3, 4, 5, 6, 8, 9}. Intersection is {1, 9}, a-b is {8, 5, 6}, b-a is {3, 4}. Symmetric difference is {3, 4, 5, 6, 8}."
+  },
+  {
+    "problem": "The number 0 in Roman Numerals is: ",
+    "solution": "MCCCXCIII"
+  },
+  {
+    "problem": "The Quotient of 36^{1} and 11^{1} = (36/11)^1 = 3.272727272727273^{1}",
+    "solution": "3.272727272727273"
+  },
+  {
+    "problem": "The number 0 in Roman Numerals is: ",
+    "solution": "MDCCLXXVIII"
+  },
+  {
+    "problem": "The Quotient of 50^{6} and 38^{6} = (50/38)^6 = 1.3157894736842106^{6}",
+    "solution": "5.18941551971362"
+  },
+  {
+    "problem": "Find term number 45 of the AP series: -2, -43, -84 ... ",
+    "solution": "-1806"
+  },
+  {
+    "problem": "For the given GP [2, 10, 50, 250, 1250, 6250]. Find the value of a common ratio, 11th term value, sum upto 6th term",
+    "solution": "The value of a is 2, common ratio is 5 , 11th term is 19531250, sum upto 6th term is 7812.0"
+  },
+  {
+    "problem": "Is 1902 a leap year?",
+    "solution": "1902 is not a leap year"
+  },
+  {
+    "problem": "Convert 53813 from base 10 to base 16.",
+    "solution": "D235"
+  },
+  {
+    "problem": "Euclidian norm or L2 norm of the vector [197.7901356549938, 714.1391535848867, 935.1584059176703, 30.101900704576966, 226.0483348895852, 962.6937160713213, 642.4157051949642, 46.951560753138, 420.71085512865045] is:",
+    "solution": "1730.41"
+  },
+  {
+    "problem": "Factors of 634 = ",
+    "solution": "[1, 2, 317, 634]"
+  },
+  {
+    "problem": "GCD of 14 and 16 = ",
+    "solution": "2"
+  },
+  {
+    "problem": "Convert 59 degrees Celsius to degrees Fahrenheit",
+    "solution": "138.2"
+  },
+  {
+    "problem": "For the given GP [12, 72, 432, 2592, 15552, 93312]. Find the value of a common ratio, 8th term value, sum upto 8th term",
+    "solution": "The value of a is 12, common ratio is 6 , 8th term is 3359232, sum upto 8th term is 4031076.0"
+  },
+  {
+    "problem": "The Quotient of 27^{3} and 27^{6} = 27^{3-6} = 27^{-3}",
+    "solution": "5.080526342529086e-05"
+  },
+  {
+    "problem": "Find the sum of first 62 terms of the AP series: 78, 87, 96 ... ",
+    "solution": "21855.0"
+  },
+  {
+    "problem": "Product of scientific notations 7.59 \\times 10^{-31} and 9.86 \\times 10^{97} = ",
+    "solution": "7.48 \\times 10^{67}"
+  },
+  {
+    "problem": "Is 2081 a leap year?",
+    "solution": "2081 is not a leap year"
+  },
+  {
+    "problem": "Fill in the blanks 14^{\\frac{1}{1}} _ 13^{\\frac{1}{5}}",
+    "solution": ">"
+  },
+  {
+    "problem": "Find term number 64 of the AP series: 72, 169, 266 ... ",
+    "solution": "6183"
+  },
+  {
+    "problem": "Product of scientific notations 2.66 \\times 10^{23} and 6.45 \\times 10^{61} = ",
+    "solution": "1.72 \\times 10^{85}"
+  },
+  {
+    "problem": "Factors of 86 = ",
+    "solution": "[1, 2, 43, 86]"
+  },
+  {
+    "problem": "Convert 95 degrees Celsius to degrees Fahrenheit",
+    "solution": "203.0"
+  },
+  {
+    "problem": "Convert 470 minutes to hours & minutes",
+    "solution": "7 hours and 50 minutes"
+  },
+  {
+    "problem": "Is 1960 a leap year?",
+    "solution": "1960 is a leap year"
+  },
+  {
+    "problem": "Find term number 44 of the AP series: -21, 25, 71 ... ",
+    "solution": "1957"
+  },
+  {
+    "problem": "Harmonic mean of 2 numbers 41, 68 = ",
+    "solution": "1739.3027522935781"
+  },
+  {
+    "problem": "Convert 45256 from base 10 to base 5.",
+    "solution": "2422011"
+  },
+  {
+    "problem": "The Quotient of 45^{8} and 45^{3} = 45^{8-3} = 45^{5}",
+    "solution": "184528125"
+  },
+  {
+    "problem": "Harmonic mean of 3 numbers 96, 71, 16 = ",
+    "solution": "183.90556492411469"
+  },
+  {
+    "problem": "The number 0 in Roman Numerals is: ",
+    "solution": "CCCXIII"
+  },
+  {
+    "problem": "GCD of 8 and 8 = ",
+    "solution": "8"
+  },
+  {
+    "problem": "HCF of 16 and 8 = ",
+    "solution": "8"
+  },
+  {
+    "problem": "The number 0 in Roman Numerals is: ",
+    "solution": "CMLXIII"
+  },
+  {
+    "problem": "GCD of 16 and 13 = ",
+    "solution": "1"
+  },
+  {
+    "problem": "Is 2078 a leap year?",
+    "solution": "2078 is not a leap year"
+  },
+  {
+    "problem": "Convert 46 degrees Celsius to degrees Fahrenheit",
+    "solution": "114.8"
+  },
+  {
+    "problem": "Factors of 672 = ",
+    "solution": "[1, 2, 3, 4, 6, 7, 8, 12, 14, 16, 21, 24, 28, 32, 42, 48, 56, 84, 96, 112, 168, 224, 336, 672]"
+  },
+  {
+    "problem": "HCF of 18 and 14 = ",
+    "solution": "2"
+  },
+  {
+    "problem": "Find term number 57 of the AP series: 97, 145, 193 ... ",
+    "solution": "2785"
+  },
+  {
+    "problem": "HCF of 5 and 11 = ",
+    "solution": "1"
+  },
+  {
+    "problem": "17.89(16.0\\theta + i8.0\\theta)",
+    "solution": "0.46"
+  },
+  {
+    "problem": "Convert 732 minutes to hours & minutes",
+    "solution": "12 hours and 12 minutes"
+  },
+  {
+    "problem": "Product of scientific notations 6.56 \\times 10^{-68} and 5.55 \\times 10^{-21} = ",
+    "solution": "3.64 \\times 10^{-88}"
+  },
+  {
+    "problem": "signum of 971 is =",
+    "solution": "1"
+  },
+  {
+    "problem": "For the given GP [7, 56, 448, 3584, 28672, 229376]. Find the value of a common ratio, 8th term value, sum upto 7th term",
+    "solution": "The value of a is 7, common ratio is 8 , 8th term is 14680064, sum upto 7th term is 2097151.0"
+  },
+  {
+    "problem": "Given the two sets a={8, 2, 5, 7}, b={8, 9, 3, 1}. Find the Union, intersection, a-b, b-a, and symmetric difference",
+    "solution": "Union is {1, 2, 3, 5, 7, 8, 9}. Intersection is {8}, a-b is {2, 5, 7}, b-a is {9, 3, 1}. Symmetric difference is {1, 2, 3, 5, 7, 9}."
+  },
+  {
+    "problem": "Factors of 225 = ",
+    "solution": "[1, 3, 5, 9, 15, 25, 45, 75, 225]"
+  },
+  {
+    "problem": "Euclidian norm or L2 norm of the vector [835.8716257067853, 63.011403370956565, 182.59105813399245, 515.9225849991082, 489.58648679995287, 30.453844974528522, 768.1123486370076, 808.7360961083057, 715.9280713073211, 131.42172432396737, 881.4989565614734, 968.4858807520196] is:",
+    "solution": "2175.24"
+  },
+  {
+    "problem": "22.02(14.0\\theta + i17.0\\theta)",
+    "solution": "0.88"
+  },
+  {
+    "problem": "17.46(16.0\\theta + i7.0\\theta)",
+    "solution": "0.41"
+  },
+  {
+    "problem": "Profit percent when CP = 344 and SP = 909 is: ",
+    "solution": "164.24"
+  },
+  {
+    "problem": "Euclidian norm or L2 norm of the vector [773.7519901398531, 147.0200773566508, 739.655477758701, 799.067259782925, 829.9679687539302, 986.4520365468454, 845.9453190216784, 821.6987270734079, 634.4315354683421] is:",
+    "solution": "2293.72"
+  },
+  {
+    "problem": "For the given GP [4, 36, 324, 2916, 26244, 236196]. Find the value of a common ratio, 11th term value, sum upto 10th term",
+    "solution": "The value of a is 4, common ratio is 9 , 11th term is 13947137604, sum upto 10th term is 1743392200.0"
+  },
+  {
+    "problem": "The Quotient of 18^{2} and 6^{2} = (18/6)^2 = 3.0^{2}",
+    "solution": "9.0"
+  },
+  {
+    "problem": "The Quotient of 40^{2} and 40^{4} = 40^{2-4} = 40^{-2}",
+    "solution": "0.000625"
+  },
+  {
+    "problem": "GCD of 2 and 11 = ",
+    "solution": "1"
+  },
+  {
+    "problem": "A manufacturer of metal pistons finds that, on average, 38.18% of the pistons they manufacture are rejected because they are incorrectly sized. What is the probability that a batch of 20 pistons will contain no more than 2 rejected pistons?",
+    "solution": "0.57"
+  },
+  {
+    "problem": "HCF of 7 and 10 = ",
+    "solution": "1"
+  },
+  {
+    "problem": "Find prime factors of 200",
+    "solution": "2, 2, 2, 5, 5"
+  },
+  {
+    "problem": "Is 1927 a leap year?",
+    "solution": "1927 is not a leap year"
+  },
+  {
+    "problem": "Find the sum of first 96 terms of the AP series: 28, -10, -48 ... ",
+    "solution": "-170592.0"
+  },
+  {
+    "problem": "The Quotient of 12^{1} and 15^{1} = (12/15)^1 = 0.8^{1}",
+    "solution": "0.8"
+  },
+  {
+    "problem": "A manufacturer of metal pistons finds that, on average, 39.71% of the pistons they manufacture are rejected because they are incorrectly sized. What is the probability that a batch of 15 pistons will contain no more than 4 rejected pistons?",
+    "solution": "22.41"
+  },
+  {
+    "problem": "GCD of 8 and 11 = ",
+    "solution": "1"
+  },
+  {
+    "problem": "Is 2041 a leap year?",
+    "solution": "2041 is not a leap year"
+  },
+  {
+    "problem": "Given the two sets a={9, 10, 3}, b={9, 2}. Find the Union, intersection, a-b, b-a, and symmetric difference",
+    "solution": "Union is {2, 3, 9, 10}. Intersection is {9}, a-b is {10, 3}, b-a is {2}. Symmetric difference is {3, 2, 10}."
+  },
+  {
+    "problem": "Find the sum of first 5 terms of the AP series: 21, 74, 127 ... ",
+    "solution": "635.0"
+  },
+  {
+    "problem": "Given the two sets a={1, 3, 7}, b={1, 10, 7}. Find the Union, intersection, a-b, b-a, and symmetric difference",
+    "solution": "Union is {1, 3, 7, 10}. Intersection is {1, 7}, a-b is {3}, b-a is {10}. Symmetric difference is {10, 3}."
+  },
+  {
+    "problem": "Euclidian norm or L2 norm of the vector [727.4493927690883, 227.9760338332446, 624.3082589384269, 345.43924713532135, 195.1329651953587, 202.33481496564542, 638.9621572116405, 107.50368279192979, 737.3845366267849, 956.4524410482902, 42.65568358486005, 5.274873447440598, 659.7507270375689, 90.5195387539487, 80.43707763630192, 350.4277249238724, 17.421823062490628, 193.66327351183932, 761.0606382611228, 112.10519750568015] is:",
+    "solution": "2061.99"
+  },
+  {
+    "problem": "Product of scientific notations 2.52 \\times 10^{45} and 9.24 \\times 10^{30} = ",
+    "solution": "2.33 \\times 10^{76}"
+  },
+  {
+    "problem": "Find the sum of first 87 terms of the AP series: 99, 79, 59 ... ",
+    "solution": "-66207.0"
+  },
+  {
+    "problem": "Convert 1058 from base 10 to base 8.",
+    "solution": "2042"
+  },
+  {
+    "problem": "A manufacturer of metal pistons finds that, on average, 35.94% of the pistons they manufacture are rejected because they are incorrectly sized. What is the probability that a batch of 10 pistons will contain no more than 9 rejected pistons?",
+    "solution": "100.0"
+  },
+  {
+    "problem": "Product of scientific notations 5.58 \\times 10^{20} and 1.84 \\times 10^{-26} = ",
+    "solution": "1.03 \\times 10^{-5}"
+  },
+  {
+    "problem": "Geometric mean of 2 numbers [65, 70] = ",
+    "solution": "67.45"
+  },
+  {
+    "problem": "Is 2082 a leap year?",
+    "solution": "2082 is not a leap year"
+  },
+  {
+    "problem": "signum of 151 is =",
+    "solution": "1"
+  },
+  {
+    "problem": "Factors of 965 = ",
+    "solution": "[1, 5, 193, 965]"
+  },
+  {
+    "problem": "GCD of 9 and 10 = ",
+    "solution": "1"
+  },
+  {
+    "problem": "Convert 30 degrees Celsius to degrees Fahrenheit",
+    "solution": "86.0"
+  },
+  {
+    "problem": "Find the sum of first 91 terms of the AP series: -38, 19, 76 ... ",
+    "solution": "229957.0"
+  },
+  {
+    "problem": "Find term number 38 of the AP series: 89, 168, 247 ... ",
+    "solution": "3012"
+  },
+  {
+    "problem": "Harmonic mean of 2 numbers 99, 98 = ",
+    "solution": "4826.375634517766"
+  },
+  {
+    "problem": "Convert 27 degrees Celsius to degrees Fahrenheit",
+    "solution": "80.6"
+  },
+  {
+    "problem": "Given the two sets a={1, 2, 4, 6}, b={9, 10, 5}. Find the Union, intersection, a-b, b-a, and symmetric difference",
+    "solution": "Union is {1, 2, 4, 5, 6, 9, 10}. Intersection is set(), a-b is {1, 2, 4, 6}, b-a is {9, 10, 5}. Symmetric difference is {1, 2, 4, 5, 6, 9, 10}."
+  },
+  {
+    "problem": "Harmonic mean of 2 numbers 40, 87 = ",
+    "solution": "2383.9370078740158"
+  },
+  {
+    "problem": "Common Factors of 19 and 36 = ",
+    "solution": "[1]"
+  },
+  {
+    "problem": "The Quotient of 45^{2} and 45^{5} = 45^{2-5} = 45^{-3}",
+    "solution": "1.0973936899862826e-05"
+  },
+  {
+    "problem": "The number 0 in Roman Numerals is: ",
+    "solution": "MMCMLVIII"
+  },
+  {
+    "problem": "Find prime factors of 168",
+    "solution": "2, 2, 2, 3, 7"
+  },
+  {
+    "problem": "Convert 93 degrees Celsius to degrees Fahrenheit",
+    "solution": "199.4"
+  },
+  {
+    "problem": "Convert 89 degrees Celsius to degrees Fahrenheit",
+    "solution": "192.20000000000002"
+  },
+  {
+    "problem": "The number 0 in Roman Numerals is: ",
+    "solution": "MMDXCVIII"
+  },
+  {
+    "problem": "Is 1907 a leap year?",
+    "solution": "1907 is not a leap year"
+  },
+  {
+    "problem": "Convert 102210020 from base 3 to base 10.",
+    "solution": "8592"
+  },
+  {
+    "problem": "The Quotient of 19^{10} and 19^{5} = 19^{10-5} = 19^{5}",
+    "solution": "2476099"
+  },
+  {
+    "problem": "Given the two sets a={10, 3, 6}, b={9, 4, 7}. Find the Union, intersection, a-b, b-a, and symmetric difference",
+    "solution": "Union is {3, 4, 6, 7, 9, 10}. Intersection is set(), a-b is {10, 3, 6}, b-a is {9, 4, 7}. Symmetric difference is {3, 4, 6, 7, 9, 10}."
+  },
+  {
+    "problem": "Product of scientific notations 3.08 \\times 10^{34} and 9.43 \\times 10^{26} = ",
+    "solution": "2.9 \\times 10^{61}"
+  },
+  {
+    "problem": "Given the two sets a={2, 6, 7}, b={8, 1, 5, 9}. Find the Union, intersection, a-b, b-a, and symmetric difference",
+    "solution": "Union is {1, 2, 5, 6, 7, 8, 9}. Intersection is set(), a-b is {2, 6, 7}, b-a is {8, 1, 5, 9}. Symmetric difference is {1, 2, 5, 6, 7, 8, 9}."
+  },
+  {
+    "problem": "Convert 607 minutes to hours & minutes",
+    "solution": "10 hours and 7 minutes"
+  },
+  {
+    "problem": "The number 0 in Roman Numerals is: ",
+    "solution": "MMMDCCCLI"
+  },
+  {
+    "problem": "The number 0 in Roman Numerals is: ",
+    "solution": "MMMCCCXIX"
+  },
+  {
+    "problem": "Product of scientific notations 4.54 \\times 10^{65} and 5.68 \\times 10^{-95} = ",
+    "solution": "2.58 \\times 10^{-29}"
+  },
+  {
+    "problem": "Given the two sets a={1, 2, 5, 7, 9, 10}, b={2, 3, 4, 5, 6}. Find the Union, intersection, a-b, b-a, and symmetric difference",
+    "solution": "Union is {1, 2, 3, 4, 5, 6, 7, 9, 10}. Intersection is {2, 5}, a-b is {1, 10, 9, 7}, b-a is {3, 4, 6}. Symmetric difference is {1, 3, 4, 6, 7, 9, 10}."
+  },
+  {
+    "problem": "Convert 18 degrees Celsius to degrees Fahrenheit",
+    "solution": "64.4"
+  },
+  {
+    "problem": "12.65(-4.0\\theta + i-12.0\\theta)",
+    "solution": "-1.89"
+  },
+  {
+    "problem": "Find the sum of first 98 terms of the AP series: 34, -21, -76 ... ",
+    "solution": "-258083.0"
+  },
+  {
+    "problem": "Common Factors of 61 and 93 = ",
+    "solution": "[1]"
+  },
+  {
+    "problem": "Euclidian norm or L2 norm of the vector [623.5241241638236, 954.7643422100155, 774.1363272577922, 43.08541777794361, 147.55722089622446, 640.9754423975048, 620.8144822649039, 644.6959572625822, 761.3729278281795, 840.5663172370216, 427.9834728547126, 946.3340408893371, 747.3385884375393, 493.51152015182123] is:",
+    "solution": "2510.42"
+  },
+  {
+    "problem": "Loss percent when CP = 503 and SP = 304 is: ",
+    "solution": "39.56"
+  },
+  {
+    "problem": "signum of 437 is =",
+    "solution": "1"
+  },
+  {
+    "problem": "Convert 2001021101 from base 3 to base 2.",
+    "solution": "1001110101100110"
+  },
+  {
+    "problem": "Loss percent when CP = 879 and SP = 565 is: ",
+    "solution": "35.72"
+  },
+  {
+    "problem": "Geometric mean of 2 numbers [75, 57] = ",
+    "solution": "65.38"
+  },
+  {
+    "problem": "The Quotient of 24^{2} and 24^{2} = 24^{2-2} = 24^{0}",
+    "solution": "1"
+  },
+  {
+    "problem": "Convert 243 minutes to hours & minutes",
+    "solution": "4 hours and 3 minutes"
+  },
+  {
+    "problem": "Factors of 4 = ",
+    "solution": "[1, 2, 4]"
+  },
+  {
+    "problem": "GCD of 14 and 12 = ",
+    "solution": "2"
+  },
+  {
+    "problem": "signum of 858 is =",
+    "solution": "1"
+  },
+  {
+    "problem": "GCD of 16 and 19 = ",
+    "solution": "1"
+  },
+  {
+    "problem": "For the given GP [2, 8, 32, 128, 512, 2048]. Find the value of a common ratio, 10th term value, sum upto 8th term",
+    "solution": "The value of a is 2, common ratio is 4 , 10th term is 524288, sum upto 8th term is 43690.0"
+  },
+  {
+    "problem": "Loss percent when CP = 902 and SP = 117 is: ",
+    "solution": "87.03"
+  },
+  {
+    "problem": "Given the two sets a={2, 3, 4, 5}, b={1, 3, 5, 6, 8}. Find the Union, intersection, a-b, b-a, and symmetric difference",
+    "solution": "Union is {1, 2, 3, 4, 5, 6, 8}. Intersection is {3, 5}, a-b is {2, 4}, b-a is {8, 1, 6}. Symmetric difference is {1, 2, 4, 6, 8}."
+  },
+  {
+    "problem": "Loss percent when CP = 717 and SP = 537 is: ",
+    "solution": "25.1"
+  },
+  {
+    "problem": "signum of 320 is =",
+    "solution": "1"
+  },
+  {
+    "problem": "signum of 790 is =",
+    "solution": "1"
+  },
+  {
+    "problem": "A manufacturer of metal pistons finds that, on average, 39.39% of the pistons they manufacture are rejected because they are incorrectly sized. What is the probability that a batch of 12 pistons will contain no more than 2 rejected pistons?",
+    "solution": "9.01"
+  },
+  {
+    "problem": "Find prime factors of 74",
+    "solution": "2, 37"
+  },
+  {
+    "problem": "The Quotient of 18^{5} and 18^{5} = 18^{5-5} = 18^{0}",
+    "solution": "1"
+  },
+  {
+    "problem": "signum of 787 is =",
+    "solution": "1"
+  },
+  {
+    "problem": "HCF of 12 and 12 = ",
+    "solution": "12"
+  },
+  {
+    "problem": "Convert 816 minutes to hours & minutes",
+    "solution": "13 hours and 36 minutes"
+  },
+  {
+    "problem": "A manufacturer of metal pistons finds that, on average, 39.74% of the pistons they manufacture are rejected because they are incorrectly sized. What is the probability that a batch of 12 pistons will contain no more than 1 rejected pistons?",
+    "solution": "2.04"
+  },
+  {
+    "problem": "A manufacturer of metal pistons finds that, on average, 32.14% of the pistons they manufacture are rejected because they are incorrectly sized. What is the probability that a batch of 18 pistons will contain no more than 9 rejected pistons?",
+    "solution": "96.61"
+  },
+  {
+    "problem": "Find the sum of first 24 terms of the AP series: -15, -21, -27 ... ",
+    "solution": "-2016.0"
+  },
+  {
+    "problem": "Convert 661 minutes to hours & minutes",
+    "solution": "11 hours and 1 minutes"
+  },
+  {
+    "problem": "Convert 912 minutes to hours & minutes",
+    "solution": "15 hours and 12 minutes"
+  },
+  {
+    "problem": "Find term number 65 of the AP series: 45, -52, -149 ... ",
+    "solution": "-6163"
+  },
+  {
+    "problem": "HCF of 8 and 4 = ",
+    "solution": "4"
+  },
+  {
+    "problem": "Given the two sets a={8, 2, 3, 4}, b={1, 3, 5, 6, 7}. Find the Union, intersection, a-b, b-a, and symmetric difference",
+    "solution": "Union is {1, 2, 3, 4, 5, 6, 7, 8}. Intersection is {3}, a-b is {8, 2, 4}, b-a is {1, 5, 6, 7}. Symmetric difference is {1, 2, 4, 5, 6, 7, 8}."
+  },
+  {
+    "problem": "The Quotient of 36^{3} and 36^{9} = 36^{3-9} = 36^{-6}",
+    "solution": "4.593936579977834e-10"
+  },
+  {
+    "problem": "The Quotient of 13^{5} and 13^{8} = 13^{5-8} = 13^{-3}",
+    "solution": "0.0004551661356395084"
+  },
+  {
+    "problem": "Find the sum of first 77 terms of the AP series: 89, 32, -25 ... ",
+    "solution": "-159929.0"
+  },
+  {
+    "problem": "The Quotient of 41^{3} and 41^{4} = 41^{3-4} = 41^{-1}",
+    "solution": "0.024390243902439025"
+  },
+  {
+    "problem": "The Quotient of 36^{3} and 36^{8} = 36^{3-8} = 36^{-5}",
+    "solution": "1.65381716879202e-08"
+  },
+  {
+    "problem": "GCD of 10 and 11 = ",
+    "solution": "1"
+  },
+  {
+    "problem": "Harmonic mean of 3 numbers 59, 79, 81 = ",
+    "solution": "1930.729275838121"
+  },
+  {
+    "problem": "Fill in the blanks 2^{\\frac{1}{5}} _ 17^{\\frac{1}{7}}",
+    "solution": "<"
+  },
+  {
+    "problem": "For the given GP [11, 44, 176, 704, 2816, 11264]. Find the value of a common ratio, 7th term value, sum upto 8th term",
+    "solution": "The value of a is 11, common ratio is 4 , 7th term is 45056, sum upto 8th term is 240295.0"
+  },
+  {
+    "problem": "The Quotient of 31^{6} and 31^{10} = 31^{6-10} = 31^{-4}",
+    "solution": "1.0828124103295972e-06"
+  },
+  {
+    "problem": "Geometric mean of 4 numbers [100, 95, 100, 3] = ",
+    "solution": "41.09"
+  },
+  {
+    "problem": "A manufacturer of metal pistons finds that, on average, 33.38% of the pistons they manufacture are rejected because they are incorrectly sized. What is the probability that a batch of 17 pistons will contain no more than 2 rejected pistons?",
+    "solution": "4.38"
+  },
+  {
+    "problem": "Fill in the blanks 58^{\\frac{1}{5}} _ 44^{\\frac{1}{2}}",
+    "solution": "<"
+  },
+  {
+    "problem": "HCF of 2 and 18 = ",
+    "solution": "2"
+  },
+  {
+    "problem": "HCF of 8 and 13 = ",
+    "solution": "1"
+  },
+  {
+    "problem": "Geometric mean of 4 numbers [95, 40, 14, 18] = ",
+    "solution": "31.28"
+  },
+  {
+    "problem": "26.17(-19.0\\theta + i-18.0\\theta)",
+    "solution": "-2.38"
+  },
+  {
+    "problem": "Factors of 527 = ",
+    "solution": "[1, 17, 31, 527]"
+  },
+  {
+    "problem": "A manufacturer of metal pistons finds that, on average, 35.06% of the pistons they manufacture are rejected because they are incorrectly sized. What is the probability that a batch of 16 pistons will contain no more than 9 rejected pistons?",
+    "solution": "97.69"
+  },
+  {
+    "problem": "12.08(11.0\\theta + i5.0\\theta)",
+    "solution": "0.43"
+  },
+  {
+    "problem": "The Quotient of 32^{7} and 5^{7} = (32/5)^7 = 6.4^{7}",
+    "solution": "439804.65111040015"
+  },
+  {
+    "problem": "signum of 493 is =",
+    "solution": "1"
+  },
+  {
+    "problem": "Convert 15 degrees Celsius to degrees Fahrenheit",
+    "solution": "59.0"
+  },
+  {
+    "problem": "Find prime factors of 2",
+    "solution": "2"
+  },
+  {
+    "problem": "17.69(-13.0\\theta + i12.0\\theta)",
+    "solution": "2.4"
+  },
+  {
+    "problem": "Find the sum of first 4 terms of the AP series: 42, -18, -78 ... ",
+    "solution": "-192.0"
+  },
+  {
+    "problem": "Given the two sets a={1, 4}, b={8, 1, 3, 5}. Find the Union, intersection, a-b, b-a, and symmetric difference",
+    "solution": "Union is {1, 3, 4, 5, 8}. Intersection is {1}, a-b is {4}, b-a is {8, 3, 5}. Symmetric difference is {3, 4, 5, 8}."
+  },
+  {
+    "problem": "12.53(-6.0\\theta + i-11.0\\theta)",
+    "solution": "-2.07"
+  },
+  {
+    "problem": "Geometric mean of 4 numbers [88, 59, 11, 81] = ",
+    "solution": "46.38"
+  },
+  {
+    "problem": "Factors of 561 = ",
+    "solution": "[1, 3, 11, 17, 33, 51, 187, 561]"
+  },
+  {
+    "problem": "Harmonic mean of 4 numbers 81, 11, 5, 78 = ",
+    "solution": "246.7766518259539"
+  },
+  {
+    "problem": "Given the two sets a={8, 9, 4}, b={5}. Find the Union, intersection, a-b, b-a, and symmetric difference",
+    "solution": "Union is {8, 9, 4, 5}. Intersection is set(), a-b is {8, 9, 4}, b-a is {5}. Symmetric difference is {8, 9, 4, 5}."
+  },
+  {
+    "problem": "Harmonic mean of 3 numbers 29, 72, 4 = ",
+    "solution": "13.406099518459069"
+  },
+  {
+    "problem": "HCF of 15 and 9 = ",
+    "solution": "3"
+  },
+  {
+    "problem": "The number 0 in Roman Numerals is: ",
+    "solution": "MMMCDXLVI"
+  },
+  {
+    "problem": "Fill in the blanks 44^{\\frac{1}{4}} _ 15^{\\frac{1}{9}}",
+    "solution": ">"
+  },
+  {
+    "problem": "HCF of 19 and 8 = ",
+    "solution": "1"
+  },
+  {
+    "problem": "A manufacturer of metal pistons finds that, on average, 36.42% of the pistons they manufacture are rejected because they are incorrectly sized. What is the probability that a batch of 14 pistons will contain no more than 3 rejected pistons?",
+    "solution": "18.93"
+  },
+  {
+    "problem": "12.17(2.0\\theta + i-12.0\\theta)",
+    "solution": "-1.41"
+  },
+  {
+    "problem": "Is 2087 a leap year?",
+    "solution": "2087 is not a leap year"
+  },
+  {
+    "problem": "Convert 849 minutes to hours & minutes",
+    "solution": "14 hours and 9 minutes"
+  },
+  {
+    "problem": "For the given GP [3, 6, 12, 24, 48, 96]. Find the value of a common ratio, 7th term value, sum upto 11th term",
+    "solution": "The value of a is 3, common ratio is 2 , 7th term is 192, sum upto 11th term is 6141.0"
+  },
+  {
+    "problem": "Geometric mean of 4 numbers [36, 36, 55, 20] = ",
+    "solution": "34.55"
+  },
+  {
+    "problem": "Geometric mean of 3 numbers [56, 30, 62] = ",
+    "solution": "47.05"
+  },
+  {
+    "problem": "Geometric mean of 3 numbers [88, 24, 6] = ",
+    "solution": "23.31"
+  },
+  {
+    "problem": "A manufacturer of metal pistons finds that, on average, 38.62% of the pistons they manufacture are rejected because they are incorrectly sized. What is the probability that a batch of 12 pistons will contain no more than 3 rejected pistons?",
+    "solution": "25.59"
+  },
+  {
+    "problem": "Euclidian norm or L2 norm of the vector [575.5748228269284, 815.8111478017152, 751.3628476957929] is:",
+    "solution": "1249.55"
+  },
+  {
+    "problem": "The Quotient of 34^{7} and 34^{7} = 34^{7-7} = 34^{0}",
+    "solution": "1"
+  },
+  {
+    "problem": "Convert 244 minutes to hours & minutes",
+    "solution": "4 hours and 4 minutes"
+  },
+  {
+    "problem": "Euclidian norm or L2 norm of the vector [740.8488815495706, 27.970201867748344, 31.04924093655914, 585.800366241277, 477.96260584147177, 826.2678759022064, 196.01856357716485, 239.9302767405095, 460.6342326441939, 869.9916850779902, 559.9464944420042, 517.5651226589578, 825.8531345885136, 598.3527435365983, 138.63380459962406, 362.1421182100906, 15.41573655390338] is:",
+    "solution": "2154.55"
+  },
+  {
+    "problem": "Convert 285B from base 16 to base 10.",
+    "solution": "10331"
+  },
+  {
+    "problem": "Convert 15253 from base 6 to base 10.",
+    "solution": "2481"
+  },
+  {
+    "problem": "The Quotient of 14^{1} and 14^{4} = 14^{1-4} = 14^{-3}",
+    "solution": "0.00036443148688046647"
+  },
+  {
+    "problem": "signum of 291 is =",
+    "solution": "1"
+  },
+  {
+    "problem": "A manufacturer of metal pistons finds that, on average, 30.67% of the pistons they manufacture are rejected because they are incorrectly sized. What is the probability that a batch of 19 pistons will contain no more than 7 rejected pistons?",
+    "solution": "80.01"
+  },
+  {
+    "problem": "The number 0 in Roman Numerals is: ",
+    "solution": "MMDCCXXX"
+  },
+  {
+    "problem": "Convert 21640 from base 10 to base 7.",
+    "solution": "120043"
+  },
+  {
+    "problem": "Common Factors of 90 and 55 = ",
+    "solution": "[1, 5]"
+  },
+  {
+    "problem": "Find the sum of first 24 terms of the AP series: -11, -22, -33 ... ",
+    "solution": "-3300.0"
+  },
+  {
+    "problem": "Euclidian norm or L2 norm of the vector [387.2968968596311, 923.287780536659, 931.3204177189054, 529.5811823325362] is:",
+    "solution": "1466.38"
+  },
+  {
+    "problem": "Find term number 8 of the AP series: -51, -115, -179 ... ",
+    "solution": "-499"
+  },
+  {
+    "problem": "A manufacturer of metal pistons finds that, on average, 39.3% of the pistons they manufacture are rejected because they are incorrectly sized. What is the probability that a batch of 13 pistons will contain no more than 7 rejected pistons?",
+    "solution": "91.12"
+  },
+  {
+    "problem": "Find term number 96 of the AP series: -2, -42, -82 ... ",
+    "solution": "-3802"
+  },
+  {
+    "problem": "18.38(7.0\\theta + i-17.0\\theta)",
+    "solution": "-1.18"
+  },
+  {
+    "problem": "Geometric mean of 3 numbers [8, 50, 63] = ",
+    "solution": "29.32"
+  },
+  {
+    "problem": "Convert 239 minutes to hours & minutes",
+    "solution": "3 hours and 59 minutes"
+  },
+  {
+    "problem": "Euclidian norm or L2 norm of the vector [344.6715557496382, 8.699844522620847, 360.4675852909933] is:",
+    "solution": "498.81"
+  },
+  {
+    "problem": "HCF of 2 and 17 = ",
+    "solution": "1"
+  },
+  {
+    "problem": "HCF of 19 and 7 = ",
+    "solution": "1"
+  },
+  {
+    "problem": "Loss percent when CP = 801 and SP = 459 is: ",
+    "solution": "42.7"
+  },
+  {
+    "problem": "Is 1954 a leap year?",
+    "solution": "1954 is not a leap year"
+  },
+  {
+    "problem": "Common Factors of 56 and 77 = ",
+    "solution": "[1, 7]"
+  },
+  {
+    "problem": "Geometric mean of 4 numbers [79, 89, 94, 95] = ",
+    "solution": "89.02"
+  },
+  {
+    "problem": "The Quotient of 21^{8} and 21^{1} = 21^{8-1} = 21^{7}",
+    "solution": "1801088541"
+  },
+  {
+    "problem": "Harmonic mean of 4 numbers 67, 25, 91, 61 = ",
+    "solution": "741.1202848063223"
+  },
+  {
+    "problem": "19.85(-15.0\\theta + i13.0\\theta)",
+    "solution": "2.43"
+  },
+  {
+    "problem": "signum of 421 is =",
+    "solution": "1"
+  },
+  {
+    "problem": "Is 2023 a leap year?",
+    "solution": "2023 is not a leap year"
+  },
+  {
+    "problem": "Is 2027 a leap year?",
+    "solution": "2027 is not a leap year"
+  },
+  {
+    "problem": "Common Factors of 14 and 34 = ",
+    "solution": "[1, 2]"
+  },
+  {
+    "problem": "Is 1972 a leap year?",
+    "solution": "1972 is a leap year"
+  },
+  {
+    "problem": "Convert 44603 from base 10 to base 3.",
+    "solution": "2021011222"
+  },
+  {
+    "problem": "Factors of 330 = ",
+    "solution": "[1, 2, 3, 5, 6, 10, 11, 15, 22, 30, 33, 55, 66, 110, 165, 330]"
+  },
+  {
+    "problem": "The number 0 in Roman Numerals is: ",
+    "solution": "CCLI"
+  },
+  {
+    "problem": "The Quotient of 45^{8} and 45^{5} = 45^{8-5} = 45^{3}",
+    "solution": "91125"
+  },
+  {
+    "problem": "Product of scientific notations 3.19 \\times 10^{-62} and 6.06 \\times 10^{-59} = ",
+    "solution": "1.93 \\times 10^{-120}"
+  },
+  {
+    "problem": "GCD of 14 and 2 = ",
+    "solution": "2"
+  },
+  {
+    "problem": "The Quotient of 46^{6} and 46^{2} = 46^{6-2} = 46^{4}",
+    "solution": "4477456"
+  },
+  {
+    "problem": "HCF of 6 and 4 = ",
+    "solution": "2"
+  },
+  {
+    "problem": "Geometric mean of 3 numbers [6, 68, 93] = ",
+    "solution": "33.6"
+  },
+  {
+    "problem": "A manufacturer of metal pistons finds that, on average, 35.58% of the pistons they manufacture are rejected because they are incorrectly sized. What is the probability that a batch of 12 pistons will contain no more than 1 rejected pistons?",
+    "solution": "3.9"
+  },
+  {
+    "problem": "Harmonic mean of 2 numbers 100, 10 = ",
+    "solution": "90.9090909090909"
+  },
+  {
+    "problem": "Find term number 36 of the AP series: 84, 149, 214 ... ",
+    "solution": "2359"
+  },
+  {
+    "problem": "For the given GP [12, 24, 48, 96, 192, 384]. Find the value of a common ratio, 11th term value, sum upto 9th term",
+    "solution": "The value of a is 12, common ratio is 2 , 11th term is 12288, sum upto 9th term is 6132.0"
+  },
+  {
+    "problem": "Harmonic mean of 2 numbers 29, 82 = ",
+    "solution": "1756.720720720721"
+  },
+  {
+    "problem": "Convert 45 degrees Celsius to degrees Fahrenheit",
+    "solution": "113.0"
+  },
+  {
+    "problem": "Fill in the blanks 23^{\\frac{1}{6}} _ 3^{\\frac{1}{8}}",
+    "solution": ">"
+  },
+  {
+    "problem": "Find prime factors of 169",
+    "solution": "13, 13"
+  },
+  {
+    "problem": "8.0(0.0\\theta + i8.0\\theta)",
+    "solution": "1.57"
+  },
+  {
+    "problem": "Is 2085 a leap year?",
+    "solution": "2085 is not a leap year"
+  },
+  {
+    "problem": "The Quotient of 4^{5} and 4^{6} = 4^{5-6} = 4^{-1}",
+    "solution": "0.25"
+  },
+  {
+    "problem": "For the given GP [7, 63, 567, 5103, 45927, 413343]. Find the value of a common ratio, 8th term value, sum upto 6th term",
+    "solution": "The value of a is 7, common ratio is 9 , 8th term is 33480783, sum upto 6th term is 465010.0"
+  },
+  {
+    "problem": "Find the sum of first 81 terms of the AP series: -76, -175, -274 ... ",
+    "solution": "-326916.0"
+  },
+  {
+    "problem": "Product of scientific notations 5.23 \\times 10^{-72} and 7.98 \\times 10^{-46} = ",
+    "solution": "4.17 \\times 10^{-117}"
+  },
+  {
+    "problem": "The Quotient of 39^{6} and 37^{6} = (39/37)^6 = 1.054054054054054^{6}",
+    "solution": "1.3714415335388155"
+  },
+  {
+    "problem": "Euclidian norm or L2 norm of the vector [909.1412942144273, 872.061637803618, 381.2864837239073] is:",
+    "solution": "1316.21"
+  },
+  {
+    "problem": "Convert 324661 from base 7 to base 8.",
+    "solution": "157144"
+  },
+  {
+    "problem": "Find the sum of first 20 terms of the AP series: -28, 2, 32 ... ",
+    "solution": "5140.0"
+  },
+  {
+    "problem": "Convert 76 degrees Celsius to degrees Fahrenheit",
+    "solution": "168.8"
+  },
+  {
+    "problem": "A manufacturer of metal pistons finds that, on average, 33.13% of the pistons they manufacture are rejected because they are incorrectly sized. What is the probability that a batch of 11 pistons will contain no more than 3 rejected pistons?",
+    "solution": "47.84"
+  },
+  {
+    "problem": "Euclidian norm or L2 norm of the vector [239.694778481797, 745.8626967746551, 608.2634175631565, 373.4800483894316, 875.7134224470882, 298.5091741157686, 854.0717363019018, 566.1017448957631, 756.8750776724677, 69.09328837042095, 602.0593240001482, 118.01217580499457, 587.7744164815093, 480.6330755159749, 770.302975048608, 917.188291111911, 897.8929704647072, 602.9395017332973] is:",
+    "solution": "2676.56"
+  },
+  {
+    "problem": "A manufacturer of metal pistons finds that, on average, 36.02% of the pistons they manufacture are rejected because they are incorrectly sized. What is the probability that a batch of 15 pistons will contain no more than 4 rejected pistons?",
+    "solution": "32.16"
+  },
+  {
+    "problem": "Fill in the blanks 49^{\\frac{1}{3}} _ 79^{\\frac{1}{2}}",
+    "solution": "<"
+  },
+  {
+    "problem": "The number 0 in Roman Numerals is: ",
+    "solution": "CXLIX"
+  },
+  {
+    "problem": "Convert DCBA from base 14 to base 10.",
+    "solution": "38188"
+  },
+  {
+    "problem": "Euclidian norm or L2 norm of the vector [508.3365761325299, 853.4608099430885, 201.0802897089059] is:",
+    "solution": "1013.53"
+  },
+  {
+    "problem": "Is 1928 a leap year?",
+    "solution": "1928 is a leap year"
+  },
+  {
+    "problem": "Convert 55 minutes to hours & minutes",
+    "solution": "0 hours and 55 minutes"
+  },
+  {
+    "problem": "For the given GP [3, 30, 300, 3000, 30000, 300000]. Find the value of a common ratio, 8th term value, sum upto 9th term",
+    "solution": "The value of a is 3, common ratio is 10 , 8th term is 30000000, sum upto 9th term is 333333333.0"
+  },
+  {
+    "problem": "Find prime factors of 127",
+    "solution": "127"
+  },
+  {
+    "problem": "Given the two sets a={8, 2, 7}, b={1, 2, 3, 4, 6, 10}. Find the Union, intersection, a-b, b-a, and symmetric difference",
+    "solution": "Union is {1, 2, 3, 4, 6, 7, 8, 10}. Intersection is {2}, a-b is {8, 7}, b-a is {1, 3, 4, 6, 10}. Symmetric difference is {1, 3, 4, 6, 7, 8, 10}."
+  },
+  {
+    "problem": "Find the sum of first 97 terms of the AP series: 50, 103, 156 ... ",
+    "solution": "251618.0"
+  },
+  {
+    "problem": "Find prime factors of 177",
+    "solution": "3, 59"
+  },
+  {
+    "problem": "signum of -36 is =",
+    "solution": "-1"
+  },
+  {
+    "problem": "Euclidian norm or L2 norm of the vector [304.7768232293132, 646.2076335115919, 35.808670060867186, 596.9064563719459] is:",
+    "solution": "931.69"
+  },
+  {
+    "problem": "The Quotient of 7^{6} and 29^{6} = (7/29)^6 = 0.2413793103448276^{6}",
+    "solution": "0.00019778814287612647"
+  },
+  {
+    "problem": "GCD of 9 and 6 = ",
+    "solution": "3"
+  },
+  {
+    "problem": "Harmonic mean of 2 numbers 62, 41 = ",
+    "solution": "1011.8640776699029"
+  },
+  {
+    "problem": "Is 2018 a leap year?",
+    "solution": "2018 is not a leap year"
+  },
+  {
+    "problem": "The number 0 in Roman Numerals is: ",
+    "solution": "MMMDLXXXI"
+  },
+  {
+    "problem": "HCF of 6 and 2 = ",
+    "solution": "2"
+  },
+  {
+    "problem": "Fill in the blanks 77^{\\frac{1}{4}} _ 18^{\\frac{1}{8}}",
+    "solution": ">"
+  },
+  {
+    "problem": "Harmonic mean of 3 numbers 50, 36, 81 = ",
+    "solution": "1347.2279260780288"
+  },
+  {
+    "problem": "Convert 402 minutes to hours & minutes",
+    "solution": "6 hours and 42 minutes"
+  },
+  {
+    "problem": "A manufacturer of metal pistons finds that, on average, 30.51% of the pistons they manufacture are rejected because they are incorrectly sized. What is the probability that a batch of 17 pistons will contain no more than 9 rejected pistons?",
+    "solution": "98.56"
+  },
+  {
+    "problem": "Fill in the blanks 41^{\\frac{1}{2}} _ 66^{\\frac{1}{7}}",
+    "solution": ">"
+  },
+  {
+    "problem": "GCD of 4 and 3 = ",
+    "solution": "1"
+  },
+  {
+    "problem": "17.69(13.0\\theta + i12.0\\theta)",
+    "solution": "0.75"
+  },
+  {
+    "problem": "GCD of 17 and 10 = ",
+    "solution": "1"
+  },
+  {
+    "problem": "Geometric mean of 4 numbers [52, 24, 38, 29] = ",
+    "solution": "34.25"
+  },
+  {
+    "problem": "The Quotient of 14^{8} and 14^{7} = 14^{8-7} = 14^{1}",
+    "solution": "14"
+  },
+  {
+    "problem": "The Quotient of 17^{1} and 34^{1} = (17/34)^1 = 0.5^{1}",
+    "solution": "0.5"
+  },
+  {
+    "problem": "Common Factors of 54 and 60 = ",
+    "solution": "[1, 2, 3, 6]"
+  },
+  {
+    "problem": "A manufacturer of metal pistons finds that, on average, 31.99% of the pistons they manufacture are rejected because they are incorrectly sized. What is the probability that a batch of 11 pistons will contain no more than 8 rejected pistons?",
+    "solution": "99.9"
+  },
+  {
+    "problem": "Given the two sets a={2, 6, 7}, b={8, 10, 4, 6}. Find the Union, intersection, a-b, b-a, and symmetric difference",
+    "solution": "Union is {2, 4, 6, 7, 8, 10}. Intersection is {6}, a-b is {2, 7}, b-a is {8, 10, 4}. Symmetric difference is {2, 4, 7, 8, 10}."
+  },
+  {
+    "problem": "A manufacturer of metal pistons finds that, on average, 35.11% of the pistons they manufacture are rejected because they are incorrectly sized. What is the probability that a batch of 14 pistons will contain no more than 8 rejected pistons?",
+    "solution": "97.51"
+  },
+  {
+    "problem": "For the given GP [11, 110, 1100, 11000, 110000, 1100000]. Find the value of a common ratio, 9th term value, sum upto 6th term",
+    "solution": "The value of a is 11, common ratio is 10 , 9th term is 1100000000, sum upto 6th term is 1222221.0"
+  },
+  {
+    "problem": "Loss percent when CP = 978 and SP = 140 is: ",
+    "solution": "85.69"
+  },
+  {
+    "problem": "HCF of 9 and 18 = ",
+    "solution": "9"
+  },
+  {
+    "problem": "Find the sum of first 91 terms of the AP series: -81, -42, -3 ... ",
+    "solution": "152334.0"
+  },
+  {
+    "problem": "Profit percent when CP = 366 and SP = 916 is: ",
+    "solution": "150.27"
+  },
+  {
+    "problem": "The Quotient of 20^{2} and 38^{2} = (20/38)^2 = 0.5263157894736842^{2}",
+    "solution": "0.27700831024930744"
+  },
+  {
+    "problem": "Profit percent when CP = 167 and SP = 718 is: ",
+    "solution": "329.94"
+  },
+  {
+    "problem": "Given the two sets a={8, 3, 7}, b={9, 10, 4}. Find the Union, intersection, a-b, b-a, and symmetric difference",
+    "solution": "Union is {3, 4, 7, 8, 9, 10}. Intersection is set(), a-b is {8, 3, 7}, b-a is {9, 10, 4}. Symmetric difference is {3, 4, 7, 8, 9, 10}."
+  },
+  {
+    "problem": "Convert 57467 from base 10 to base 16.",
+    "solution": "E07B"
+  },
+  {
+    "problem": "signum of -749 is =",
+    "solution": "-1"
+  },
+  {
+    "problem": "The number 0 in Roman Numerals is: ",
+    "solution": "MMCMLXXXIII"
+  },
+  {
+    "problem": "HCF of 2 and 14 = ",
+    "solution": "2"
+  },
+  {
+    "problem": "Convert 38 degrees Celsius to degrees Fahrenheit",
+    "solution": "100.4"
+  },
+  {
+    "problem": "Convert 71 degrees Celsius to degrees Fahrenheit",
+    "solution": "159.8"
+  },
+  {
+    "problem": "A manufacturer of metal pistons finds that, on average, 38.83% of the pistons they manufacture are rejected because they are incorrectly sized. What is the probability that a batch of 18 pistons will contain no more than 6 rejected pistons?",
+    "solution": "41.37"
+  },
+  {
+    "problem": "Given the two sets a={1, 3, 5, 9, 10}, b={2, 5, 6, 7, 9}. Find the Union, intersection, a-b, b-a, and symmetric difference",
+    "solution": "Union is {1, 2, 3, 5, 6, 7, 9, 10}. Intersection is {9, 5}, a-b is {1, 10, 3}, b-a is {2, 6, 7}. Symmetric difference is {1, 2, 3, 6, 7, 10}."
+  },
+  {
+    "problem": "The number 0 in Roman Numerals is: ",
+    "solution": "MDCXXXIX"
+  },
+  {
+    "problem": "Common Factors of 71 and 43 = ",
+    "solution": "[1]"
+  },
+  {
+    "problem": "Factors of 116 = ",
+    "solution": "[1, 2, 4, 29, 58, 116]"
+  },
+  {
+    "problem": "For the given GP [5, 40, 320, 2560, 20480, 163840]. Find the value of a common ratio, 10th term value, sum upto 11th term",
+    "solution": "The value of a is 5, common ratio is 8 , 10th term is 671088640, sum upto 11th term is 6135667565.0"
+  },
+  {
+    "problem": "GCD of 5 and 13 = ",
+    "solution": "1"
+  },
+  {
+    "problem": "Common Factors of 44 and 92 = ",
+    "solution": "[1, 2, 4]"
+  },
+  {
+    "problem": "Harmonic mean of 3 numbers 50, 45, 53 = ",
+    "solution": "867.570350034317"
+  },
+  {
+    "problem": "Euclidian norm or L2 norm of the vector [698.475381940087, 777.5289258979454, 915.1126851457648, 809.9222996999339, 381.01592032757316, 970.0331326159791, 260.1956266679769, 176.09330265830582, 193.56380694656428, 607.7392268108455, 961.7115728903498, 691.2440878619578, 72.2844926109214] is:",
+    "solution": "2363.35"
+  },
+  {
+    "problem": "Euclidian norm or L2 norm of the vector [461.29433839556987, 517.4108670934199, 156.3996776571208, 775.2173221753741, 798.8065071479446, 456.4361673596885, 371.85525741432156, 624.4076556642838] is:",
+    "solution": "1574.97"
+  },
+  {
+    "problem": "22.83(-11.0\\theta + i20.0\\theta)",
+    "solution": "2.07"
+  },
+  {
+    "problem": "Geometric mean of 4 numbers [52, 45, 12, 1] = ",
+    "solution": "12.94"
+  },
+  {
+    "problem": "signum of -222 is =",
+    "solution": "-1"
+  },
+  {
+    "problem": "HCF of 13 and 6 = ",
+    "solution": "1"
+  },
+  {
+    "problem": "Fill in the blanks 43^{\\frac{1}{4}} _ 37^{\\frac{1}{3}}",
+    "solution": "<"
+  },
+  {
+    "problem": "Find term number 34 of the AP series: 9, 74, 139 ... ",
+    "solution": "2154"
+  },
+  {
+    "problem": "Fill in the blanks 60^{\\frac{1}{2}} _ 14^{\\frac{1}{4}}",
+    "solution": ">"
+  },
+  {
+    "problem": "HCF of 8 and 15 = ",
+    "solution": "1"
+  },
+  {
+    "problem": "Harmonic mean of 3 numbers 23, 30, 13 = ",
+    "solution": "84.56127628716462"
+  },
+  {
+    "problem": "Harmonic mean of 3 numbers 42, 61, 6 = ",
+    "solution": "29.00377358490566"
+  },
+  {
+    "problem": "The number 0 in Roman Numerals is: ",
+    "solution": "MMCCLVII"
+  },
+  {
+    "problem": "Product of scientific notations 1.42 \\times 10^{-39} and 9.0 \\times 10^{82} = ",
+    "solution": "1.28 \\times 10^{44}"
+  },
+  {
+    "problem": "Given the two sets a={1, 2, 5, 6, 9}, b={8, 1, 3, 5}. Find the Union, intersection, a-b, b-a, and symmetric difference",
+    "solution": "Union is {1, 2, 3, 5, 6, 8, 9}. Intersection is {1, 5}, a-b is {9, 2, 6}, b-a is {8, 3}. Symmetric difference is {2, 3, 6, 8, 9}."
+  },
+  {
+    "problem": "The number 0 in Roman Numerals is: ",
+    "solution": "MCCCX"
+  },
+  {
+    "problem": "HCF of 7 and 3 = ",
+    "solution": "1"
+  },
+  {
+    "problem": "HCF of 5 and 11 = ",
+    "solution": "1"
+  },
+  {
+    "problem": "17.89(8.0\\theta + i-16.0\\theta)",
+    "solution": "-1.11"
+  },
+  {
+    "problem": "The Quotient of 48^{6} and 38^{6} = (48/38)^6 = 1.263157894736842^{6}",
+    "solution": "4.062055422025149"
+  },
+  {
+    "problem": "Is 2062 a leap year?",
+    "solution": "2062 is not a leap year"
+  },
+  {
+    "problem": "Common Factors of 57 and 45 = ",
+    "solution": "[1, 3]"
+  },
+  {
+    "problem": "Find prime factors of 133",
+    "solution": "7, 19"
+  },
+  {
+    "problem": "Geometric mean of 3 numbers [21, 81, 98] = ",
+    "solution": "55.04"
+  },
+  {
+    "problem": "GCD of 15 and 20 = ",
+    "solution": "5"
+  },
+  {
+    "problem": "A manufacturer of metal pistons finds that, on average, 40.59% of the pistons they manufacture are rejected because they are incorrectly sized. What is the probability that a batch of 11 pistons will contain no more than 2 rejected pistons?",
+    "solution": "11.13"
+  },
+  {
+    "problem": "Given the two sets a={8, 3, 6, 7}, b={9, 6, 7}. Find the Union, intersection, a-b, b-a, and symmetric difference",
+    "solution": "Union is {3, 6, 7, 8, 9}. Intersection is {6, 7}, a-b is {8, 3}, b-a is {9}. Symmetric difference is {3, 8, 9}."
+  },
+  {
+    "problem": "Is 2052 a leap year?",
+    "solution": "2052 is a leap year"
+  },
+  {
+    "problem": "Factors of 79 = ",
+    "solution": "[1, 79]"
+  },
+  {
+    "problem": "Convert 129 minutes to hours & minutes",
+    "solution": "2 hours and 9 minutes"
+  },
+  {
+    "problem": "HCF of 18 and 3 = ",
+    "solution": "3"
+  },
+  {
+    "problem": "A manufacturer of metal pistons finds that, on average, 34.25% of the pistons they manufacture are rejected because they are incorrectly sized. What is the probability that a batch of 12 pistons will contain no more than 4 rejected pistons?",
+    "solution": "60.51"
+  },
+  {
+    "problem": "Convert 2200430 from base 5 to base 10.",
+    "solution": "37615"
+  },
+  {
+    "problem": "Is 1949 a leap year?",
+    "solution": "1949 is not a leap year"
+  },
+  {
+    "problem": "Find prime factors of 38",
+    "solution": "2, 19"
+  },
+  {
+    "problem": "Product of scientific notations 1.16 \\times 10^{-72} and 7.0 \\times 10^{-34} = ",
+    "solution": "8.12 \\times 10^{-106}"
+  },
+  {
+    "problem": "Loss percent when CP = 878 and SP = 748 is: ",
+    "solution": "14.81"
+  },
+  {
+    "problem": "GCD of 20 and 12 = ",
+    "solution": "4"
+  },
+  {
+    "problem": "A manufacturer of metal pistons finds that, on average, 40.64% of the pistons they manufacture are rejected because they are incorrectly sized. What is the probability that a batch of 17 pistons will contain no more than 6 rejected pistons?",
+    "solution": "42.64"
+  },
+  {
+    "problem": "For the given GP [12, 72, 432, 2592, 15552, 93312]. Find the value of a common ratio, 10th term value, sum upto 9th term",
+    "solution": "The value of a is 12, common ratio is 6 , 10th term is 120932352, sum upto 9th term is 24186468.0"
+  },
+  {
+    "problem": "The Quotient of 10^{7} and 10^{2} = 10^{7-2} = 10^{5}",
+    "solution": "100000"
+  },
+  {
+    "problem": "20.52(-14.0\\theta + i15.0\\theta)",
+    "solution": "2.32"
+  },
+  {
+    "problem": "7.28(2.0\\theta + i7.0\\theta)",
+    "solution": "1.29"
+  },
+  {
+    "problem": "The number 0 in Roman Numerals is: ",
+    "solution": "MMCCXXIII"
+  },
+  {
+    "problem": "Convert CA96 from base 16 to base 10.",
+    "solution": "51862"
+  },
+  {
+    "problem": "HCF of 6 and 20 = ",
+    "solution": "2"
+  },
+  {
+    "problem": "signum of -755 is =",
+    "solution": "-1"
+  },
+  {
+    "problem": "Given the two sets a={1, 2, 3, 4, 9}, b={8, 1, 5, 6}. Find the Union, intersection, a-b, b-a, and symmetric difference",
+    "solution": "Union is {1, 2, 3, 4, 5, 6, 8, 9}. Intersection is {1}, a-b is {9, 2, 3, 4}, b-a is {8, 5, 6}. Symmetric difference is {2, 3, 4, 5, 6, 8, 9}."
+  },
+  {
+    "problem": "Given the two sets a={1, 4, 9}, b={2, 10, 7}. Find the Union, intersection, a-b, b-a, and symmetric difference",
+    "solution": "Union is {1, 2, 4, 7, 9, 10}. Intersection is set(), a-b is {1, 4, 9}, b-a is {2, 10, 7}. Symmetric difference is {1, 2, 4, 7, 9, 10}."
+  },
+  {
+    "problem": "For the given GP [8, 80, 800, 8000, 80000, 800000]. Find the value of a common ratio, 8th term value, sum upto 11th term",
+    "solution": "The value of a is 8, common ratio is 10 , 8th term is 80000000, sum upto 11th term is 88888888888.0"
+  },
+  {
+    "problem": "Common Factors of 60 and 80 = ",
+    "solution": "[1, 2, 4, 5, 10, 20]"
+  },
+  {
+    "problem": "Fill in the blanks 90^{\\frac{1}{5}} _ 74^{\\frac{1}{4}}",
+    "solution": "<"
+  },
+  {
+    "problem": "Find the sum of first 25 terms of the AP series: 86, 104, 122 ... ",
+    "solution": "7550.0"
+  },
+  {
+    "problem": "Fill in the blanks 98^{\\frac{1}{8}} _ 87^{\\frac{1}{5}}",
+    "solution": "<"
+  },
+  {
+    "problem": "HCF of 2 and 18 = ",
+    "solution": "2"
+  },
+  {
+    "problem": "Common Factors of 27 and 50 = ",
+    "solution": "[1]"
+  },
+  {
+    "problem": "Common Factors of 14 and 27 = ",
+    "solution": "[1]"
+  },
+  {
+    "problem": "Find term number 9 of the AP series: 76, -13, -102 ... ",
+    "solution": "-636"
+  },
+  {
+    "problem": "Common Factors of 20 and 38 = ",
+    "solution": "[1, 2]"
+  },
+  {
+    "problem": "A manufacturer of metal pistons finds that, on average, 39.87% of the pistons they manufacture are rejected because they are incorrectly sized. What is the probability that a batch of 16 pistons will contain no more than 5 rejected pistons?",
+    "solution": "33.27"
+  },
+  {
+    "problem": "15.26(-8.0\\theta + i13.0\\theta)",
+    "solution": "2.12"
+  },
+  {
+    "problem": "The Quotient of 40^{6} and 22^{6} = (40/22)^6 = 1.8181818181818181^{6}",
+    "solution": "36.12633152344175"
+  },
+  {
+    "problem": "GCD of 15 and 14 = ",
+    "solution": "1"
+  },
+  {
+    "problem": "Loss percent when CP = 662 and SP = 270 is: ",
+    "solution": "59.21"
+  },
+  {
+    "problem": "Find the sum of first 7 terms of the AP series: 98, 165, 232 ... ",
+    "solution": "2093.0"
+  },
+  {
+    "problem": "Geometric mean of 3 numbers [85, 24, 67] = ",
+    "solution": "51.51"
+  },
+  {
+    "problem": "A manufacturer of metal pistons finds that, on average, 34.97% of the pistons they manufacture are rejected because they are incorrectly sized. What is the probability that a batch of 20 pistons will contain no more than 7 rejected pistons?",
+    "solution": "60.21"
+  },
+  {
+    "problem": "Find the sum of first 53 terms of the AP series: -22, 44, 110 ... ",
+    "solution": "89782.0"
+  },
+  {
+    "problem": "Euclidian norm or L2 norm of the vector [135.29339095294546, 921.0400362080253, 327.39846820328455, 13.178768889711257, 16.71327383423882, 214.4619732249976, 769.1311988789092, 776.557607027975, 771.2606336336197, 495.8816900793308] is:",
+    "solution": "1748.03"
+  },
+  {
+    "problem": "Find term number 93 of the AP series: 28, -24, -76 ... ",
+    "solution": "-4756"
+  },
+  {
+    "problem": "Product of scientific notations 1.0 \\times 10^{-34} and 8.8 \\times 10^{69} = ",
+    "solution": "8.8 \\times 10^{35}"
+  },
+  {
+    "problem": "Given the two sets a={8, 1, 3, 6}, b={9, 4, 5, 6}. Find the Union, intersection, a-b, b-a, and symmetric difference",
+    "solution": "Union is {1, 3, 4, 5, 6, 8, 9}. Intersection is {6}, a-b is {8, 1, 3}, b-a is {9, 4, 5}. Symmetric difference is {1, 3, 4, 5, 8, 9}."
+  },
+  {
+    "problem": "The Quotient of 42^{7} and 42^{9} = 42^{7-9} = 42^{-2}",
+    "solution": "0.0005668934240362812"
+  },
+  {
+    "problem": "Convert 30 degrees Celsius to degrees Fahrenheit",
+    "solution": "86.0"
+  },
+  {
+    "problem": "The Quotient of 32^{6} and 32^{7} = 32^{6-7} = 32^{-1}",
+    "solution": "0.03125"
+  },
+  {
+    "problem": "Geometric mean of 2 numbers [36, 29] = ",
+    "solution": "32.31"
+  },
+  {
+    "problem": "Product of scientific notations 7.02 \\times 10^{-28} and 7.16 \\times 10^{-93} = ",
+    "solution": "5.03 \\times 10^{-120}"
+  },
+  {
+    "problem": "For the given GP [7, 63, 567, 5103, 45927, 413343]. Find the value of a common ratio, 9th term value, sum upto 9th term",
+    "solution": "The value of a is 7, common ratio is 9 , 9th term is 301327047, sum upto 9th term is 338992927.0"
+  },
+  {
+    "problem": "Fill in the blanks 65^{\\frac{1}{7}} _ 3^{\\frac{1}{8}}",
+    "solution": ">"
+  },
+  {
+    "problem": "Harmonic mean of 3 numbers 86, 55, 41 = ",
+    "solution": "756.4579963847398"
+  },
+  {
+    "problem": "Convert 284 minutes to hours & minutes",
+    "solution": "4 hours and 44 minutes"
+  },
+  {
+    "problem": "Common Factors of 44 and 71 = ",
+    "solution": "[1]"
+  },
+  {
+    "problem": "18.03(-1.0\\theta + i18.0\\theta)",
+    "solution": "1.63"
+  },
+  {
+    "problem": "Find prime factors of 89",
+    "solution": "89"
+  },
+  {
+    "problem": "A manufacturer of metal pistons finds that, on average, 33.15% of the pistons they manufacture are rejected because they are incorrectly sized. What is the probability that a batch of 15 pistons will contain no more than 9 rejected pistons?",
+    "solution": "99.19"
+  },
+  {
+    "problem": "The Quotient of 34^{7} and 43^{7} = (34/43)^7 = 0.7906976744186046^{7}",
+    "solution": "0.19322941107709668"
+  },
+  {
+    "problem": "Find the sum of first 52 terms of the AP series: -75, -40, -5 ... ",
+    "solution": "42510.0"
+  },
+  {
+    "problem": "Harmonic mean of 2 numbers 64, 12 = ",
+    "solution": "121.26315789473685"
+  },
+  {
+    "problem": "HCF of 19 and 10 = ",
+    "solution": "1"
+  },
+  {
+    "problem": "A manufacturer of metal pistons finds that, on average, 33.11% of the pistons they manufacture are rejected because they are incorrectly sized. What is the probability that a batch of 19 pistons will contain no more than 9 rejected pistons?",
+    "solution": "93.79"
+  },
+  {
+    "problem": "Product of scientific notations 3.42 \\times 10^{45} and 9.64 \\times 10^{-55} = ",
+    "solution": "3.3 \\times 10^{-9}"
+  },
+  {
+    "problem": "The number 0 in Roman Numerals is: ",
+    "solution": "CCXV"
+  },
+  {
+    "problem": "The number 0 in Roman Numerals is: ",
+    "solution": "MMMDCCXCII"
+  },
+  {
+    "problem": "Common Factors of 45 and 83 = ",
+    "solution": "[1]"
+  },
+  {
+    "problem": "Find the sum of first 55 terms of the AP series: 15, 28, 41 ... ",
+    "solution": "20130.0"
+  },
+  {
+    "problem": "Given the two sets a={5, 6}, b={3, 6, 7, 9, 10}. Find the Union, intersection, a-b, b-a, and symmetric difference",
+    "solution": "Union is {3, 5, 6, 7, 9, 10}. Intersection is {6}, a-b is {5}, b-a is {9, 10, 3, 7}. Symmetric difference is {3, 5, 7, 9, 10}."
+  },
+  {
+    "problem": "Given the two sets a={2, 10, 4, 7}, b={1, 2, 5, 7, 10}. Find the Union, intersection, a-b, b-a, and symmetric difference",
+    "solution": "Union is {1, 2, 4, 5, 7, 10}. Intersection is {2, 10, 7}, a-b is {4}, b-a is {1, 5}. Symmetric difference is {1, 4, 5}."
+  },
+  {
+    "problem": "Convert 36FC from base 16 to base 10.",
+    "solution": "14076"
+  },
+  {
+    "problem": "Common Factors of 77 and 29 = ",
+    "solution": "[1]"
+  },
+  {
+    "problem": "Given the two sets a={4, 6, 8, 9, 10}, b={1, 3, 4, 8, 9}. Find the Union, intersection, a-b, b-a, and symmetric difference",
+    "solution": "Union is {1, 3, 4, 6, 8, 9, 10}. Intersection is {8, 9, 4}, a-b is {10, 6}, b-a is {1, 3}. Symmetric difference is {1, 3, 6, 10}."
+  },
+  {
+    "problem": "Is 2013 a leap year?",
+    "solution": "2013 is not a leap year"
+  },
+  {
+    "problem": "The number 0 in Roman Numerals is: ",
+    "solution": "MMMDCCCXXIII"
+  },
+  {
+    "problem": "For the given GP [6, 18, 54, 162, 486, 1458]. Find the value of a common ratio, 6th term value, sum upto 6th term",
+    "solution": "The value of a is 6, common ratio is 3 , 6th term is 1458, sum upto 6th term is 2184.0"
+  },
+  {
+    "problem": "Find term number 87 of the AP series: 8, -72, -152 ... ",
+    "solution": "-6872"
+  },
+  {
+    "problem": "The Quotient of 32^{4} and 9^{4} = (32/9)^4 = 3.5555555555555554^{4}",
+    "solution": "159.81953970431334"
+  },
+  {
+    "problem": "Given the two sets a={9, 3}, b={1, 4, 6, 7, 10}. Find the Union, intersection, a-b, b-a, and symmetric difference",
+    "solution": "Union is {1, 3, 4, 6, 7, 9, 10}. Intersection is set(), a-b is {9, 3}, b-a is {1, 4, 6, 7, 10}. Symmetric difference is {1, 3, 4, 6, 7, 9, 10}."
+  },
+  {
+    "problem": "Convert 15378 from base 10 to base 16.",
+    "solution": "3C12"
+  },
+  {
+    "problem": "Find the sum of first 54 terms of the AP series: -90, -61, -32 ... ",
+    "solution": "36639.0"
+  },
+  {
+    "problem": "Common Factors of 52 and 55 = ",
+    "solution": "[1]"
+  },
+  {
+    "problem": "Product of scientific notations 6.29 \\times 10^{88} and 8.62 \\times 10^{42} = ",
+    "solution": "5.42 \\times 10^{131}"
+  },
+  {
+    "problem": "Convert 100011001010111 from base 2 to base 10.",
+    "solution": "18007"
+  },
+  {
+    "problem": "Is 1916 a leap year?",
+    "solution": "1916 is a leap year"
+  },
+  {
+    "problem": "GCD of 11 and 4 = ",
+    "solution": "1"
+  },
+  {
+    "problem": "Factors of 596 = ",
+    "solution": "[1, 2, 4, 149, 298, 596]"
+  },
+  {
+    "problem": "Find the sum of first 79 terms of the AP series: -72, 26, 124 ... ",
+    "solution": "296250.0"
+  },
+  {
+    "problem": "signum of 675 is =",
+    "solution": "1"
+  },
+  {
+    "problem": "Euclidian norm or L2 norm of the vector [794.3476062391197, 112.61424355140981, 76.23942806574723, 417.4274556966978, 843.5111274475921, 265.0221472371097, 698.2378998517715, 908.4125824494917, 180.87227738206624, 282.8852901992037, 392.8252927061222, 698.2687342156015] is:",
+    "solution": "1916.47"
+  },
+  {
+    "problem": "Convert 260 minutes to hours & minutes",
+    "solution": "4 hours and 20 minutes"
+  },
+  {
+    "problem": "Find the sum of first 22 terms of the AP series: 37, 117, 197 ... ",
+    "solution": "19294.0"
+  },
+  {
+    "problem": "Factors of 496 = ",
+    "solution": "[1, 2, 4, 8, 16, 31, 62, 124, 248, 496]"
+  },
+  {
+    "problem": "Convert 22790 from base 12 to base 9.",
+    "solution": "70140"
+  },
+  {
+    "problem": "The Quotient of 44^{9} and 5^{9} = (44/5)^9 = 8.8^{9}",
+    "solution": "316478381.8288663"
+  },
+  {
+    "problem": "GCD of 8 and 20 = ",
+    "solution": "4"
+  },
+  {
+    "problem": "Given the two sets a={9, 4, 6, 7}, b={10, 3, 5, 7}. Find the Union, intersection, a-b, b-a, and symmetric difference",
+    "solution": "Union is {3, 4, 5, 6, 7, 9, 10}. Intersection is {7}, a-b is {9, 4, 6}, b-a is {10, 3, 5}. Symmetric difference is {3, 4, 5, 6, 9, 10}."
+  },
+  {
+    "problem": "A manufacturer of metal pistons finds that, on average, 37.36% of the pistons they manufacture are rejected because they are incorrectly sized. What is the probability that a batch of 16 pistons will contain no more than 9 rejected pistons?",
+    "solution": "96.35"
+  },
+  {
+    "problem": "Factors of 195 = ",
+    "solution": "[1, 3, 5, 13, 15, 39, 65, 195]"
+  },
+  {
+    "problem": "Product of scientific notations 1.16 \\times 10^{-78} and 6.12 \\times 10^{-20} = ",
+    "solution": "7.1 \\times 10^{-98}"
+  },
+  {
+    "problem": "The Quotient of 38^{10} and 38^{10} = 38^{10-10} = 38^{0}",
+    "solution": "1"
+  },
+  {
+    "problem": "Geometric mean of 2 numbers [70, 83] = ",
+    "solution": "76.22"
+  },
+  {
+    "problem": "Fill in the blanks 60^{\\frac{1}{1}} _ 56^{\\frac{1}{5}}",
+    "solution": ">"
+  },
+  {
+    "problem": "The Quotient of 27^{3} and 27^{9} = 27^{3-9} = 27^{-6}",
+    "solution": "2.581174791713197e-09"
+  },
+  {
+    "problem": "signum of -123 is =",
+    "solution": "-1"
+  },
+  {
+    "problem": "Harmonic mean of 2 numbers 39, 85 = ",
+    "solution": "2272.3790322580644"
+  },
+  {
+    "problem": "The Quotient of 8^{4} and 8^{9} = 8^{4-9} = 8^{-5}",
+    "solution": "3.0517578125e-05"
+  },
+  {
+    "problem": "Product of scientific notations 2.85 \\times 10^{-41} and 2.45 \\times 10^{46} = ",
+    "solution": "6.98 \\times 10^{5}"
+  },
+  {
+    "problem": "Convert 537 minutes to hours & minutes",
+    "solution": "8 hours and 57 minutes"
+  },
+  {
+    "problem": "Euclidian norm or L2 norm of the vector [588.905688473794, 764.9816834228047, 836.1319762061584, 300.4517955321392, 601.989466570408, 609.2768227902894, 942.4153404671267, 501.2639863648799] is:",
+    "solution": "1895.89"
+  },
+  {
+    "problem": "Convert 568 minutes to hours & minutes",
+    "solution": "9 hours and 28 minutes"
+  },
+  {
+    "problem": "Harmonic mean of 3 numbers 12, 63, 33 = ",
+    "solution": "254.8077994428969"
+  },
+  {
+    "problem": "Find term number 12 of the AP series: 46, 30, 14 ... ",
+    "solution": "-130"
+  },
+  {
+    "problem": "22.36(-10.0\\theta + i20.0\\theta)",
+    "solution": "2.03"
+  },
+  {
+    "problem": "For the given GP [3, 15, 75, 375, 1875, 9375]. Find the value of a common ratio, 11th term value, sum upto 6th term",
+    "solution": "The value of a is 3, common ratio is 5 , 11th term is 29296875, sum upto 6th term is 11718.0"
+  },
+  {
+    "problem": "Convert 579 minutes to hours & minutes",
+    "solution": "9 hours and 39 minutes"
+  },
+  {
+    "problem": "Convert 62 degrees Celsius to degrees Fahrenheit",
+    "solution": "143.60000000000002"
+  },
+  {
+    "problem": "Factors of 305 = ",
+    "solution": "[1, 5, 61, 305]"
+  },
+  {
+    "problem": "Common Factors of 84 and 21 = ",
+    "solution": "[1, 3, 7, 21]"
+  },
+  {
+    "problem": "Is 2086 a leap year?",
+    "solution": "2086 is not a leap year"
+  },
+  {
+    "problem": "Convert 19376 from base 13 to base 16.",
+    "solution": "BF2A"
+  }
+]
